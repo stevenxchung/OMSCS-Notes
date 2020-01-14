@@ -17,3 +17,14 @@
 - **KLM** - _keystroke-level model_
 
 ## Norman, D. (2013). Chapter 1: The Psychopathology of Everyday Things (pp. 1-36)
+
+- Two of the most important characteristics of good design are _discoverability_ and _understanding_
+- **Industrial design** - the professional service of creating and developing concepts and specifications that optimize the function, value, and appearance of products and systems for the mutual benefit of both user and manufacturer
+- **Interaction design** - the focus is upon how people interact with technology. The goal is to enhance people’s understanding of what can be done, what is happening, and what has just occurred. Interaction design draws upon principles of psychology, design, art, and emotion to ensure a positive, enjoyable experience
+- **Experience design** - the practice of designing products, processes, services, events, and environments with a focus placed on the quality and enjoyment of the total experience
+- Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology
+- **Human-centered design (HCD)** - an approach that puts human needs, capabilities, and behavior first, then designs to accommodate those needs, capabilities, and ways of behaving
+- Discoverability results from five fundamental psychological concepts: _affordances_, _signifiers_, _constraints_, _mappings_, and _feedback_; there is also another more important principle called _conceptual model_ of the system
+- **Affordances** - are the possible interactions between people and the environment; some affordances are perceivable, others are not
+- **Percieved affordances** - often act as signifiers, but they can be ambiguous
+- **Signifiers** - signal things, in particular what actions are possible and how they should be done; signifiers must be perceivable, else they fail to function
