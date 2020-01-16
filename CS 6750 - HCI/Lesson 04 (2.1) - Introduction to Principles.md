@@ -17,7 +17,7 @@ How do should we go about identifying a task?
 4. Abstract up
 5. You are not your user
 
-## Usefulness and Usability
+## Usefulness And Usability
 
 Remember that one of the goals of HCI is to not only make a product that is useful but also useable.
 
