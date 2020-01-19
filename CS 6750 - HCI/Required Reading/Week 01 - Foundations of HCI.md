@@ -4,7 +4,8 @@
 
 ## MacKenzie, I.S. - Chapter 1: Historical Context (pp. 1-26)
 
-- Book focuses mainly on research (what, why, and how)
+Book focuses mainly on research (what, why, and how).
+
 - **User study** - in this book refers to an experiment with human participants
 - HCI emerged in the 1980s, the discipline most central to HCI is _human factors_ or _ergonomics_
 - **Vannevar Bush** - had ideas about storing and accessing information like what we are currently able to do with the internet
@@ -18,7 +19,8 @@
 
 ## Norman, D. - Chapter 1: The Psychopathology of Everyday Things (pp. 1-36)
 
-- Two of the most important characteristics of good design are _discoverability_ and _understanding_
+Two of the most important characteristics of good design are _discoverability_ and _understanding_.
+
 - **Industrial design** - the professional service of creating and developing concepts and specifications that optimize the function, value, and appearance of products and systems for the mutual benefit of both user and manufacturer
 - **Interaction design** - the focus is upon how people interact with technology. The goal is to enhance people’s understanding of what can be done, what is happening, and what has just occurred. Interaction design draws upon principles of psychology, design, art, and emotion to ensure a positive, enjoyable experience
 - **Experience design** - the practice of designing products, processes, services, events, and environments with a focus placed on the quality and enjoyment of the total experience
