@@ -85,3 +85,21 @@ There are many types of qualitative data, below are some examples:
 1. Transcripts
 2. Field notes
 3. Artifacts
+
+## Section Quizzes
+
+### Reflections: HCI Methods
+
+_Have you seen places where software engineers, data scientists, or even non-technical people were put in charge of designing user interfaces? How did it go?_
+
+When I used to work for one of the prime defense contractors one of the objectives was to design a rocket according to some technical specifications. While we did have subject-matter experts on our team who lead the mechanical design of components which did fulfill technical specifications. It was clear from the prototype and 1:1 mock-up models that the rockets were not designed with maintenance engineers in mind (I also do not recall ever seeing any manual on the design life cycle and best practices at our facility). Some of the parts on the rocket that were designed to be maintained were in very hard-to-reach areas and some parts were too heavy to be changed out easily. This resulted in extra cost in labor and tools which were designed to help engineers and technicians maintain the product.
+
+### Exercise: Quantitative Vs. Qualitative
+
+_Mark which of these data are quantitative._
+
+- Responses to: _on a scale of 1 to 5, rate this course's difficulty_
+- Responses to : _how much time did you spend per week on this course?_
+- _Count students mentioning office hours to the above questions_
+- _Percentage of students that completed the survey_
+- _The number of participants in a late-semester office hour session_
