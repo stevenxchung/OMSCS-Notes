@@ -46,15 +46,15 @@ _What was a time you were interacting with an interface but couldn't think of ho
 - Gulf of execution: there is a microwave in my office and it does not have any standard controls as what you would find at home, there are several steps one must follow in order to set the time and heat your food and it usually takes several of tries to get right
 - Gulf of evaluation: when I was driving an older model of the Toyota Prius, the engine sleep/shut-off (mainly at stops) would cause the car to sort of stall in a way that was very inconvenient because it was difficult to get feedback from the car for a brief moment so I would always been unsure if my pedal would register and get the car to move
 
-### Feedback Cycles in David's Car 1
+### Feedback Cycles In David's Car 1
 
 _Why is the start button located here?_ It is where the user expects the button to be.
 
-### Feedback Cycles in David's Car 2
+### Feedback Cycles In David's Car 2
 
 _Is the car on?_ No
 
-### Feedback Cycles in David's Car 3
+### Feedback Cycles In David's Car 3
 
 _What are some ways this feedback cycle could be improved?_
 
