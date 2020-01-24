@@ -41,7 +41,7 @@ User-centered design is about integrating the user into every phase of the desig
 
 Our model of a design life cycle will cover four phases:
 
-1. **Needfinding** - we gather a comprehensive understanding of the task the users are trying to perform
+1. **Need-finding** - we gather a comprehensive understanding of the task the users are trying to perform
 2. **Design alternatives** - developing very early ideas on the different ways to approach the task
 3. **Prototyping** - take the ideas with the most potential and we build them into protoypes that we can then actually put in front of a user
 4. **Evaluation** - we take our ideas that we prototyped and put them in front of actual users, here is where we get user feedback
