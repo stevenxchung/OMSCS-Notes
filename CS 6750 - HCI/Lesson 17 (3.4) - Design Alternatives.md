@@ -72,3 +72,18 @@ The next step in brainstorm is fleshing out ideas, below are some methods on how
 3. **Timelines** - taking our personas and thinking about their thoughts and actions over time and various stages of interacting with our interface (a general approach)
 4. **Scenarios and storyboards** - examining the specific scenarios users will encounter while using our interfaces (a more specific approach)
 5. **User modeling** - where personas are personal and will give us an empathetic view of the UX, user models are more objective and meant to give us measurable and comparable view of the UX
+
+## Section Quizzes
+
+### Exercise: Design Alternatives Pros And Cons
+
+Match the advantage to the method
+
+|                                          | Personas | Scenarios | User profiles | Timelines | User Modeling |
+| ---------------------------------------- | -------- | --------- | ------------- | --------- | ------------- |
+| Includes the task context                |          | x         |
+| Includes the user's context              | x        |           | x             |           |               |
+| Delineates the target audience           |          |           | x             |           |               |
+| Targets general workflows                |          |           |               |           | x             |
+| Captures activity over time              |          | x         |               | x         | x             |
+| Attempts to capture potential edge cases |          | x         |               |           |               |
