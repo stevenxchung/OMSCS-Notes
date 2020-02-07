@@ -2,7 +2,9 @@
 
 > Ten questions on each test will be based on these readings. From the perspective of the test, your emphasis in reading these papers should be in getting a sufficient understanding of the material to answer high-level questions about the paper, as well as to be able to find answers quickly for more specific questions.
 
-## MacKenzie, I.S. (2013) - Chapter 1: Historical Context. (pp. 1-26)
+## Chapter 1: Historical Context
+
+> MacKenzie, I.S. (2013). Chapter 1: Historical Context. Human-Computer Interaction: An Empirical Research Perspective. (pp. 1-26). Waltham, MA: Elsevier.
 
 Book focuses mainly on research (what, why, and how).
 
@@ -17,7 +19,9 @@ Book focuses mainly on research (what, why, and how).
 - **MHP** - _model human processor_
 - **KLM** - _keystroke-level model_
 
-## Norman, D. (2013) - Chapter 1: The Psychopathology of Everyday Things. (pp. 1-36)
+## Chapter 1: The Psychopathology Of Everyday Things
+
+> Norman, D. (2013). Chapter 1: The Psychopathology of Everyday Things. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 1-36). Arizona: Basic Books.
 
 Two of the most important characteristics of good design are _discoverability_ and _understanding_.
 
