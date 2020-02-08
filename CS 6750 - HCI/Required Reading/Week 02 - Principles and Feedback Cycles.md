@@ -2,7 +2,9 @@
 
 > Ten questions on each test will be based on these readings. From the perspective of the test, your emphasis in reading these papers should be in getting a sufficient understanding of the material to answer high-level questions about the paper, as well as to be able to find answers quickly for more specific questions.
 
-## Norman, D. A. (1986) - User-Centered System Design: New Perspectives on Human-Computer Interaction. (pp. 32-61)
+## User-Centered System Design: New Perspectives On Human-Computer Interaction
+
+> Norman, D. A. (1986). Cognitive engineering. In D. A. Norman & S. W. Draper (Eds.) User-Centered System Design: New Perspectives on Human-Computer Interaction. (pp. 32-61). Hillsdale, NJ: Lawrence Erlbaum Associates.
 
 This this section there are two goals:
 
@@ -33,7 +35,9 @@ Some terms from this section:
 - **User's model** - the conceptual model formed by the user
 - **System image** - the image resulting from the physical structure that has been built
 
-## Norman, D. (2013) - Chapter 2: The Psychology of Everyday Actions. (pp. 37-73)
+## Chapter 2: The Psychology Of Everyday Actions
+
+> Norman, D. (2013). Chapter 2: The Psychology of Everyday Actions. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 37-73). Arizona: Basic Books.
 
 This chapter highlights the following:
 
