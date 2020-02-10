@@ -75,3 +75,73 @@ Some terms from this section:
 - **Internal validity** - is the extent to which an effect observed is due to the test conditions
 - **External validity** - is the extent to which experimental results are generalizable to other people and other situations
 - **Ecological validity** - refers to the methodology (using materials, tasks and situations typical of the real world), whereas external validity refers to the outcome (obtaining results that generalize to a broad range of people and situations)
+
+## Survey Research In HCI
+
+> Müller, H., Sedley, A., & Ferrall-Nunge, E. (2014). Survey research in HCI. In J. Olson & W. Kellogg (Eds.) Ways of Knowing in HCI (pp. 229-266). New York: Springer.
+
+Surveys do not allow for observation of the respondents’ context or follow-up questions.
+
+When used appropriately, surveys can help inform application and user research
+strategies and provide insights into users’ attitudes, experiences, intents, demographics, and psychographic characteristics.
+
+Surveys are appropriate for obtaining:
+
+1. Attitudes
+2. Intent
+3. Task success
+4. User experience feedback
+5. User characteristics
+6. Interactions with technology
+7. Awareness
+8. Comparisons
+
+Researchers should avoid using surveys when trying to obtain:
+
+1. Precise behaviors
+2. Underlying motivations
+3. Usability evaluations
+
+Questions to avoid during need-finding:
+
+1. Board questions
+2. Leading questions
+3. Double-barreled questions
+4. Recall questions
+5. Prediction questions
+
+Cognitive pretesting is conducted such that the researcher can identify disconnects between their own assumptions and how respondents will read interpret, and answer questions. The pretest could be as follows:
+
+1. “Read the entire question and describe it in your own words.”
+2. “Select or write an answer while explaining your thought process.”
+3. “Describe any confusing terminology or missing answer choices.”
+
+During the data preparation and cleaning process, research should look out for the following:
+
+1. Duplicate responses
+2. Speeders
+3. Straight-liners and other questionable patterns
+4. Missing data and break-offs
+5. Low inter-item reliability
+6. Outliers
+
+During analysis of open-ended comments, the researcher may prepare descriptive statistics such as a frequency distribution of codes, conduct inferential statistical tests, summarize key themes, prepare necessary charts,and highlight specifics through the use of representative quotes.
+
+Similar to other empirical research, it is important to:
+
+1. Describe the original research goals and the used survey methodology
+2. Include detailed description of the survey methodology (this will explain other variables such as population being studied, etc.)
+3. Discuss how the respondents compare to the overall population
+
+Some terms from this section:
+
+- **Survey** - method of gathering information by asking questions to a subset of people, the results of which can be generalized to the wider target population
+- **Random sampling** - considered the gold standard because every person in the sampling frame has an equal, nonzero chance of being chosen for the sample
+- **Confidence level** - indicates how likely the reported metric falls within the margin of error if the study were repeated
+- **Satisficing** - occurs when respondents use a suboptimal amount of cognitive effort to answer questions
+- **Acquiescence bias** - When presented with agree/disagree, yes/no, or true false statements, some respondents are more likely to concur with the statement independent of its substance
+- **Social desirability** - occurs when respondents answer questions in a manner they feel will be positively perceived by others
+- **Confidence interval** - represents the estimated range of a population’s mean at a certain confidence level
+- **Linear regression** - indicates the proportion of variance in a continuous dependent variable that is explained by one or more independent variables and the amount of change explained by each unit of an independent variable
+- **Coding** - used to organize and transform qualitative data from open-ended questions to enable further quantitative analysis
+- **Bottom-up approach** - teh data is coded according ot categories identified by reading and re-reading responses to the open-ended question. has the benefit of capturing categories the researcher may not have thought of before reading the actual comments
