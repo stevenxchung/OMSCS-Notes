@@ -34,7 +34,7 @@ How do we go about bridging the gap between the effects of user's actions and ac
 1. Give feedback constantly
 2. Give feedback immediately
 3. Match the feedback to the action
-4. Vary you feedback
+4. Vary your feedback
 5. Leverage direct manipulation
 
 ## Section Quizzes
