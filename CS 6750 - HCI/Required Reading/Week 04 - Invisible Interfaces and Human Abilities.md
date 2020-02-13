@@ -94,3 +94,42 @@ Attention is often studied along two themes: divided attention and selected atte
 Attention has relevance in HCI in for example, office environments where interruptions that demand task switching affect productivity (Czerwinski, Horvitz, and Wilhite, 2004).
 
 In HCI experiments testing new interfaces or interaction techniques, errors are an important metric for performance. An error is a discrete event in a task, or trial, where the outcome is incorrect, having deviated from the correct and desired outcome.
+
+## Direct Manipulation Interfaces
+
+> Hutchins, E. L., Hollan, J. D., & Norman, D. A. (1985). Direct manipulation interfaces. Human–Computer Interaction, 1(4), 311-338.
+
+Paper topic: a cognitive account of both the advantages and disadvantages of direct manipulation interfaces.
+
+Two phenomenons that give rise to feeling of directness:
+
+1. Information processing distance between the user’s intentions and the facilities provided by the machine
+2. The relation between the input and output vocabularies of the interface language (direct manipulation requires that the system provide representations of objects that behave as if they are the objects themselves)
+
+Direct manipulation as coined by Shneiderman (1974, 1982, 1983):
+
+1. Continuous representation of the object of interest
+2. Physical actions or labeled button presses instead of complex syntax
+3. Rapid incremental reversible operations whose impact on the object of interest is immediately visible (Shneiderman, 1982, p. 251)
+
+Virtues of direct manipulation systems:
+
+1. Novices can learn basic functionality quickly, usually through a demonstration by a more experienced user
+2. Experts can work extremely rapidly to carry out a wide range of tasks, even defining new functions and features
+3. Knowledgeable intermittent users can retain operational concepts
+4. Error messages are rarely needed
+5. Users can see immediately if their actions are furthering their goals, if not, they can simply change the direction of their activity
+
+Two aspects of directness:
+
+1. **Distance** - used to describe factors which underlie the generation of the feeling of directness
+2. **Engagement** - the feeling that one is directly manipulating the objects of interest
+
+The goal of gulf of execution and gulf of evaluation is to minimize cognitive effort.
+
+Two aspects of distance:
+
+1. **Semantic distance** - the relation of the meaning of an expression in the interface language to what the user wants to say (e.g., low-code vs higher-code)
+2. **Articulatory distance** - the relationship between the meanings of expressions and their physical form (e.g., a graph in excel vs an interactive graph which changes based on input in Mathematica)
+
+> A direct manipulation interface amplifies our knowledge of the domain and allows us to think in the familiar terms of the application domain rather than in those of the medium of computation. But if we restrict ourselves to only building an interface that allows us to do things we can already do and to think in ways we already think, we will miss the most exciting potential of new technology: to provide new ways to think of and to interact with a domain.
