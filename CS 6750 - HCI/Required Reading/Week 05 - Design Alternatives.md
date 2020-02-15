@@ -35,3 +35,44 @@ Model for group ideation:
 4. Committing
 
 - **Cheatstorming** - no new ideas are necessary for further ideation to occur
+
+## Chapter 6: The Process Of Interaction Design
+
+> Rogers, Y., Sharp, H., & Preece, J. (2011). Chapter 6: The Process of Interaction Design. In Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
+
+Topic: how to design and build interactive products.
+
+Main points:
+
+1. Consider what _doing_ design involves
+2. Ask and provide answers for important questions about the interaction design process
+3. Introduce the idea of a life cycle model to represent a set of activities and how they are related
+4. Describe some life cycle models from software engineering and HCI and discuss how they relate to the process of interaction design
+5. Present a life cycle model of interaction design
+
+### What Is Interaction Design About
+
+Interaction design is about allowing users' concerns to direct the development vs technical concerns.
+
+### Four Basic Activities Of Interaction Design
+
+Below are four basic activities of interaction design:
+
+1. Identifying needs and establishing requirements
+2. Developing alternative designs that meet those requirements
+3. Building interactive versions so that they can be communicated and assessed
+4. Evaluating them
+
+### Key Characteristics Of The Interaction Design Process
+
+1. Focus on users
+2. Specific usability and user experience goals
+3. Iteration
+
+### How Do You Generate Alternative Designs
+
+Looking at others' designs provides useful inspiration and encourages designers to consider alternative design solutions, which is key to effective design.
+
+### Life Cycle Models: Showing How The Activities Are Related
+
+The term _life cycle model_ is used to represent a model that captures a set of activities and how they are related.
