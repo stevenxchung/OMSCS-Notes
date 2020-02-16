@@ -76,3 +76,25 @@ Looking at others' designs provides useful inspiration and encourages designers 
 ### Life Cycle Models: Showing How The Activities Are Related
 
 The term _life cycle model_ is used to represent a model that captures a set of activities and how they are related.
+
+## Observations On Concept Generation And Sketching In Engineering Design
+
+> Yang, M. C. (2009). Observations on concept generation and sketching in engineering design. Research in Engineering Design, 20(1), 1-11.
+
+Topic: concept generation examined via brainstorming, morphology charts and sketching. Correlations were found between the quantity of morphological alternatives and design outcome. The volume of dimensioned drawings generated during the early-to-middle phases of design were found to correlate with design outcome, suggesting the importance of concrete sketching, timing and milestones in the design process.
+
+Exploring three hypotheses:
+
+1. The quantity of concepts generated at the beginning of a design project correlates with design outcome
+2. The quantity of sketches generated during a project correlates with its design outcome
+3. Increased sketching at the beginning of the project, rather than at the end, correlates with better design outcome
+
+Method: taking sample data from various courses (three courses with data taken from multiple years as well) and comparing concept generation techniques versus results of the course project for each of the courses. Morphology charts were created in all three courses. Paper-based design logbooks were kept by each student over the life of the project.
+
+Results: A total of 4,008 sketches were counted in the logbooks. 61.4% included dimensions and the remaining 38.6% did not.
+
+1. Results vs hypothesis 1: hypothesis holds true for shorter duration projects but not for longer duration projects
+2. Results vs hypothesis 2: no statistically significant correlations were found between the total quantity of either dimensioned or total sketches of any type and final grade or contest ranking for the three courses
+3. Results vs hypothesis 3: the proposed hypothesis is shown to be true. In addition, the role of milestones in planning design work may be important, and falling behind in design is linked to poorer outcomes
+
+Conclusion: Concept generation measured in the form of morphology charts showed a statistically significant correlation with both project and final term grade in the introductory course. However, morphology charts in the advanced courses did not show a statistically significant correlation.
