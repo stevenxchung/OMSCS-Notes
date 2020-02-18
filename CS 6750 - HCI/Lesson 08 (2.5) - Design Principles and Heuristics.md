@@ -48,3 +48,25 @@ How do we deal with constraints? There are two ways:
 One last heuristic regarding user error:
 
 - **Documentation** - even though it's better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large
+
+## Section Quizzes
+
+### Design Challenge: Discovering Gestures
+
+_How would you make these gesture commands more discoverable?_
+
+I would have a side tab where when the user touches the feature on their phone they have an option of choosing which functions they would like to be easily accessible. I currently have this feature on my phone and it does not take up a lot of screen real estate.
+
+### Design Challenge: Mapping And Switches
+
+_How would you redesign light switches to create not only affordances but also mappings?_
+
+I would first make the interface a touch interface where each individual light switch for each room is represented by the default _off_ state (a button represented digitally where it is set to off by default). Then when a user touches one of the buttons on the screen, the display would indicate light in which room is turned on.
+
+### Reflections: Constraints
+
+_Can you think of any times you've encountered interfaces that had constraints in them?_
+
+1. When authenticating to BuzzPort, I have to use the Duo Mobile app
+2. There is only one bottle cap that fits my water bottle
+3. Apple's USB-C chargers not being compatible with my older Android Phone
