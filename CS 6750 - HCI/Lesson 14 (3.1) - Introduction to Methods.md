@@ -19,7 +19,7 @@ There are six principles of user-centered design:
 
 1. The design is based upon an explicit understanding of users, tasks, and environments
 2. Users are involved throughout design and development
-3. The design is drive and refined by user-centered evaluation
+3. The design is driven and refined by user-centered evaluation
 4. The process is iterative
 5. The design addresses the whole user experience
 6. The design team includes multidisciplinary skills and perspectives
