@@ -38,7 +38,7 @@ During the design alternative phase we want to generate many ideas. Researchers 
 - **Social loafing** - the tendency to exert less effort working in groups than working alone
 - **Conformity** - the tendency to agree with or follow the group's reasoning and ideas
 - **Production blocking** - the tendency of some individuals in discussions to block other individual's participation
-- **Performance matching** - the tendency to pacy one's level of performance to other collaborators
+- **Performance matching** - the tendency to match one's level of performance to other collaborators
 - **Power dynamics** - the tendency to defer to more senior individuals, or to overpower less senior individuals
 
 ## Rules For Group Brainstorming
