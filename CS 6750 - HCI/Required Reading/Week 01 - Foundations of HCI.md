@@ -6,7 +6,7 @@
 
 > MacKenzie, I.S. (2013). Chapter 1: Historical Context. Human-Computer Interaction: An Empirical Research Perspective. (pp. 1-26). Waltham, MA: Elsevier.
 
-Book focuses mainly on research (what, why, and how).
+Topic: historical context for HCI.
 
 - **User study** - in this book refers to an experiment with human participants
 - HCI emerged in the 1980s, the discipline most central to HCI is _human factors_ or _ergonomics_
@@ -22,6 +22,8 @@ Book focuses mainly on research (what, why, and how).
 ## Chapter 1: The Psychopathology Of Everyday Things
 
 > Norman, D. (2013). Chapter 1: The Psychopathology of Everyday Things. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 1-36). Arizona: Basic Books.
+
+Topic: psychopathology of everyday things.
 
 Two of the most important characteristics of good design are _discoverability_ and _understanding_.
 
