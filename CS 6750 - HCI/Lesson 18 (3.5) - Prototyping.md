@@ -82,3 +82,18 @@ We do not just move to the evaluation stage after we are done with prototyping, 
 ## Multi-Level Prototyping
 
 All prototypes do not have to be at the same level at the same time. Instead, prototyping can and should exist at multiple levels of fidelity.
+
+## Section Quizzes
+
+### Exercise: Prototyping Pros And Cons
+
+Match the advantage to the method.
+
+|                                      | Verbal prototypes | Paper Prototypes | Card Prototypes | Wizard of Oz | Wire framing | Physical Prototypes |
+| ------------------------------------ | ----------------- | ---------------- | --------------- | ------------ | ------------ | ------------------- |
+| Revisable during interaction         | x                 | x                | x               | x            |
+| Disguises superficial details        | x                 | x                | x               | x            |
+| Simulates user interaction           |                   |                  | x               | x            | x            | x                   |
+| Easily distributable to remote users |                   |                  |                 |              | x            |                     |
+| supports prototyping look and feel   |                   |                  |                 |              | x            | x                   |
+| Allows mobility during evaluation    |                   |                  |                 | x            |              | x                   |
