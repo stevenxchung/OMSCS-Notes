@@ -6,7 +6,7 @@
 
 > Norman, D. A. (1986). Cognitive engineering. In D. A. Norman & S. W. Draper (Eds.) User-Centered System Design: New Perspectives on Human-Computer Interaction. (pp. 32-61). Hillsdale, NJ: Lawrence Erlbaum Associates.
 
-This this section there are two goals:
+Topic:
 
 1. To understand the fundamental principles behind human action and performance that are relevant for the development of engineering principles of design
 2. To devise systems that are pleasant to use
@@ -39,13 +39,13 @@ Some terms from this section:
 
 > Norman, D. (2013). Chapter 2: The Psychology of Everyday Actions. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 37-73). Arizona: Basic Books.
 
-This chapter highlights the following:
+Topic: psychology of everyday actions.
 
 1. How do people select and then evaluate their actions?
-2. Role of understanding and emotions: please when things work smoothly and frustration when things do not work
+2. Role of understanding and emotions: pleasure when things work smoothly and frustration when things do not work
 3. How do the lessons in the chapter translate into principles of design?
 
-We bridge the Gulf of Execution through the use of signifiers, constraints, mappings, and a conceptual model. We bridge the Gulf of Evaluation through the use of feedback and a conceptual model
+We bridge the Gulf of Execution through the use of signifiers, constraints, mappings, and a conceptual model. We bridge the Gulf of Evaluation through the use of feedback and a conceptual model.
 
 Seven stages of action:
 
