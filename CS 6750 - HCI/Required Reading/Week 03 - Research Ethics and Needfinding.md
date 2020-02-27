@@ -6,7 +6,9 @@
 
 > MacKenzie, I.S. (2013). Chapter 4: Scientific Foundations. Human-Computer Interaction: An Empirical Research Perspective. (pp. 121-152). Waltham, MA: Elsevier.
 
-What is research? There are three different definitions:
+Topic: what is research?
+
+There are three different definitions:
 
 1. An exercise as simple as careful or diligent search
 2. Collecting information about a particular subject
@@ -40,7 +42,7 @@ Three common research methods in HCI which are empirical:
 
 1. Observational method:
    - Encompasses a collection of common techniques used in HCI research; this qualitative approach tends to achieve relevance while sacrificing precision, in HCI, this is the why or how of the interaction, as opposed to the what, where, or when
-   - Includes interviews, field investigations, contextual inquiries, case studies, field studies, focus groups, think aloud protocols, storytelling, walkthroughs, cultural probes, etc.
+   - Includes interviews, field investigations, contextual inquiries, case studies, field studies, focus groups, think aloud protocols, storytelling, walk-through, cultural probes, etc.
 2. Experimental method:
    - The scientific method, is where knowledge is acquired through controlled experiments conducted in laboratory settings
    - The relationship between the independent variable and the dependent variable is one of cause and effect; cause-and-effect conclusions are not possible in research using the observational method or the correlational method
@@ -80,7 +82,7 @@ Some terms from this section:
 
 > Müller, H., Sedley, A., & Ferrall-Nunge, E. (2014). Survey research in HCI. In J. Olson & W. Kellogg (Eds.) Ways of Knowing in HCI (pp. 229-266). New York: Springer.
 
-Surveys do not allow for observation of the respondents’ context or follow-up questions.
+Topic: surveys do not allow for observation of the respondents’ context or follow-up questions. When conducting research into precise behaviors, underlying motivations, and the usability of systems, then other research methods may be more appropriate or needed as a complement.
 
 When used appropriately, surveys can help inform application and user research
 strategies and provide insights into users’ attitudes, experiences, intents, demographics, and psychographic characteristics.
