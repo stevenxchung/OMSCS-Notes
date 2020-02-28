@@ -6,6 +6,8 @@
 
 > MacKenzie, I.S. (2013). Chapter 2: The Human Factor. Human-Computer Interaction: An Empirical Research Perspective. (pp. 27-66). Waltham, MA: Elsevier.
 
+Topic: human factors.
+
 MacKenzie on human factors:
 
 > The deepest challenges in human-computer interaction (HCI) lie in the human factor. Humans are complicated. Computers, by comparison, are simple. Computers are designed and built and they function in rather strict terms according to their programmed capabilities. There is no parallel with humans. Human scientists (including those in HCI) confront something computer scientists rarely think about: variability.
@@ -99,7 +101,7 @@ In HCI experiments testing new interfaces or interaction techniques, errors are 
 
 > Hutchins, E. L., Hollan, J. D., & Norman, D. A. (1985). Direct manipulation interfaces. Human–Computer Interaction, 1(4), 311-338.
 
-Paper topic: a cognitive account of both the advantages and disadvantages of direct manipulation interfaces.
+Topic: a cognitive account of both the advantages and disadvantages of direct manipulation interfaces.
 
 Two phenomenons that give rise to feeling of directness:
 
