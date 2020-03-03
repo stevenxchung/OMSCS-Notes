@@ -50,7 +50,7 @@ Our model of a design life cycle will cover four phases:
 
 Shown below is the design life cycle with methods in between each phase.
 
-![Methods for the Design Life Cycle](./lesson-14-methods-design-life-cycle.jpg)
+![Methods for the Design Life Cycle](./lesson-14-methods-design-life-cycle.JPG)
 
 ## Qualitative Vs Quantitative Data
 
