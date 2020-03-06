@@ -38,3 +38,14 @@ Key design principles for errors:
 - Design for both expert and novice users
 - Use the power of constraints, forcing functions, and natural mappings
 - Bridge the two gulfs (execution and evaluation) by making options available and status readable and accurate
+
+## A “Pile” Metaphor For Supporting Casual Organization Of Information
+
+> Mander, R., Salomon, G., & Wong, Y. Y. (1992, June). A “pile” metaphor for supporting casual organization of information. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 627-634). ACM.
+
+Topic: investigation on how people deal with flow of information in their workspaces reveals that users organize their documents in piles thus leading into the desktop interface element - the pile (as seen on a Mac OS).
+
+- **User-created piles** - allow users to create piles of mixed content and multiple data types
+- **System-created piles** - system can create piles for a user \
+- **Document-centered model** - piles represented as a collection of individual items
+- **Pile-centered model** - pile acts more like a folder with a single entity containing a collection of documents
