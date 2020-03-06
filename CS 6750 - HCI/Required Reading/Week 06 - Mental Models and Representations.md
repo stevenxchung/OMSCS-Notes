@@ -21,3 +21,20 @@ Topic: the big errors are the easy ones—they get fixed. It is the small errors
 At the end of the day, however, human performance is what counts. Physical properties, although instructive and essential, are secondary.
 
 Another reason little errors tend to linger is that they are often deemed _user errors_, not design, programming, or system errors. These errors, like most, are more correctly called _design-induced errors_.
+
+## Chapter 5: Human Error? No, Bad Design
+
+> Norman, D. (2013). Chapter 5: Human Error? No, Bad Design. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 162-216). Arizona: Basic Books.
+
+Topic: we should treat all failures in the same way: find the fundamental causes and redesign the system so that these can no longer lead to problems.
+
+- **Root cause analysis** - investigate the accident until the single, underlying cause is found
+
+- **Slip** - occurs when a person intends to do one action and ends up doing something else; there are two types: _action-based_ nad _memory-lapse_
+- **Mistake** - occurs when the wrong goal is established or the wrong plan is formed; there are three types: _rule-based_, _knowledge-based_, and _memory-lapse_
+
+Key design principles for errors:
+
+- Design for both expert and novice users
+- Use the power of constraints, forcing functions, and natural mappings
+- Bridge the two gulfs (execution and evaluation) by making options available and status readable and accurate
