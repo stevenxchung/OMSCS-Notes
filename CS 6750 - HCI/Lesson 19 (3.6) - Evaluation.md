@@ -159,3 +159,18 @@ The most common type of predictive evaluation is actually cognitive walk-through
 ## Evaluating Prototypes
 
 Our goal is to constantly apply multiple evaluation techniques to center our designs on the user.
+
+## Section Quizzes
+
+### Exercise: Evaluation Pros And Cons
+
+Match the advantage to the method.
+
+|                                                | Qualitative | Empirical | Predictive |
+| ---------------------------------------------- | ----------- | --------- | ---------- |
+| Does not required any actual users             |             |           | x          |
+| Identifies provable advantages                 |             | x         |            |
+| Informs ongoing design decisions               | x           |           | x          |
+| Investigates the participant's thought process | x           |           | x          |
+| Provides generalizable conclusions             |             | x         |            |
+| Draws conclusions from actual participants     | x           | x         |            |
