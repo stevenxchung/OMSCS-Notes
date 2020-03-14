@@ -27,3 +27,15 @@ There are tradeoffs between random and control variables:
 
 - Within-subjects is also called _repeated measures_, because the measurements on each test condition are repeated for each participant
 - For a between-subjects design, a separate group of participants is used for each test condition
+
+## Heuristic Evaluation of User Interfaces
+
+> Nielsen, J., & Molich, R. (1990, March). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 249-256). ACM.
+
+Topic: individual evaluators could only identify about 20-50% of usability problems. Aggregated evaluations from several evaluators seem to do better.
+
+> Heuristic evaluation is done by looking at an interface and trying to come up with an opinion about what is good and bad about the interface.
+
+A key trend could be seen in Figure 4 from the paper - diminishing returns appears to happen at around ten aggregated evaluators.
+
+> The number of usability results found by aggregates of evaluators grows rapidly in the interval from one to five evaluators but reaches the point of diminishing returns around the point of ten evaluators.
