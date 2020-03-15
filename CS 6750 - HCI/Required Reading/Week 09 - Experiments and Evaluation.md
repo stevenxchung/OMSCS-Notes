@@ -28,7 +28,7 @@ There are tradeoffs between random and control variables:
 - Within-subjects is also called _repeated measures_, because the measurements on each test condition are repeated for each participant
 - For a between-subjects design, a separate group of participants is used for each test condition
 
-## Heuristic Evaluation of User Interfaces
+## Heuristic Evaluation Of User Interfaces
 
 > Nielsen, J., & Molich, R. (1990, March). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 249-256). ACM.
 
