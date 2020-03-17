@@ -46,3 +46,17 @@ One of the challenges of value-sensitive design is that values are different acr
 ## Reversing The Relationship
 
 Technology changes society but society could also change technology too (e.g., demand for single platform to link to others for TV subscriptions).
+
+## Section Quizzes
+
+### Design Challenge: Change By Design
+
+_Design an app for Morgan that would encourage her to get up and move more frequently without explicitly telling her to do so._
+
+One such app could be a social media app where users in the same city share pictures of the city. This application could encourage Morgan to go out and take pictures of the things around her.
+
+## Reflections: Interfaces And Politics
+
+_Think of an instance where some technology you use was designed with political motivation in mind._
+
+When using Piazza, there is clearly a push to use their job search tool since they always push it on the landing page.
