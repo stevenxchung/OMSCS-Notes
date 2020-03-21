@@ -150,11 +150,11 @@ Predictive evaluation should only be used where we wouldn't otherwise be doing a
 - **Model-based evaluation** - tracing through models in the context of the interface we designed (e.g., GOMS model)
 - **Simulation-based evaluation** - where we might construct an AI agent that interacts with our interface in the way a human would
 
-## Cognitive Walk-through
+## Cognitive Walkthrough
 
-The most common type of predictive evaluation is actually cognitive walk-through:
+The most common type of predictive evaluation is actually cognitive walkthrough:
 
-- **Cognitive walk-through** - stepping through the process of interacting with an interface, mentally simulating in each stage what the user is seeing and thinking and doing
+- **Cognitive walkthrough** - stepping through the process of interacting with an interface, mentally simulating in each stage what the user is seeing and thinking and doing
 
 ## Evaluating Prototypes
 
