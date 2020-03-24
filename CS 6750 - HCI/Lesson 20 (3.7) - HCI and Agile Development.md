@@ -23,10 +23,19 @@ We can make the decision to go agile by considering the following:
 
 Agile development techniques don't replace the design life cycle, they just change the rate at which we go through it and the types of prototypes and evaluation that we actually do. We're still going to do the initial need-finding step.
 
-## 5 Tips: Mitigating Risk In Hci And Agile Development
+## 5 Tips: Mitigating Risk In HCI And Agile Development
 
 1. Start more traditional
 2. Focus on small changes
 3. Adopt a parallel track method
 4. Be careful with consistency
 5. Nest your design cycles
+
+## Section Quizzes
+
+### Exercise: When To Go Agile
+
+_Which of the following applications would lend itself to an agile development process?_
+
+- A smartwatch game to play in short five-minute sessions
+- A mobile app for aggregating newsfeeds across networks
