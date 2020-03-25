@@ -42,7 +42,7 @@ Three common research methods in HCI which are empirical:
 
 1. Observational method:
    - Encompasses a collection of common techniques used in HCI research; this qualitative approach tends to achieve relevance while sacrificing precision, in HCI, this is the why or how of the interaction, as opposed to the what, where, or when
-   - Includes interviews, field investigations, contextual inquiries, case studies, field studies, focus groups, think aloud protocols, storytelling, walk-through, cultural probes, etc.
+   - Includes interviews, field investigations, contextual inquiries, case studies, field studies, focus groups, think aloud protocols, storytelling, walkthrough, cultural probes, etc.
 2. Experimental method:
    - The scientific method, is where knowledge is acquired through controlled experiments conducted in laboratory settings
    - The relationship between the independent variable and the dependent variable is one of cause and effect; cause-and-effect conclusions are not possible in research using the observational method or the correlational method
