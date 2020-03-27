@@ -61,3 +61,21 @@ Evaluations can be done four basic ways: automatically, empirically, formally, a
 In HCI research, design and evaluation are typically treated as separate activities. In addition, students are typically taught these skills separately and industry typically hires people to be either designers or evaluators.
 
 > Overall, the HCI community sees seven clusters of authors with seven corresponding viewpoints within the topic of usability... Topics do not split between design and evaluation, but rather split according to philosophies of how systems should be designed and evaluated
+
+## Towards A Framework For Integrating Agile Development And User-Centered Design
+
+> Chamberlain, S., Sharp, H., & Maiden, N. (2006). Towards a framework for integrating agile development and user-centered design. In Proceedings of the 4 International Conference on Extreme Programming and Agile Processes in Software Engineering. (pp. 143-153). Springer.
+
+Topic: integration between UCD (user-centred design) and agile development. Additionally, authors will highlight five principles for integrating UCD and agile development
+
+Three project teams in one organisation were observed for around 2-4 hours per week on site by one individual for a period of 6 months. The organisation hosting these projects was a large media company with a tradition of employing a user-centred approach to development.
+
+> A fundamental problem of communication exists between the developers and designers within each team and the subject of power within the project is a tricky one. Designers within a project defend their discipline in response to decisions made by the developers, and vice versa.
+
+### Five Principles For Integrating UCD And Agile Development
+
+1. **User involvement** - user should be supported by each member
+2. **Collaboration and culture** - more effective communication between developers and designers
+3. **Prototyping** - designers must provide prototypes and user feedback to developers
+4. **Project life-cycle** - basic customer needs to be explored before code release
+5. **Project management** - agile and UCD must work well with project management framework
