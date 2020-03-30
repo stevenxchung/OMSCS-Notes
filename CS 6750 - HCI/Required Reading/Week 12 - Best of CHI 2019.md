@@ -23,3 +23,19 @@ Assumptions:
 1. We focus on meaning as a moment-to-moment experience
 2. The framework conceptualizes meaning as a chiefly subjective experience
 3. Despite its vast and seemingly abstract nature, the experience of meaning is not ineffable
+
+## Touchstone2: An Interactive Environment For Exploring Trade-Offs In HCI Experiment Design
+
+> Eiselmayer, A., Wacharamanotham, C., Beaudouin-Lafon, M., & Mackay, W. (2019). Touchstone2: An Interactive Environment for Exploring Trade-offs in HCI Experiment Design. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: a direct-manipulation interface that is able to generate and examine trade-offs.
+
+Interviewed participants highlighted the following problems in designs:
+
+1. Time constraints
+2. Weighing design alternatives
+3. Counterbalancing problems
+4. Representing experiment designs
+5. Power analysis to select sample size
+
+> Primary goal is to improve the quality and reproducibility of HCI experiments by offering researchers a tool for specifying and comparing alternative experiment designs.
