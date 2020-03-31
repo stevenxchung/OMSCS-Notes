@@ -39,3 +39,19 @@ Interviewed participants highlighted the following problems in designs:
 5. Power analysis to select sample size
 
 > Primary goal is to improve the quality and reproducibility of HCI experiments by offering researchers a tool for specifying and comparing alternative experiment designs.
+
+## Online Grocery Delivery Services: An Opportunity To Address Food Disparities In Transportation-Scarce Areas
+
+> Dillahunt, T., Simioni, S., & Xu, X. (2019). Online Grocery Delivery Services: An Opportunity to Address Food Disparities in Transportation-scarce Areas. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: online grocery delivery services to serve low-resource areas.
+
+Main research questions:
+
+1. Does the online grocery-delivery model serve as a feasible model to provide healthy-food access to low-income and transportation-scarce individuals?
+2. Does an online grocery-delivery service lead to healthier-food choices?
+3. What opportunities exist for online grocery delivery service design to support healthy choices among individuals living in low-income and transportation scarce environments?
+
+Researchers used structural coding to quickly access relevant data from their data set.
+
+> We found that the service not only provided participants with access to healthy food but that our Shipt group purchased a higher percentage of healthy grocery items overall
