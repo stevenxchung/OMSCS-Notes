@@ -55,3 +55,14 @@ Main research questions:
 Researchers used structural coding to quickly access relevant data from their data set.
 
 > We found that the service not only provided participants with access to healthy food but that our Shipt group purchased a higher percentage of healthy grocery items overall
+
+## “They Don’t Leave Us Alone Anywhere We Go”: Gender And Digital Abuse In South Asia
+
+> Sambasivan, N., Batool, A., Ahmed, N., Matthews, T., Thomas, K., Gaytán-Lugo, L., Nemer, D., Bursztein, E., Churchill, E., & Consolvo, S. (2019). “They Don’t Leave Us Alone Anywhere We Go”: Gender and Digital Abuse in South Asia. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: focuses on online abuses, specifically cyberstalking, impersonation, and personal content leaks.
+
+- About 72% of research participants reported that they faced online abuse - - Abuse tends to occur more for participants who were younger and from disadvantaged communities
+- Consequences of online abuse vary widely from threats to murder and there were many examples given in the paper
+- Victims of online abuse typically create their own coping mechanism (e.g., limiting social media, seeking help from family, etc.) rather than seeking support from law enforcement (law enforcement in Asia are inconsistent and not transparent)
+- There are opportunities to help these victims however. Some of the solutions are to create more consistent social platforms which are flexible enough for victims to use. This could mean more privacy and content options along with options for reporting abuse
