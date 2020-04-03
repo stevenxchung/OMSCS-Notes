@@ -66,3 +66,23 @@ Topic: focuses on online abuses, specifically cyberstalking, impersonation, and 
 - Consequences of online abuse vary widely from threats to murder and there were many examples given in the paper
 - Victims of online abuse typically create their own coping mechanism (e.g., limiting social media, seeking help from family, etc.) rather than seeking support from law enforcement (law enforcement in Asia are inconsistent and not transparent)
 - There are opportunities to help these victims however. Some of the solutions are to create more consistent social platforms which are flexible enough for victims to use. This could mean more privacy and content options along with options for reporting abuse
+
+## Risk Vs. Restriction: The Tension Between Providing A Sense Of Normalcy And Keeping Foster Teens Safe Online
+
+> Badillo-Urquiola, K., Page, X., & Wisniewski, P. (2019). Risk vs. Restriction: The Tension between Providing a Sense of Normalcy and Keeping Foster Teens Safe Online. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: keeping foster teens safe online while enabling them to use the internet.
+
+Research questions:
+
+1. According to parents, what types of risks do foster youth encounter online?
+2. How do foster parents attempt to mediate these online risks? Are these strategies effective?
+3. What are the unique challenges associated with parental mediation of technology use in the home for foster families?
+
+Researchers found 53% of foster teens in sample were considered high-risk.
+
+Researchers propose several approaches for addressing challenges:
+
+1. Training and educational programs to teach foster parents about the latest technology trends and about effective digital parenting practices
+2. New policies that give foster parents more authority to use an array of possibilities to mediate technology use in the home
+3. Design parental control software that is uniquely tailored to foster families
