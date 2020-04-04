@@ -86,3 +86,19 @@ Researchers propose several approaches for addressing challenges:
 1. Training and educational programs to teach foster parents about the latest technology trends and about effective digital parenting practices
 2. New policies that give foster parents more authority to use an array of possibilities to mediate technology use in the home
 3. Design parental control software that is uniquely tailored to foster families
+
+## ‘Think Secure From The Beginning’: A Survey With Software Developers
+
+> Assal, H. & Chiasson, S. (2019). ‘Think secure from the beginning’: A Survey with Software Developers. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: real issues of security appear to steam from a lack of organizational or process support to handle security throughout development tasks.
+
+Research questions:
+
+1. How does security fit in the development life-cycle in real life?
+2. What are the current motivators and deterrents to developers paying attention to security?
+3. Does the development methodology, company size, or adopting Test-Driven Development (TDD) influence software security?
+
+Use of TDD was found to be most influential to influence software security.
+
+> Dealing with competing priorities, and the lack of security plans, procedures, knowledge, or resources are the main causes for deferring security.
