@@ -102,3 +102,19 @@ Research questions:
 Use of TDD was found to be most influential to influence software security.
 
 > Dealing with competing priorities, and the lack of security plans, procedures, knowledge, or resources are the main causes for deferring security.
+
+## Anchored Audio Sampling: A Seamless Method For Exploring Children’s Thoughts During Deployment Studies
+
+> Hiniker, A., Froehlich, J., Zhang, M., & Beneteau, E. (2019). Anchored Audio Sampling: A Seamless Method for Exploring Children’s Thoughts During Deployment Studies. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: remote data collection technique for extracting audio samples during field deployments with children to address limited value of surveys and interviews in this type of work.
+
+> The data that is collected during an AAS (Anchored Audio Sampling) study is defined by Anchor events, occurrences that the researcher has selected as triggers for audio recording
+
+Anchor events might refer to any number of user behaviors, activities, or states.
+
+Three core contributions of AAS:
+
+1. AAS allows researchers to collect qualitative data without requiring self-report from users, reducing the participation burden and potentially reducing the extent to which participants alter their behaviors
+2. AAS reproduces the real-time, event-based sampling that characterizes context-aware ESM (Experience Sampling Method)
+3. Retroactive data capture that is not typically part of ESM procedures
