@@ -7,3 +7,9 @@
 > Liu, Z., Nersessian, N., & Stasko, J. (2008). Distributed cognition as a theoretical framework for information visualization. IEEE Transactions on Visualization and Computer Graphics, 14(6). (pp. 1173-1180).
 
 Topic: authors argue that cognition is more of a property of interaction than a property of the human mind and that reductionist approaches to examine human minds are not as informative for information visualization design.
+
+## The Aware Home: A Living Laboratory For Ubiquitous Computing Research
+
+> Kidd, C., Orr, R., Abowd, G., Atkeson, C., Essa, I., MacIntyre, B., Mynatt, E., Starner, T. & Newstetter, W. (1999). The aware home: A living laboratory for ubiquitous computing research. In N. Streitz, S. Konomi, & H. Burkhardt (Eds.) Cooperative Buildings: Integrating Information, Organizations, and Architecture (pp. 191-198).
+
+Topic: ubiquitous computing at home using HCI principles.
