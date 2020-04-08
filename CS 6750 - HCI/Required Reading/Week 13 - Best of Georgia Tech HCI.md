@@ -13,3 +13,9 @@ Topic: authors argue that cognition is more of a property of interaction than a 
 > Kidd, C., Orr, R., Abowd, G., Atkeson, C., Essa, I., MacIntyre, B., Mynatt, E., Starner, T. & Newstetter, W. (1999). The aware home: A living laboratory for ubiquitous computing research. In N. Streitz, S. Konomi, & H. Burkhardt (Eds.) Cooperative Buildings: Integrating Information, Organizations, and Architecture (pp. 191-198).
 
 Topic: ubiquitous computing at home using HCI principles.
+
+## Discovering Alternative Treatments For Opioid Use Recovery Using Social Media
+
+> Chancellor S., Nitzburg, G., Hu, A., Zampieri, F., & Choudhury, M. (2019). Discovering Alternative Treatments for Opioid Use Recovery Using Social Media. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: examining homelessness on social media through analysis of data from Tumblr blog posts to realize practical applications of HCI to help underserved populations.
