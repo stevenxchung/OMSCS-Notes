@@ -19,3 +19,9 @@ Topic: ubiquitous computing at home using HCI principles.
 > Chancellor S., Nitzburg, G., Hu, A., Zampieri, F., & Choudhury, M. (2019). Discovering Alternative Treatments for Opioid Use Recovery Using Social Media. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
 
 Topic: examining homelessness on social media through analysis of data from Tumblr blog posts to realize practical applications of HCI to help underserved populations.
+
+## Spaces And Traces: Implications Of Smart Technology In Public Housing
+
+> Kozubaev, S., Rochaix, F., DiSalvo, C., & Le Dantec, C. (2019). Spaces and Traces: Implications of Smart Technology in Public Housing. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: investigating smart home technologies in the context of public housing as well as complex issues which arise (e.g., privacy and autonomy).
