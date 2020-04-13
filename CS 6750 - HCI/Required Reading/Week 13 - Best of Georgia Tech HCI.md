@@ -25,3 +25,13 @@ Topic: examining homelessness on social media through analysis of data from Tumb
 > Kozubaev, S., Rochaix, F., DiSalvo, C., & Le Dantec, C. (2019). Spaces and Traces: Implications of Smart Technology in Public Housing. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
 
 Topic: investigating smart home technologies in the context of public housing as well as complex issues which arise (e.g., privacy and autonomy).
+
+## Understanding Law Enforcement Strategies And Needs For Combating Human Trafficking
+
+> Deeb-Swihart, J., Endert, A., & Bruckman, A. (2019). Understanding Law Enforcement Strategies and Needs for Combating Human Trafficking. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: interviewing officers who are combating human trafficking to understand how data can help. Author highlights key areas where HCI could help to improve:
+
+1. Visualization of geospatial data
+2. Usable security and privacy for unified databases
+3. Archaic information systems used by law enforcement
