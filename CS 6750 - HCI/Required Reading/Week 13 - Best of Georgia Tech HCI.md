@@ -35,3 +35,9 @@ Topic: interviewing officers who are combating human trafficking to understand h
 1. Visualization of geospatial data
 2. Usable security and privacy for unified databases
 3. Archaic information systems used by law enforcement
+
+## Serpentine: A Self-Powered Reversibly Deformable Cord Sensor For Human Input
+
+> Shahmiri, F., Chen, C., Waghmare, A., Zhang, D., Mittal, S., Zhang, S., Wang, Y., Wang, Z., Starner, T., & Abowd, G. (2019). Serpentine: A Self-Powered Reversibly Deformable Cord Sensor for Human Input. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: self-powered sensor that can sense a variety of human input. Successful test results (97.7%) accuracy suggests that this sensor facilitate ubiquitous computing applications.
