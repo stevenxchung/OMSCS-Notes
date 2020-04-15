@@ -41,3 +41,9 @@ Topic: interviewing officers who are combating human trafficking to understand h
 > Shahmiri, F., Chen, C., Waghmare, A., Zhang, D., Mittal, S., Zhang, S., Wang, Y., Wang, Z., Starner, T., & Abowd, G. (2019). Serpentine: A Self-Powered Reversibly Deformable Cord Sensor for Human Input. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
 
 Topic: self-powered sensor that can sense a variety of human input. Successful test results (97.7%) accuracy suggests that this sensor facilitate ubiquitous computing applications.
+
+## The Parenting Actor-Network Of Latino Immigrants In The United States
+
+> Wong-Villacres, M., Kumar, N., & DiSalvo, B. (2019). The Parenting Actor-Network of Latino Immigrants in the United States. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
+
+Topic: HCI (via Actor-Network Theory or ANT) to support parenting initiatives, particularly in education.
