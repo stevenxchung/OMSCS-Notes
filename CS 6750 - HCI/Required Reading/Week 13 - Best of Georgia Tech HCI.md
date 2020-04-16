@@ -47,3 +47,9 @@ Topic: self-powered sensor that can sense a variety of human input. Successful t
 > Wong-Villacres, M., Kumar, N., & DiSalvo, B. (2019). The Parenting Actor-Network of Latino Immigrants in the United States. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM.
 
 Topic: HCI (via Actor-Network Theory or ANT) to support parenting initiatives, particularly in education.
+
+## The CHI Of Teaching Online: Blurring The Lines Between User Interfaces And Learner Interfaces
+
+> Joyner, D. (2019). The CHI of Teaching Online: Blurring the Lines Between User Interfaces and Learner Interfaces. In E. Kapros & M. Koutsombogera (Eds.) Designing for the User Experience in Learning Systems, Human-Computer Interaction Series. Springer.
+
+Topic: the intersection of interface design and learning design.
