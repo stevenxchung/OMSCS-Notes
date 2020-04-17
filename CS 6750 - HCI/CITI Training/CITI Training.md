@@ -23,3 +23,12 @@ Under the principle of beneficence:
 2. Risks to subjects are reasonable in relation to anticipated benefits, if any, to subjects, and the importance of the knowledge that may reasonably be expected to result
 3. When appropriate, the research plan makes adequate provision for monitoring the data collected to ensure the safety of subjects
 4. When appropriate, there are adequate provisions to protect the privacy of subjects and to maintain the confidentiality of data
+
+## Defining Research with Human Subjects
+
+Defining research: a systematic investigation including research development, testing, and evaluation, designed to develop or contribute to generalizable knowledge.
+
+Defining human subjects: a living individual about whom an investigator (whether professional or student) conducting research:
+
+1. Obtains information or biospecimens through intervention or interaction with the individual, and uses, studies, or analyzes the information or biospecimens
+2. Obtains, uses, studies, analyzes, or generates identifiable private information or identifiable biospecimens
