@@ -32,3 +32,13 @@ Defining human subjects: a living individual about whom an investigator (whether
 
 1. Obtains information or biospecimens through intervention or interaction with the individual, and uses, studies, or analyzes the information or biospecimens
 2. Obtains, uses, studies, analyzes, or generates identifiable private information or identifiable biospecimens
+
+## The Federal Regulations - SBE
+
+Protections for vulnerable subjects:
+
+1. Subpart B - pregnant women, human fetuses, and neonates
+2. Subpart C - prisoners
+3. Subpart D - children
+
+If IRB decides to approve research, institutions can override by disapproving. This is not true in reverse.
