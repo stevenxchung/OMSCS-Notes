@@ -63,3 +63,10 @@ Safeguarding data tips:
 - Access and store data on computers without internet connections
 - Minimize procedures involving transferring direct identifiers between persons
 - Obtain a Certificate of Confidentiality
+
+## Informed Consent - SBE
+
+- **Non-exculpatory language** - e.g., _your participation in this research is voluntary_
+- **Exculpatory language** - e.g., _you waive any right to sue or for compensation for injuries that you may receive as a result of participating gin this study_
+
+IRB may waive documentation under: the subject's participation in the research, and the consent document is the only record linking the subject with the research
