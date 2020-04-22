@@ -70,3 +70,16 @@ Safeguarding data tips:
 - **Exculpatory language** - e.g., _you waive any right to sue or for compensation for injuries that you may receive as a result of participating gin this study_
 
 IRB may waive documentation under: the subject's participation in the research, and the consent document is the only record linking the subject with the research
+
+## Privacy and Confidentiality - SBE
+
+Procedures to protect confidential data:
+
+- Creating keys linking subjects' names
+- Unique numbers associated with the data
+- Storing encrypted data on secure servers
+- Removing identifiers when data collection is completed
+- Reporting data in aggregate
+- Creating misleading identifiers in articles or presentations
+
+It is not possible for a researcher to promise confidentiality in a focus group setting.
