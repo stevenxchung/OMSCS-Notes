@@ -83,3 +83,21 @@ Procedures to protect confidential data:
 - Creating misleading identifiers in articles or presentations
 
 It is not possible for a researcher to promise confidentiality in a focus group setting.
+
+## Research with Children - SBE
+
+Children are defined as:
+
+- Person who has not yet attained the legal age of majority in the setting the research will take place
+- Age requirement varies by location
+
+Parental permission waiver permissions:
+
+- The documentation of consent (informed consent form) is the only record linking the child to the research, and the principal risk would be potential harm resulting from a breach of confidentiality. If subjects wish to have a signed consent form, their wishes will govern
+- The research presents no more than minimal risk of harm and involves no procedures for which consent is normally required outside the research environment
+- If the subjects or legally authorized representatives are members of a distinct cultural group or community in which signing forms is not the norm, that the research presents no more than minimal risk of harm to subjects, and provided there is an appropriate alternative mechanism for documenting that informed consent was obtained
+
+An IRB may waive the requirement to secure child assent if either:
+
+1. The capability of some or all of the children is so limited that they cannot reasonably be consulted
+2. The intervention or procedure involved in the research holds out the prospect of direct benefit to the health or well-being of the children and is available only in the context of the research
