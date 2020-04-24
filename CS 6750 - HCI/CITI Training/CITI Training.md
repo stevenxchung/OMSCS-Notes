@@ -111,3 +111,15 @@ The following activities with school children do not qualify for exemption under
 - Research involving surveys
 - Research involving interviews
 - Observation of public behavior when the researcher participates in the activities being observed
+
+## International Research - SBE
+
+Points to consider when obtaining informed consent in non-U.S. settings:
+
+- In addition to the consent of the research subjects, are there other individuals or groups whose permission must be sought?
+- What is the appropriate language for the consent?
+- Should consent be oral or written?
+- Who can act as an interpreter?
+- What is the age of majority in the country where the research is taking place?
+- Do the parental permission and child assent processes reflect local norms?
+- Is there a local contact person?
