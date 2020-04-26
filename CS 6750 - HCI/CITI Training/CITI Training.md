@@ -123,3 +123,7 @@ Points to consider when obtaining informed consent in non-U.S. settings:
 - What is the age of majority in the country where the research is taking place?
 - Do the parental permission and child assent processes reflect local norms?
 - Is there a local contact person?
+
+## International Studies
+
+When it comes in international studies researchers should reference the The _Council for International Organizations of Medical Sciences (CIOMS) International Ethical Guidelines for Health-related Research Involving Humans_ which reflect the changes, advances, and controversies that have marked biomedical research ethics in the last two decades
