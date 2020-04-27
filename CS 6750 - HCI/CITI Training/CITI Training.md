@@ -131,3 +131,13 @@ When it comes in international studies researchers should reference the The _Cou
 ## Internet-Based Research - SBE
 
 The greatest risk of harm to subjects taking part in social and behavioral sciences research is the inadvertent disclosure of private identifiable information that could damage their reputations, employability, insurability, or subject them to criminal or civil liability.
+
+## Research and HIPAA Privacy Protections
+
+Uses and disclosures of data for research that are allowed to bypass the authorization requirement are still subject to the _minimum necessary standard_ -- that is, the uses/disclosures must be no more than the minimum required for the described research purpose.
+
+The data use agreement for an LDS (limited data set) must:
+
+- Delineate the permitted uses and disclosures of such information by the recipient, consistent with the purposes of research
+- Limit the individuals that can use or receive the data
+- Require the recipient to agree not to re-identify the data or contact the individuals
