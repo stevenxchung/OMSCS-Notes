@@ -141,3 +141,13 @@ The data use agreement for an LDS (limited data set) must:
 - Delineate the permitted uses and disclosures of such information by the recipient, consistent with the purposes of research
 - Limit the individuals that can use or receive the data
 - Require the recipient to agree not to re-identify the data or contact the individuals
+
+## Vulnerable Subjects - Research Involving Workers/Employees
+
+A plan for the proper management of study data and records should clearly define the:
+
+- Control of the collected data
+- Who is authorized/approved to access, use, or disseminate study data or results
+- Disclosure to the subject of who will have access to the data and how it will be used
+- Use of personal identifiers (for example, name, phone number, or medical record number)
+- Inclusion of study results in employee personnel or medical records, or in publications
