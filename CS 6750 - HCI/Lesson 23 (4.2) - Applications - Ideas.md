@@ -13,3 +13,7 @@ In this lesson, we look into several big ideas in HCI which may interest you.
 ## Idea: Pen And Touch-based Interaction
 
 **Pen and touch-based interaction** - interaction with interfaces using a pen or touchscreen for direct manipulation.
+
+## Idea: Information Visualization
+
+**Information visualization** - representing abstract data visually to help humans understand it.
