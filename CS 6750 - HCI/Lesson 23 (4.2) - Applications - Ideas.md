@@ -17,3 +17,7 @@ In this lesson, we look into several big ideas in HCI which may interest you.
 ## Idea: Information Visualization
 
 **Information visualization** - representing abstract data visually to help humans understand it.
+
+## Idea: CSCW
+
+**CSCW (computer-supported cooperative work)** - using computers to support people working together.
