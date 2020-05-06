@@ -2,7 +2,7 @@
 
 Notes from modules in CITI training
 
-## Belmont Report and Its Principles
+## Belmont Report And Its Principles
 
 Three basic ethical principles:
 
