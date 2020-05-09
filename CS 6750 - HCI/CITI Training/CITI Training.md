@@ -24,7 +24,7 @@ Under the principle of beneficence:
 3. When appropriate, the research plan makes adequate provision for monitoring the data collected to ensure the safety of subjects
 4. When appropriate, there are adequate provisions to protect the privacy of subjects and to maintain the confidentiality of data
 
-## Defining Research with Human Subjects
+## Defining Research With Human Subjects
 
 Defining research: a systematic investigation including research development, testing, and evaluation, designed to develop or contribute to generalizable knowledge.
 
