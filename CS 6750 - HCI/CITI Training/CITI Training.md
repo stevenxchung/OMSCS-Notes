@@ -71,7 +71,7 @@ Safeguarding data tips:
 
 IRB may waive documentation under: the subject's participation in the research, and the consent document is the only record linking the subject with the research
 
-## Privacy And Confidentiality - Sbe
+## Privacy And Confidentiality - SBE
 
 Procedures to protect confidential data:
 
