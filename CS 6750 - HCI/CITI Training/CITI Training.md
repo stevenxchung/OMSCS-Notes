@@ -84,7 +84,7 @@ Procedures to protect confidential data:
 
 It is not possible for a researcher to promise confidentiality in a focus group setting.
 
-## Research with Children - SBE
+## Research With Children - SBE
 
 Children are defined as:
 
