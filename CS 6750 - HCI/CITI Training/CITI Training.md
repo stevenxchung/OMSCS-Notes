@@ -102,7 +102,7 @@ An IRB may waive the requirement to secure child assent if either:
 1. The capability of some or all of the children is so limited that they cannot reasonably be consulted
 2. The intervention or procedure involved in the research holds out the prospect of direct benefit to the health or well-being of the children and is available only in the context of the research
 
-## Research in Public Elementary and Secondary Schools - SBE
+## Research In Public Elementary And Secondary Schools - SBE
 
 Regulations
 
