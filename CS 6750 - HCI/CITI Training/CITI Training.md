@@ -132,7 +132,7 @@ When it comes in international studies researchers should reference the The _Cou
 
 The greatest risk of harm to subjects taking part in social and behavioral sciences research is the inadvertent disclosure of private identifiable information that could damage their reputations, employability, insurability, or subject them to criminal or civil liability.
 
-## Research and HIPAA Privacy Protections
+## Research And HIPAA Privacy Protections
 
 Uses and disclosures of data for research that are allowed to bypass the authorization requirement are still subject to the _minimum necessary standard_ -- that is, the uses/disclosures must be no more than the minimum required for the described research purpose.
 
