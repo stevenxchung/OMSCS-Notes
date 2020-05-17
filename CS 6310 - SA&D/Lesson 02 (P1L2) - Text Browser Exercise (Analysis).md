@@ -38,3 +38,12 @@ In a UML analysis model, you should be concerned with three types of relationshi
 ## Summary
 
 What is the key design question with which any implementation of the TextBrowser must deal?
+
+## Section Quizzes
+
+### GUI Elements Quiz
+
+_Assume that you had a GUI library, such as Swing or SWT. At a minimum, what atomic GUI components would you need to build your TextBrowser?_
+
+- Window
+- Scroll bar
