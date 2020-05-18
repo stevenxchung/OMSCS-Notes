@@ -47,3 +47,9 @@ _Assume that you had a GUI library, such as Swing or SWT. At a minimum, what ato
 
 - Window
 - Scroll bar
+
+### Use Cases Quiz
+
+_What use cases apply for the TextBrowser application?_
+
+We can read text, move handle, and adjust view port size.
