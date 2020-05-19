@@ -25,7 +25,7 @@ The analysis model will consist of various parts:
 
 ## Operations
 
-Operations comprise those actions that the user can undertake to interact with the TextBrowser
+Operations comprise those actions that the user can undertake to interact with the TextBrowser.
 
 ## Relationships
 
