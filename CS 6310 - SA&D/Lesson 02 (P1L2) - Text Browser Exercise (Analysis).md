@@ -53,3 +53,17 @@ _Assume that you had a GUI library, such as Swing or SWT. At a minimum, what ato
 _What use cases apply for the TextBrowser application?_
 
 We can read text, move handle, and adjust view port size.
+
+### Classes Quiz
+
+_Create a diagram with classes for the three components that we have already identified:_
+
+- Name: ViewPort
+  - Attributes:
+  - Operations:
+- Name: ScrollBar
+  - Attributes:
+  - Operations:
+- Name: FileManager
+  - Attributes:
+  - Operations:
