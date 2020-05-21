@@ -67,3 +67,17 @@ _Create a diagram with classes for the three components that we have already ide
 - Name: FileManager
   - Attributes:
   - Operations:
+
+### Operations Quiz
+
+_Add the two externally visible operations, `resizeViewPort` and `moveHandle`, to the correct classes within the diagram._
+
+- Name: ViewPort
+  - Attributes:
+  - Operations: resizeViewPort
+- Name: ScrollBar
+  - Attributes:
+  - Operations: moveHandle
+- Name: FileManager
+  - Attributes:
+  - Operations:
