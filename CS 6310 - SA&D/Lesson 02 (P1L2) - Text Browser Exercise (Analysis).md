@@ -81,3 +81,9 @@ _Add the two externally visible operations, `resizeViewPort` and `moveHandle`, t
 - Name: FileManager
   - Attributes:
   - Operations:
+
+### Visible Attributes Quiz
+
+_We must translate what the user can see in the GUI into explicit attributes. We call these attributes percepts. Can you think of what those percepts should be (for the TextBrowser)?_
+
+Text, size of the handle, handle position, and size of the view port.
