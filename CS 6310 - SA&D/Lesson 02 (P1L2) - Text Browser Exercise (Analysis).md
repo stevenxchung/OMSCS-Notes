@@ -87,3 +87,10 @@ _Add the two externally visible operations, `resizeViewPort` and `moveHandle`, t
 _We must translate what the user can see in the GUI into explicit attributes. We call these attributes percepts. Can you think of what those percepts should be (for the TextBrowser)?_
 
 Text, size of the handle, handle position, and size of the view port.
+
+### Relationships Quiz
+
+_In our TextBrowser, what components are affected by the two user actions `moveHandle` and `resizeViewPort`? Indicate the components involved (check all that apply) for each action and describe the relationship._
+
+- When `moveHandle` is triggered, the ScrollBar position will be updated where what the user sees will also have to be updated via ViewPort. To obtain this information, we will need to use the file manager
+- When `resizeViewPort` is triggered, the ViewPort will be resized where the ScrollBar size will adjust as well. To obtain new lines, we will need to use the file manager
