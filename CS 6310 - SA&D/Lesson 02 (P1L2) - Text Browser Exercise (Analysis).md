@@ -94,3 +94,9 @@ _In our TextBrowser, what components are affected by the two user actions `moveH
 
 - When `moveHandle` is triggered, the ScrollBar position will be updated where what the user sees will also have to be updated via ViewPort. To obtain this information, we will need to use the file manager
 - When `resizeViewPort` is triggered, the ViewPort will be resized where the ScrollBar size will adjust as well. To obtain new lines, we will need to use the file manager
+
+### Number Of Lines Quiz
+
+_At any given moment in time, what is the number of lines actually displayed in the ViewPort as a function of the window's size and the number of lines in the file?_
+
+`numberOfLinesDisplayed = minimum(windowSize, numberOfLinesInFile)`
