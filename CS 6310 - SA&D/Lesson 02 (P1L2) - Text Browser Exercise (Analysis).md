@@ -100,3 +100,9 @@ _In our TextBrowser, what components are affected by the two user actions `moveH
 _At any given moment in time, what is the number of lines actually displayed in the ViewPort as a function of the window's size and the number of lines in the file?_
 
 `numberOfLinesDisplayed = minimum(windowSize, numberOfLinesInFile)`
+
+### Another Association Quiz
+
+_LinesVisible indicates the contents of the ViewPort that must come from the FileManager. Those lines are determined by the position of the ScrollBar handle. How might this be expressed?_
+
+`linesVisible` = from `topPositionHandle` to (`topPositionHandle` + `windowSize`)
