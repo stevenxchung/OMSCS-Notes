@@ -106,3 +106,9 @@ _At any given moment in time, what is the number of lines actually displayed in 
 _LinesVisible indicates the contents of the ViewPort that must come from the FileManager. Those lines are determined by the position of the ScrollBar handle. How might this be expressed?_
 
 `linesVisible` = from `topPositionHandle` to (`topPositionHandle` + `windowSize`)
+
+### Handle Association Quiz
+
+_The final property we must describe has to do with the size of the handle if the ScrollBar. How might this property be described as a relationship amongst components?_
+
+`handleProportion = (numberOfLinesDisplayed / fileSize)`
