@@ -97,3 +97,14 @@ Some design philosophies from philosophers include:
 ## Summary
 
 Design is the most creative part of software development.
+
+## Section Quizzes
+
+### Terms Quiz
+
+_Can you distinguish the following definitions?_
+
+- Design: deliberative, purposive planning
+- Engineering: skillful or artful contrivance applying scientific and mathematical principles
+- Craft: skilled occupation
+- Art: use of skill, taste, and imagination in the production of aesthetic objects
