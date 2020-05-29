@@ -108,3 +108,10 @@ _Can you distinguish the following definitions?_
 - Engineering: skillful or artful contrivance applying scientific and mathematical principles
 - Craft: skilled occupation
 - Art: use of skill, taste, and imagination in the production of aesthetic objects
+
+### Programming or Design Quiz
+
+_Which of the following are differences between software design and programming?_
+
+- Scale
+- Emphasis on non-functional requirements
