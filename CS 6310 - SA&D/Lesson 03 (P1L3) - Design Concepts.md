@@ -109,7 +109,7 @@ _Can you distinguish the following definitions?_
 - Craft: skilled occupation
 - Art: use of skill, taste, and imagination in the production of aesthetic objects
 
-### Programming or Design Quiz
+### Programming Or Design Quiz
 
 _Which of the following are differences between software design and programming?_
 
