@@ -115,3 +115,9 @@ _Which of the following are differences between software design and programming?
 
 - Scale
 - Emphasis on non-functional requirements
+
+### Weather Quiz
+
+_If you were designing for performance, would you use an array or a collection of interdependent objects to hold data about weather for a region?_
+
+We would use an array.
