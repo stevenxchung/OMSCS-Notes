@@ -121,3 +121,9 @@ _Which of the following are differences between software design and programming?
 _If you were designing for performance, would you use an array or a collection of interdependent objects to hold data about weather for a region?_
 
 We would use an array.
+
+### Design Review Quiz
+
+_What are the negative consequences of testing a design for the first time once the project has been completed?_
+
+That would not be cost or time effective.
