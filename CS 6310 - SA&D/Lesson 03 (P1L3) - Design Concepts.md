@@ -127,3 +127,9 @@ We would use an array.
 _What are the negative consequences of testing a design for the first time once the project has been completed?_
 
 That would not be cost or time effective.
+
+### Documentation Quiz
+
+_Pick an organization that would require formal documentation:_
+
+A military contractor would require formal documentation.
