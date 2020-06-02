@@ -133,3 +133,9 @@ That would not be cost or time effective.
 _Pick an organization that would require formal documentation:_
 
 A military contractor would require formal documentation.
+
+### Java Quiz 1
+
+_Which of (reduced) coupling or (increased) cohesion do Java packages support?_
+
+Java packages support reduced coupling.
