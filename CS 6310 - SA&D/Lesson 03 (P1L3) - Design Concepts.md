@@ -139,3 +139,9 @@ A military contractor would require formal documentation.
 _Which of (reduced) coupling or (increased) cohesion do Java packages support?_
 
 Java packages support reduced coupling.
+
+### Java Quiz 2
+
+_Does the Java class inheritance mechanism increase or decrease coupling between the parent and child classes?_
+
+The Java class inheritance mechanism increases coupling.
