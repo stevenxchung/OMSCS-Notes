@@ -145,3 +145,9 @@ Java packages support reduced coupling.
 _Does the Java class inheritance mechanism increase or decrease coupling between the parent and child classes?_
 
 The Java class inheritance mechanism increases coupling.
+
+### Metaphors Quiz
+
+_Can you think of any other metaphors we use when talking about computers?_
+
+It was interesting to realize that engineers set the _on_ function as a _1_ and the _off_ function as a _0_ and kept what is mostly a backend attribute on the front of products when they shipped.
