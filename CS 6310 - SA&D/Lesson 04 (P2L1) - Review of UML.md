@@ -140,3 +140,14 @@ The **UML Meta-model** is the definition of UML in UML and can be extended by a 
 ## Summary
 
 You cannot design a complex system without having some idea of what it is suppose to do and what problem it is trying to solve. Diagrams are used to help express that understanding and the solution to the problem.
+
+## Section Quizzes
+
+### Diagram Quiz
+
+_We want to convince a development shop of the benefits of design diagrams by indicating some pros and cons of using them. Mark the following with pro (P) or con (C):_
+
+- Communication: P
+- Maintainability: C
+- Support for existing methods: P
+- Tool support: P
