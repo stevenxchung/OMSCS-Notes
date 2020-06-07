@@ -151,3 +151,15 @@ _We want to convince a development shop of the benefits of design diagrams by in
 - Maintainability: C
 - Support for existing methods: P
 - Tool support: P
+
+### UML Structure Diagram Quiz
+
+_Match up each of the UML Structure Diagram types with their descriptions:_
+
+- Class: components and structural properties
+- Composite structure: internal structure and possible interactions
+- Component: organization of physical software components
+- Deployment: physical system resources and how they map to hardware
+- Object: static structure at a particular time
+- Package: logical groupings and dependencies
+- Profile: Extensions to the UML meta model
