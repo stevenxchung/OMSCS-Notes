@@ -163,3 +163,12 @@ _Match up each of the UML Structure Diagram types with their descriptions:_
 - Object: static structure at a particular time
 - Package: logical groupings and dependencies
 - Profile: Extensions to the UML meta model
+
+### UML Quiz
+
+_Which of the UML Structure Diagram types could be used to convey system architecture?_
+
+- Class diagram
+- Component diagram
+- Deployment diagram
+- Package diagram
