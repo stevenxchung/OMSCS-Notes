@@ -172,3 +172,15 @@ _Which of the UML Structure Diagram types could be used to convey system archite
 - Component diagram
 - Deployment diagram
 - Package diagram
+
+### Behavior Diagram Quiz
+
+_Match the following behavior diagrams with their descriptions:_
+
+- Activity: flow of control from activity to activity
+- Sequence: interaction of classes of message exchange
+- Communication: object interaction of numbered messages
+- Interaction overview: synthesis of lower-level activity diagrams
+- Timing: rotated sequence diagram
+- Use case: system functionality provided to external actors
+- State: dynamic behavior in response to stimuli
