@@ -122,3 +122,11 @@ Some issues with the relationship step in the previously mentioned OOA technique
 ## Summary
 
 OOA is a valuable first take to take during a software development effort. It can help in understanding the problem to be solved and suggesting a breakdown of a solution system into its component parts.
+
+## Section Quizzes
+
+### Object Quiz
+
+_Can you think why objects might be a better starting point for analysis than functions?_
+
+During maintenance, functions change more frequently than objects.
