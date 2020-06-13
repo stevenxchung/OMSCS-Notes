@@ -130,3 +130,11 @@ OOA is a valuable first take to take during a software development effort. It ca
 _Can you think why objects might be a better starting point for analysis than functions?_
 
 During maintenance, functions change more frequently than objects.
+
+### Step 1: Locate Nouns Quiz
+
+_Locate the nouns:_
+
+> Keep a pile of the parts of the tree that have not yet been counted. Initially, get a tree and put it on the empty pile; the count of the leaves is initially set to zero. As long as the pile is not empty, repeatedly take a tree off the pile and examine it. If the tree consists of a single leaf, then increment the leaf counter and throw away that tree. If the tree is not a single leaf but instead consists of two subtrees, split the tree into its left and right subtrees and put them back on the pile. Once the pile is empty, display the count of the leaves.
+
+Pile, parts, tree, count, leaves, leaf, subtrees, and zero
