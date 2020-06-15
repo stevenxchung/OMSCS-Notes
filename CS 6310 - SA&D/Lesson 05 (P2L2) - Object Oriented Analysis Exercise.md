@@ -144,3 +144,15 @@ Pile, parts, tree, count, leaves, leaf, subtrees, and zero
 _Organize the nouns into groups to become candidate classes_
 
 Pile, tree, node, counter, leaf, and part
+
+### Step 3: Adjectives
+
+_Find all adjectives in the paragraph. Then, group the adjectives (attributes) together by placing them in comma-separated lists next to the candidate class they describe. Note: not all candidate classes may have adjectives that describe them_
+
+> Keep a pile of the parts of the tree that have not yet been counted. Initially, get a tree and put it on the empty pile; the count of the leaves is initially set to zero. As long as the pile is not empty, repeatedly take a tree off the pile and examine it. If the tree consists of a single leaf, then increment the leaf counter and throw away that tree. If the tree is not a single leaf but instead consists of two subtrees, split the tree into its left and right subtrees and put them back on the pile. Once the pile is empty, display the count of the leaves.
+
+- Pile: empty
+- Tree: two, left, and right
+- Counter: leaf
+- Leaf: single
+- Part:
