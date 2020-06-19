@@ -121,3 +121,13 @@ All instances of the subclass are also instances of the parent class (there is a
 ## Summary
 
 UML provides a rich vocabulary for modeling system structure. However there is no need to use all of its affordances.
+
+## Section Quizzes
+
+### Abstract Class Quiz
+
+_Fill in the following text boxes for an abstract vehicles class:_
+
+- Subclasses: car
+- Attributes: VIN
+- Operations: carry passengers
