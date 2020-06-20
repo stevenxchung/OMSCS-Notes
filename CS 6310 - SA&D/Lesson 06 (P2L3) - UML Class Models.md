@@ -139,3 +139,12 @@ _For 'Name': Enter a single word answer into the text box. For 'Attributes' and 
 - Name: Account
 - Attributes: Current balance
 - Operations: Deposit
+
+### Aggregation & Composition Quiz
+
+_For the pairs of classes, select whether the each is a composition, an aggregation, or a general association._
+
+- Courses and students: aggregation
+- Person and spouse: general associations
+- Bank account and patron: aggregation
+- Fonts and glyphs: composition
