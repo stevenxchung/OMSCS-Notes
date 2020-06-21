@@ -131,3 +131,11 @@ _Fill in the following text boxes for an abstract vehicles class:_
 - Subclasses: car
 - Attributes: VIN
 - Operations: carry passengers
+
+### Class Description Quiz
+
+_For 'Name': Enter a single word answer into the text box. For 'Attributes' and 'Operations', provide comma-separated answers._
+
+- Name: Account
+- Attributes: Current balance
+- Operations: Deposit
