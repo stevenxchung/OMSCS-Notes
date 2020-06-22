@@ -148,3 +148,16 @@ _For the pairs of classes, select whether the each is a composition, an aggregat
 - Person and spouse: general associations
 - Bank account and patron: aggregation
 - Fonts and glyphs: composition
+
+### Constraints Quiz
+
+_For each of the following superclasses and their subclasses, determine whether the subclasses are disjoint and complete._
+
+1. _Athletes: BaseballPlayers, FootballPlayers, BasketballPlayers_
+   - Overlapping
+2. _Athletes: BaseballPlayers, FootballPlayers, BasketballPlayers_
+   - Incomplete
+3. _Books: Paperbacks, ComicBooks, HardBoundBooks_
+   - Disjoint
+4. _Books: Paperbacks, ComicBooks, HardBoundBooks_
+   - Incomplete
