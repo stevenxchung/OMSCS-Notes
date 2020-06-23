@@ -161,3 +161,9 @@ _For each of the following superclasses and their subclasses, determine whether 
    - Disjoint
 4. _Books: Paperbacks, ComicBooks, HardBoundBooks_
    - Incomplete
+
+### Superclass & Subclass Quiz
+
+_Among omnivores and vegetarians, which is the superclass and which is the subclass?_
+
+Vegetarians are the superclass; omnivores are the subclass.
