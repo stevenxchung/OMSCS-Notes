@@ -73,3 +73,12 @@ Each project has three deliverables:
 ## Wrap Up
 
 In summary, design can't be taught. It has to be learned. Therefore, the projects will help build knowledge in the design area.
+
+## Section Quizzes
+
+### Design Factors Quiz
+
+_What are some of the factors that might be used to compare different versions of a program?_
+
+- Performance
+- Size
