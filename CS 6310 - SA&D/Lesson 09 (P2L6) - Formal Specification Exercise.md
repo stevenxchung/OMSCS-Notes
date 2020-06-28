@@ -40,3 +40,11 @@ To summarize:
 - Sometimes you need a way to precisely express exactly what functionality is required by a system
 - A variety of formal languages and tools exists for writing such specifications
 - The effort can save a lot of rework resulting from misunderstood requirements
+
+## Section Quizzes
+
+### SQRT Signature Quiz
+
+_Give a signature for a function called SQRT that takes as input a real number and returns another real number whose value is the square root of the argument._
+
+`Real Y = SQRT(Real X)`
