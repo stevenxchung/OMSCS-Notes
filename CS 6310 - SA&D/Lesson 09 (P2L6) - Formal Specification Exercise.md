@@ -48,3 +48,11 @@ To summarize:
 _Give a signature for a function called SQRT that takes as input a real number and returns another real number whose value is the square root of the argument._
 
 `Real Y = SQRT(Real X)`
+
+### SQRT Postcondition Quiz
+
+_See if you can specify the postcondition SQRT given the signature:_
+
+> `Real Y = SQRT(Real X)`
+
+`Y * Y = X`
