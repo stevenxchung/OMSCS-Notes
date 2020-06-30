@@ -56,3 +56,11 @@ _See if you can specify the postcondition SQRT given the signature:_
 > `Real Y = SQRT(Real X)`
 
 `Y * Y = X`
+
+### ORDERED Precondition Quiz
+
+_See if you can specify the precondition for ORDERED given the signature:_
+
+> `Vector<int> Y = ORDERED(Vector<int> X)`
+
+`True`
