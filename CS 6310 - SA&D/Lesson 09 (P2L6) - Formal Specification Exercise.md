@@ -64,3 +64,9 @@ _See if you can specify the precondition for ORDERED given the signature:_
 > `Vector<int> Y = ORDERED(Vector<int> X)`
 
 `True`
+
+### ORDERED Spec And Pre Quiz
+
+_Give the signature for the REORDERED function that determines whether an input Vector of integers is in descending order._
+
+`Bool Y = REORDERED(Vector<int> X)`
