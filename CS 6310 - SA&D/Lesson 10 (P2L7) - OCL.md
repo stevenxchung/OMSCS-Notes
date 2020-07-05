@@ -97,3 +97,9 @@ _See if you can come up with another invariant constraint for the LargeCompany c
 context LargeCompany inv:
 marketCapitalization > 1000000
 ```
+
+### Post Condition Quiz
+
+_Say you had a class with two attributes, a and b, both Reals, and you wanted to have an Operations called swap that interchanges their values. See if you can probide a post-condition that expresses this Operation._
+
+`post a = b@pre and b = a@pre`
