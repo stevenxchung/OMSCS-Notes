@@ -86,3 +86,14 @@ OCL features four kinds of collections that support associations with n-m and 1-
 ## Summary
 
 OCL gives us the ability to properly specify the properties of our system.
+
+## Section Quizzes
+
+### Invariant Constraint Quiz
+
+_See if you can come up with another invariant constraint for the LargeCompany class. Express an invariant that satisfies this requirement for large companies... "A company is considered large if it has a market capitalization of over one million dollars."_
+
+```java
+context LargeCompany inv:
+marketCapitalization > 1000000
+```
