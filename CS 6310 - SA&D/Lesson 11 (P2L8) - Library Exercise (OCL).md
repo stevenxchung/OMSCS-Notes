@@ -13,3 +13,21 @@ For UML diagrams, either the specification as given by the diagram must be suppl
 ## Observations
 
 We should be open during the process of analysis to the possibility of new requirements arising. This could include further consultation with the customer. A simple set of requirements can have so many issues - this should illustrate the value of constructing an OCL specification.
+
+## Section Quizzes
+
+### Requirements Quiz
+
+_Determine which of the requirements the diagram is able to adequately address with a `+` or cannot address with a `-`._
+
+- Req 1: -
+- Req 2: +
+- Req 3: -
+- Req 4: -
+- Req 5: -
+- Req 6: -
+- Req 7: -
+- Req 8: -
+- Req 9: +
+- Req 10: -
+- Req 11: -
