@@ -31,3 +31,9 @@ _Determine which of the requirements the diagram is able to adequately address w
 - Req 9: +
 - Req 10: -
 - Req 11: -
+
+## Requirement 6 Quiz
+
+_Which of the classes in the diagram is most appropriate to associate with Requirement #6 (checking out books)?_
+
+`Book` is the most appropriate class.
