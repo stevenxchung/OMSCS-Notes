@@ -37,3 +37,9 @@ _Determine which of the requirements the diagram is able to adequately address w
 _Which of the classes in the diagram is most appropriate to associate with Requirement #6 (checking out books)?_
 
 `Book` is the most appropriate class.
+
+## CheckedOut Quiz
+
+_Does the constraint for the checkout period sound more like a class invariant or an operation?_
+
+Sounds more like an invariant.
