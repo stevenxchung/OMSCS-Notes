@@ -43,3 +43,11 @@ _Which of the classes in the diagram is most appropriate to associate with Requi
 _Does the constraint for the checkout period sound more like a class invariant or an operation?_
 
 Sounds more like an invariant.
+
+## Requirement 7 OCL Quiz
+
+_Complete the OCL constraint for Requirement #7 (AV material checkout)._
+
+- Attribute name: checkOutPeriod
+- Operator: =
+- Value: 2
