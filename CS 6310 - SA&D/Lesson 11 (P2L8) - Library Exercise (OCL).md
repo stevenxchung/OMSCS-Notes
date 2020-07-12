@@ -51,3 +51,13 @@ _Complete the OCL constraint for Requirement #7 (AV material checkout)._
 - Attribute name: checkOutPeriod
 - Operator: =
 - Value: 2
+
+## Requirement 4 OCL Quiz
+
+_Complete the OCL constraint for Requirement #4 (children checkout limit)._
+
+```java
+context Patron : : checkout (i : LoanableItem)
+pre: if age <= 12 then
+  itemsCurrentlyCheckedOut() --> size() < 5
+```
