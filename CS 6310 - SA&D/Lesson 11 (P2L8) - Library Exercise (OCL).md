@@ -61,3 +61,9 @@ context Patron : : checkout (i : LoanableItem)
 pre: if age <= 12 then
   itemsCurrentlyCheckedOut() --> size() < 5
 ```
+
+## Checkout Preconditions Quiz
+
+_For adults, which of the following is not a precondition for the Patron::checkOut operation?_
+
+The patron has not exceeded checkout limit.
