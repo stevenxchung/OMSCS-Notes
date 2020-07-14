@@ -67,3 +67,13 @@ pre: if age <= 12 then
 _For adults, which of the following is not a precondition for the Patron::checkOut operation?_
 
 The patron has not exceeded checkout limit.
+
+## Derived Data Quiz
+
+_Complete the OCL constraint for Patron's age. Hint: Use the OCL keyword derive._
+
+```java
+context Patron::age:Date
+derive:
+  OperatingSystem.getDate() - birthDate
+```
