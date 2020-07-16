@@ -106,3 +106,11 @@ How does the state chart relate to the class diagram? Each class has attributes 
 ## Summary
 
 Behavioral modeling can be done with state charts. There are other methods we can use as well (shown in slides) but for the purposes of the course, state charts will be effective in representing behavior in our systems.
+
+## Section Quizzes
+
+### Tic Tac Toe Quiz
+
+_The game of TicTacToe is played on a 3 x 3 grid. Each grid cell can contain an X, an O, or can be empty. In how many different states can a TicTacToe board be?_
+
+3^9 = 19683
