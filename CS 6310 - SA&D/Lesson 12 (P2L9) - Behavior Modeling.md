@@ -114,3 +114,16 @@ Behavioral modeling can be done with state charts. There are other methods we ca
 _The game of TicTacToe is played on a 3 x 3 grid. Each grid cell can contain an X, an O, or can be empty. In how many different states can a TicTacToe board be?_
 
 3^9 = 19683
+
+### State Vs Event Quiz
+
+_Which of the following are states, events, or neither? Select the correct option from the drop down next to each of the below._
+
+- State
+- Neither
+- Event
+- Event
+- State
+- Event
+- Neither
+- Event
