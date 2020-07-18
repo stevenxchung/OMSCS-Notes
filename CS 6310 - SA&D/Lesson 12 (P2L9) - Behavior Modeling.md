@@ -127,3 +127,16 @@ _Which of the following are states, events, or neither? Select the correct optio
 - Event
 - Neither
 - Event
+
+### Garage Door Quiz 1
+
+_In how many states could the garage door be?_
+
+There are six states total based on the given information:
+
+1. Open
+2. Closed
+3. Partial open
+4. Partial close
+5. Opening
+6. Closing
