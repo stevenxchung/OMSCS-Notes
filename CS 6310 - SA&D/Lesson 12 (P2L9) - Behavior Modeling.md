@@ -140,3 +140,13 @@ There are six states total based on the given information:
 4. Partial close
 5. Opening
 6. Closing
+
+### Garage Door Quiz 2
+
+_To how many events does the garage door system respond?_
+
+The system responds to three events based on the given information:
+
+1. Remote trigger
+2. Switch up
+3. Switch down
