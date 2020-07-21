@@ -150,3 +150,13 @@ The system responds to three events based on the given information:
 1. Remote trigger
 2. Switch up
 3. Switch down
+
+### Harel's Digital Watch Quiz
+
+_Refer to the given state diagrams in lecture._
+
+- _How many outermost states does the watch have?_ 2
+- _What button must be pressed to turn on the alarm-clock feature?_ a
+- _In the ALIVE state, how many concurrent machines are running?_ 5
+- _When the c button is pressed to set the time, which part (day, date, hour, minute, or second) is the first one a user can change?_ Second
+- _If you are changing the time on your watch, and you press the b button to indicate that you are done, what unexpected side effect occurs?_ The watch light turns on
