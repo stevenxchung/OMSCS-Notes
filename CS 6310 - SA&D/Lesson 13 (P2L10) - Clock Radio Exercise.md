@@ -52,3 +52,17 @@ Below are the steps to modeling a system with a state chart:
 8. Provide coordination mechanisms
 9. Add actions/activities
 10. Validate resulting machine vs scenarios
+
+## Section Quizzes
+
+### Percepts Quiz
+
+_Typically, a device's outputs and some of its inputs comprise its percepts. With what percepts might the clock radio allow the user to interact?_
+
+- Volume knob
+- Speaker
+- AM/FM switch
+- Time display
+- Wake button
+- Tuning dial position
+- Frequency bar location
