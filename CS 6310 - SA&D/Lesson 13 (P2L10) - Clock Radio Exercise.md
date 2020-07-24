@@ -66,3 +66,9 @@ _Typically, a device's outputs and some of its inputs comprise its percepts. Wit
 - Wake button
 - Tuning dial position
 - Frequency bar location
+
+### Percepts State Quiz
+
+_How many different states can the time display be in?_
+
+12 \* 60 = 720
