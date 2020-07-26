@@ -72,3 +72,11 @@ _Typically, a device's outputs and some of its inputs comprise its percepts. Wit
 _How many different states can the time display be in?_
 
 12 \* 60 = 720
+
+### Mode Switch Quiz
+
+_To detemine the states for the FSM, refer to the mode switch in this Clock Diagram (shown in lecture). Use the same spelling shown in the diagram._
+
+- On
+- Music
+- Alarm
