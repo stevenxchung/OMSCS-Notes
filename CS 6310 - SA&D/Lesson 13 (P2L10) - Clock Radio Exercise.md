@@ -87,3 +87,13 @@ _What are the states in the outermost layer (referring to diagram provided in le
 
 - Unplugged
 - Plugged
+
+### Stimulus Response Table Quiz
+
+_For this table (provided), fill in the responses for events 12 and 13._
+
+- Music
+- Alarm
+- Alarm
+- Music
+- Off
