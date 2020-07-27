@@ -80,3 +80,10 @@ _To detemine the states for the FSM, refer to the mode switch in this Clock Diag
 - On
 - Music
 - Alarm
+
+### Outermost Layer StateChart Quiz
+
+_What are the states in the outermost layer (referring to diagram provided in lecture)?_
+
+- Unplugged
+- Plugged
