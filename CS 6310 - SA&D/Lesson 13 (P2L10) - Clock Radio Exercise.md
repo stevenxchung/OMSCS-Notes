@@ -97,3 +97,11 @@ _For this table (provided), fill in the responses for events 12 and 13._
 - Alarm
 - Music
 - Off
+
+## Timer Events Quiz
+
+_When the clock time reaches the alarm time, what responses should the clock radio have?_
+
+- Play beep/radio
+- Start alarm timeout timer
+- Turn on speaker
