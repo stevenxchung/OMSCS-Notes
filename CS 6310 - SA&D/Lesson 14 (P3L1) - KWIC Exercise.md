@@ -62,3 +62,12 @@ Below are some advantages and disadvantages of each:
 
 There are a variety of different architectural styles that can be used to solve a design problem. A given style will have advantages and disadvantages depending on the particular requirements changes it must deal with.
 
+## Section Quizzes
+
+### Shared Data Approach Quiz
+
+_Each approach to solving the KWIC problem has advantages and disadvantages . For the following statements choose whether they are advantages or disadvantages of the shared data approach._
+
+- Data Access Complexity: advantage
+- Data Access Speed: advantage
+- Resilience to Change: disadvantage
