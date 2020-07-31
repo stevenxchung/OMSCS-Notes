@@ -71,3 +71,12 @@ _Each approach to solving the KWIC problem has advantages and disadvantages . Fo
 - Data Access Complexity: advantage
 - Data Access Speed: advantage
 - Resilience to Change: disadvantage
+
+### Enhancements Quiz
+
+_Assume that you have built the KWIC program, and it has been successfully released. Customers would like to see more enhancements. List at least three ways the tool could be improved._
+
+1. Return results based on cached/collected data
+2. Add some way to get customer feedback because that is what matters most
+3. Add some way to recommend - to development team - features that might be useful based on user metrics
+
