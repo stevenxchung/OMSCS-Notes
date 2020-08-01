@@ -80,3 +80,9 @@ _Assume that you have built the KWIC program, and it has been successfully relea
 2. Add some way to get customer feedback because that is what matters most
 3. Add some way to recommend - to development team - features that might be useful based on user metrics
 
+### Reusability Quiz
+
+_Which of the four styles do you think would be best able to deal with change regarding reusability of components?_
+
+Pipe and filter
+
