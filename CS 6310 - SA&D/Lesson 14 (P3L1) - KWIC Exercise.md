@@ -86,3 +86,9 @@ _Which of the four styles do you think would be best able to deal with change re
 
 Pipe and filter
 
+### Data Change Resilience Quiz
+
+_Which of the four styles would be least able to cope with change having to do with different data representation?_
+
+Shared data
+
