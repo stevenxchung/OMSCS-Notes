@@ -92,3 +92,8 @@ _Which of the four styles would be least able to cope with change having to do w
 
 Shared data
 
+### Deletion Quiz
+
+_Which of the four styles do you think would be best able to deal with change regarding interactive title deletion?_
+
+Abstract data type
