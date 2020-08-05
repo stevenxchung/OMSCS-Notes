@@ -74,3 +74,17 @@ Architectural evaluation is a systematic assessment of architecture properties a
 ## Summary
 
 The ultimate goal is to increase the quality of delivered systems and reduce the cost of producing them.
+
+## Section Quizzes
+
+### Analysis To Components Quiz
+
+_Assume we want to determine the components of a software system based solely on an analysis model. Given this scenario, select true or false for each statement._
+
+Analysis models...
+
+- Can adapt well to changes in customer requirements
+- Should **NOT** represent the approach that will be taken in design
+- Are resilient to changes in hardware
+- Do **NOT** include all components required by a system
+
