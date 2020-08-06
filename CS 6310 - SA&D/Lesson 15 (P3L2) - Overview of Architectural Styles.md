@@ -88,3 +88,8 @@ Analysis models...
 - Are resilient to changes in hardware
 - Do **NOT** include all components required by a system
 
+### UML Diagram Quiz
+
+_Recall at least 3 kinds of UML diagrams that can be used to convey architectural views._
+
+We can use class model, sequence, communication, etc.
