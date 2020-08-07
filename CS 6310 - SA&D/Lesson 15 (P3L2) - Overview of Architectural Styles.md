@@ -93,3 +93,9 @@ Analysis models...
 _Recall at least 3 kinds of UML diagrams that can be used to convey architectural views._
 
 We can use class model, sequence, communication, etc.
+
+## Arch Style Quiz
+
+_What style is defined by the list of decisions (given in lecture)?_
+
+Client server
