@@ -74,3 +74,13 @@ The **context view** emphasizes the relationship of a system to its environment.
 ## Summary
 
 When it comes to software architecture, there is no single tangible thing as _the architecture_. Software architecture is about a set of decisions that are conveyed with various architectural views.
+
+## Section Quizzes
+
+### Diagram Types Quiz
+
+_Match the diagram in the first column with the text in the second column that most closely describes the meaning of its lines._
+
+- Component diagram: calls
+- Package diagram: imports
+- Class diagram: generalization
