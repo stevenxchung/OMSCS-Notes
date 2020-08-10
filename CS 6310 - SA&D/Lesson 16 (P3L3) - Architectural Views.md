@@ -84,3 +84,9 @@ _Match the diagram in the first column with the text in the second column that m
 - Component diagram: calls
 - Package diagram: imports
 - Class diagram: generalization
+
+### Feature Diagram Quiz 1
+
+_How many differently configured cars does the diagram allow (diagram shown in lecture)?_
+
+1 (car body) \* 2 (auto or manual) \* 3 (electric, gas, or hybrid) \* 2 (trailer or no trailer) = 12
