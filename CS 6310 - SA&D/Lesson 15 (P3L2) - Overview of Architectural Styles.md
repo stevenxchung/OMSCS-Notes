@@ -94,7 +94,7 @@ _Recall at least 3 kinds of UML diagrams that can be used to convey architectura
 
 We can use class model, sequence, communication, etc.
 
-## Arch Style Quiz
+### Arch Style Quiz
 
 _What style is defined by the list of decisions (given in lecture)?_
 
