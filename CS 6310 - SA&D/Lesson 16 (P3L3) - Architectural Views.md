@@ -90,3 +90,10 @@ _Match the diagram in the first column with the text in the second column that m
 _How many differently configured cars does the diagram allow (diagram shown in lecture)?_
 
 1 (car body) \* 2 (auto or manual) \* 3 (electric, gas, or hybrid) \* 2 (trailer or no trailer) = 12
+
+### Feature Diagram Quiz 2
+
+_Which of the following are valid configurations of cars (diagram shown in lecture)?_
+
+- Sunroof body, automatic transmission, gas, engine, and pulls trailer
+- Sedan body, manual transmission, gas engine, and electric engine
