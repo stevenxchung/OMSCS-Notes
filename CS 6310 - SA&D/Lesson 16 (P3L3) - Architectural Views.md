@@ -97,3 +97,15 @@ _Which of the following are valid configurations of cars (diagram shown in lectu
 
 - Sunroof body, automatic transmission, gas, engine, and pulls trailer
 - Sedan body, manual transmission, gas engine, and electric engine
+
+### Non Functional Requirements Quiz
+
+1. _Match a single non-functional requirement with the description that best characterizes it._
+
+   - Support of SSL (ex. for online shopping): security
+   - Plugin capable: extensibility
+   - Cross-platform: portability
+
+2. _What are some other non-functional requirements in which a web browser might be interested? Why?_
+
+   - Accessibility is important because there are many users who may have limited ability to use the web browser due to age or disabilities.
