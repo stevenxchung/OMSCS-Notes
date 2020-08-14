@@ -73,3 +73,11 @@ A key question in going between analysis and design is how we will maintain inva
 - Aggregated responsibility
 - Distributed responsibility
 - Mediated responsibility
+
+## Section Quizzes
+
+### Text Browser Arch Quiz
+
+_Can you think of three other architectural styles that might work for the web browser?_
+
+Component Based, Model View Controller, Pipe and Filter
