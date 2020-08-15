@@ -81,3 +81,9 @@ A key question in going between analysis and design is how we will maintain inva
 _Can you think of three other architectural styles that might work for the web browser?_
 
 Component Based, Model View Controller, Pipe and Filter
+
+### Resize Window Quiz
+
+_To which component would you assign the responsibility of resizeWindow and its indirect effects?_
+
+`ViewPort` should have the responsibility of `resizeWindow`.
