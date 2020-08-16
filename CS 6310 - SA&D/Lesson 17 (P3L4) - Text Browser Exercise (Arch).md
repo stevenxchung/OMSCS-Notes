@@ -87,3 +87,9 @@ Component Based, Model View Controller, Pipe and Filter
 _To which component would you assign the responsibility of resizeWindow and its indirect effects?_
 
 `ViewPort` should have the responsibility of `resizeWindow`.
+
+### Invariant Maintenance Quiz
+
+_When a user event takes place, such as moving the ScrollBar handle, invariants within the TextBrowser are temporarily broken. When a user scrolls, which if the three invariants might break?_
+
+`displaysDocument` could be broken during scrolling.
