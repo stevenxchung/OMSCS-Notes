@@ -93,3 +93,9 @@ _To which component would you assign the responsibility of resizeWindow and its 
 _When a user event takes place, such as moving the ScrollBar handle, invariants within the TextBrowser are temporarily broken. When a user scrolls, which if the three invariants might break?_
 
 `displaysDocument` could be broken during scrolling.
+
+### Centralized Strategy Quiz
+
+_Which of the 3 invariant maintenance strategies is the most centralized?_
+
+Mediated responsibility since it can handle invariants in a single, highly cohesive location.
