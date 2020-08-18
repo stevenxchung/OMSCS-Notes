@@ -99,3 +99,9 @@ _When a user event takes place, such as moving the ScrollBar handle, invariants 
 _Which of the 3 invariant maintenance strategies is the most centralized?_
 
 Mediated responsibility since it can handle invariants in a single, highly cohesive location.
+
+### Decentralized Strategy Quiz
+
+_Which of the 3 invariant maintenance strategies is the most decentralized?_
+
+Distributed responsibility as responsibility is spread out.
