@@ -105,3 +105,9 @@ Mediated responsibility since it can handle invariants in a single, highly cohes
 _Which of the 3 invariant maintenance strategies is the most decentralized?_
 
 Distributed responsibility as responsibility is spread out.
+
+### Aggregated Responsibility Quiz
+
+_Describe how resizeWindow would be handled if the aggregated responsibility strategy is chosen._
+
+Since `ViewPort` aggregates the responsibility of `resizeWindow`, that method should part of the `ViewPort` class.
