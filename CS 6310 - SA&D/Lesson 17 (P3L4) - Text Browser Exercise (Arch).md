@@ -111,3 +111,9 @@ Distributed responsibility as responsibility is spread out.
 _Describe how resizeWindow would be handled if the aggregated responsibility strategy is chosen._
 
 Since `ViewPort` aggregates the responsibility of `resizeWindow`, that method should part of the `ViewPort` class.
+
+### Distributed Responsibility Quiz
+
+_Describe how resizeWindow would be handled if the distributed responsibility strategy is chosen._
+
+`resizeWindow` can turn into a utility method called by any class since resizing the window can be the responsibility of any of the main components for a distributed system.
