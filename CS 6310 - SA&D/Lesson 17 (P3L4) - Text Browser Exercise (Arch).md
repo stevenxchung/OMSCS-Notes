@@ -117,3 +117,9 @@ Since `ViewPort` aggregates the responsibility of `resizeWindow`, that method sh
 _Describe how resizeWindow would be handled if the distributed responsibility strategy is chosen._
 
 `resizeWindow` can turn into a utility method called by any class since resizing the window can be the responsibility of any of the main components for a distributed system.
+
+### Mediated Responsibility
+
+_Describe how resizeWindow would be handled if the mediated responsibility strategy is chosen._
+
+The responsibility is shifted to a mediator component which has access to `resizeWindow`. Whenever a component needs to handle the invariant, it interacts with the mediator component.
