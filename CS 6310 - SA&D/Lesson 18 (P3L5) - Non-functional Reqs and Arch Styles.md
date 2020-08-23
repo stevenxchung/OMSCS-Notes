@@ -170,3 +170,11 @@ Security:
 ## Summary
 
 When designing a system be sure to take into account the positives and negatives of each implementation.
+
+## Section Quizzes
+
+### Non-functional Qualities Quiz
+
+_There are many different non-functional qualities that a system might have. Try to name 3._
+
+Accessibility, learnability, usability, etc.
