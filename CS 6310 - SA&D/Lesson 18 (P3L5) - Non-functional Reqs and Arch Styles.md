@@ -178,3 +178,12 @@ When designing a system be sure to take into account the positives and negatives
 _There are many different non-functional qualities that a system might have. Try to name 3._
 
 Accessibility, learnability, usability, etc.
+
+### Functional And Non-functional Requirements Quiz
+
+_Imagine a program that plays TicTacToe against a human opponent. Here is a list of requirements. Please choose if each is a functional or non-functional requirement._
+
+1. Functional
+2. Non-functional
+3. Non-functional
+4. Functional
