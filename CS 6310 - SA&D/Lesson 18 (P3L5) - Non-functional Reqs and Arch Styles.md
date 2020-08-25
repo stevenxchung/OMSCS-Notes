@@ -187,3 +187,13 @@ _Imagine a program that plays TicTacToe against a human opponent. Here is a list
 2. Non-functional
 3. Non-functional
 4. Functional
+
+### Applications Quiz
+
+_The column lists the five qualities we just discussed (shown in lecture). The lists to the right contain the applications. See if you can match the quality to the application in which that quality is paramount._
+
+- Performance: weather prediction
+- Security: online banking
+- Safety: cruise control
+- Maintainability: Twitter API
+- Reliability: traffic light controller
