@@ -197,3 +197,12 @@ _The column lists the five qualities we just discussed (shown in lecture). The l
 - Safety: cruise control
 - Maintainability: Twitter API
 - Reliability: traffic light controller
+
+### Side Effects Quiz 1
+
+_Match each architectural style with a negative side effect it can have on system design._
+
+- Pipe and filter: increased coupling
+- Blackboard: can promote spread of bad data
+- Object-oriented: increase system fragmentation
+- Implicit invocation: reduced system understanding
