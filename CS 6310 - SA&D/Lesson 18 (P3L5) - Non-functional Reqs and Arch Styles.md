@@ -206,3 +206,12 @@ _Match each architectural style with a negative side effect it can have on syste
 - Blackboard: can promote spread of bad data
 - Object-oriented: increase system fragmentation
 - Implicit invocation: reduced system understanding
+
+### Side Effects Quiz 2
+
+_Now, match each non-functional requirement with the negative side effect using it might engender._
+
+- Reusability: increased system fragmentation
+- Reliability: compromised delivery schedule
+- Security: increased coupling
+- Performance: reduced system understanding
