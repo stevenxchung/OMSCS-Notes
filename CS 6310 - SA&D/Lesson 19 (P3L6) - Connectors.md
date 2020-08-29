@@ -101,3 +101,11 @@ Validation rules include:
 ## Summary
 
 The job is not finished after determining the components of a system. We still must specify connectors for each component as well. Treating connectors as part of the design process can help further the design process.
+
+## Section Quizzes
+
+### Pipe and Filter Quiz
+
+_For the pipe and filter architectural style, which is the component and which is the connector?_
+
+The _pipe_ is the _connector_ and the _filter_ is the _component_.
