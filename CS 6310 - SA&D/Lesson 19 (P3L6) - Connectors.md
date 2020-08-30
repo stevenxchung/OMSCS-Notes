@@ -109,3 +109,18 @@ The job is not finished after determining the components of a system. We still m
 _For the pipe and filter architectural style, which is the component and which is the connector?_
 
 The _pipe_ is the _connector_ and the _filter_ is the _component_.
+
+### Services Quiz
+
+_Provide service types for the following example services (shown in lecture)._
+
+1. Data buffering: f
+2. Acknowledgement: o
+3. Guaranteed delivery: o
+4. Dynamic reconfiguration: f
+5. Multiplexing: o
+6. Invocation: t
+7. Transactions: o
+8. Load balancing: f
+9. Scheduling: o
+10. Synchronization: o
