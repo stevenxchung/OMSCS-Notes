@@ -124,3 +124,13 @@ _Provide service types for the following example services (shown in lecture)._
 8. Load balancing: f
 9. Scheduling: o
 10. Synchronization: o
+
+### Connector Type Quiz
+
+_For each of the following connectors, match its corresponding connector type._
+
+- Remote procedure calls: procedure call
+- Schedulers: arbitrators
+- Buffers: stream
+- Shared library: linkage
+- SQL: data access
