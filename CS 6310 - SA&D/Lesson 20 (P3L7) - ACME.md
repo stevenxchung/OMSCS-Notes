@@ -42,3 +42,12 @@ ACME supports the modeling of architectural styles using **families**. Element t
 ## ACME Limitations
 
 The main goal of ACME is to enable architectural descriptions to be expressed in a way that can be used by a variety of tools. However, it lacks features found in more elaborate ADLs.
+
+## Section Quizzes
+
+### ACME Quiz
+
+_Update the ACME code (provided in lecture) to add a means of communications errors from the server to the client._
+
+- `Attachment client.err-trap to err.sink;`
+- `Attachment client.alert to err.source;`
