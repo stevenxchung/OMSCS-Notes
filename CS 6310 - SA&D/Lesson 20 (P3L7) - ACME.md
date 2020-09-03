@@ -62,3 +62,9 @@ _Match the ACME feature in the column with its description in the list (provided
 - Properties: name-value pairs for export to external tools
 - Rep-map: binding mechanism for vertical composition
 - Port: component interface
+
+### ACME Features Quiz 2
+
+_As ADLs go, ACME is relatively simple. In the text box, list some other features that you might like ACME to have._
+
+I mainly use TypeScript as the language-of-choice and IntelliJ as the IDE of choice. If ACME could also provide the same level of support that would be ideal.
