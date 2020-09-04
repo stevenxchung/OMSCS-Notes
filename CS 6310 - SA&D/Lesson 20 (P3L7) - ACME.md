@@ -51,3 +51,14 @@ _Update the ACME code (provided in lecture) to add a means of communications err
 
 - `Attachment client.err-trap to err.sink;`
 - `Attachment client.alert to err.source;`
+
+### ACME Features Quiz 1
+
+_Match the ACME feature in the column with its description in the list (provided in lecture)._
+
+- Role: connector interface
+- Open semantic framework: export formant for use by automated reasoners
+- Family: means of defining architectural styles
+- Properties: name-value pairs for export to external tools
+- Rep-map: binding mechanism for vertical composition
+- Port: component interface
