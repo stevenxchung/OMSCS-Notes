@@ -59,3 +59,17 @@ This refinement lesson could be summarized as follows:
 3. Each refinement is adequate
 4. Each refinement is total
 5. Concrete operation preconditions and post conditions model their abstract counterparts
+
+## Section Quizzes
+
+### Bank Account Quiz 1
+
+_Complete the OCL constraints (OCL provided in lecture)._
+
+- A: `>`
+- B: `transactions@pre`
+- C: `a`
+- D: `transactions@pre`
+- E: `-a`
+- F: `sum`
+- G: `transactions`
