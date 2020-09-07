@@ -73,3 +73,16 @@ _Complete the OCL constraints (OCL provided in lecture)._
 - E: `-a`
 - F: `sum`
 - G: `transactions`
+
+### Bank Account Quiz 2
+
+_Update your OCL (OCL provided in lecture) to reflect the addition of the new attribute `runningTotal`._
+
+- A: `runningTotal@pre`
+- B: `a`
+- C: `runningTotal@pre`
+- D: `-`
+- E: `a`
+- F: `runningTotal`
+- G: `0`
+- H: `transactions`
