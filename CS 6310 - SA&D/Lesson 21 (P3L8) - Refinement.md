@@ -86,3 +86,16 @@ _Update your OCL (OCL provided in lecture) to reflect the addition of the new at
 - F: `runningTotal`
 - G: `0`
 - H: `transactions`
+
+### Adequacy Quiz
+
+_If we have an abstract state that looks like the following:_
+
+```bash
+transactions: {3, -2, 4, 5, -6}
+```
+
+_What is the corresponding concrete state?_
+
+- `transactions`: {3, -2, 4, 5, -6};
+- `runningTotal`: 4
