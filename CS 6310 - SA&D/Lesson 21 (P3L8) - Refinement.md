@@ -99,3 +99,16 @@ _What is the corresponding concrete state?_
 
 - `transactions`: {3, -2, 4, 5, -6};
 - `runningTotal`: 4
+
+### Totality Quiz
+
+_The following is a valid concrete state:_
+
+```bash
+transactions: {13, -12, 3, 5, -6};
+runningTotal: 3
+```
+
+_What is the corresponding abstract state?_
+
+`transactions: {13, -12, 3, 5, -6}`
