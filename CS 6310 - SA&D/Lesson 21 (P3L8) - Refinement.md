@@ -112,3 +112,13 @@ runningTotal: 3
 _What is the corresponding abstract state?_
 
 `transactions: {13, -12, 3, 5, -6}`
+
+### Inputs Quiz
+
+_Which of the three operations in the account class are affected by this part of the modeling criterion?_
+
+Modeling criterion:
+
+> If the preconditions are acceptable to the abstract operation, then they must also be acceptable to the concrete operation."Affected" means "are defined differently in the concrete specification than they were in the abstract specification".
+
+Withdrawal only because the precondition refers to the running total instead of performing a sum on the transactions.
