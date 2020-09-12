@@ -194,3 +194,7 @@ It depends
 _For the sample voting application, should the clients or the server initiate interactions?_
 
 Client sends vote to server
+
+### Voting Application Quiz 4
+
+_In a typical use case, how many different machines might involved in the processing of a single user's vote?_
