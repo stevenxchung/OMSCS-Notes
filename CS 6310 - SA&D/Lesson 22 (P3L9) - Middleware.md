@@ -174,3 +174,11 @@ There are several characteristics of services:
 ## Summary
 
 To summarize, middleware is a collection of technologies for addressing non-functional constraints in heterogenous distributed applications. These technologies include APIs, protocols, tools, and design patterns.
+
+## Section Quizzes
+
+### Voting Application Quiz 1
+
+_For the sample application, what data needs to be transmitted from the web browser to the server?_
+
+Vote and question number
