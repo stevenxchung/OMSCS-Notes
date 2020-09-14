@@ -182,3 +182,9 @@ To summarize, middleware is a collection of technologies for addressing non-func
 _For the sample application, what data needs to be transmitted from the web browser to the server?_
 
 Vote and question number
+
+### Voting Application Quiz 2
+
+_Is there a need for transactions in the application?_
+
+It depends
