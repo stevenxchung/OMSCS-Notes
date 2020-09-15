@@ -188,3 +188,9 @@ Vote and question number
 _Is there a need for transactions in the application?_
 
 It depends
+
+### Voting Application Quiz 3
+
+_For the sample voting application, should the clients or the server initiate interactions?_
+
+Client sends vote to server
