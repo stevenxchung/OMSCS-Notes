@@ -198,3 +198,9 @@ Client sends vote to server
 ### Voting Application Quiz 4
 
 _In a typical use case, how many different machines might involved in the processing of a single user's vote?_
+
+### Voting Application Quiz 5
+
+_What languages and protocols might have been involved in delivering the vote to the server?_
+
+HTTP, SQL, AJAX
