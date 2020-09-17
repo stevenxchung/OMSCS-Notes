@@ -204,3 +204,12 @@ _In a typical use case, how many different machines might involved in the proces
 _What languages and protocols might have been involved in delivering the vote to the server?_
 
 HTTP, SQL, AJAX
+
+### LAMP Quiz
+
+_LAMP is a mild form of normative architecture. Look it up and match each of the elements with how they might apply to a voting application._
+
+- L: Linux operating system
+- A: Apache web server
+- M: MySQL database engine
+- P: PHP embedded SQL in HTML
