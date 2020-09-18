@@ -213,3 +213,9 @@ _LAMP is a mild form of normative architecture. Look it up and match each of the
 - A: Apache web server
 - M: MySQL database engine
 - P: PHP embedded SQL in HTML
+
+### Middleware Quiz
+
+_Which of the four forms of middleware would be the best match for the voting application?_
+
+Transactional
