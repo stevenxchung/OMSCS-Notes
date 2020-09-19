@@ -219,3 +219,9 @@ _LAMP is a mild form of normative architecture. Look it up and match each of the
 _Which of the four forms of middleware would be the best match for the voting application?_
 
 Transactional
+
+### Service Oriented Quiz
+
+_As currently defined, the voting application is not service oriented. What change would you make to have it correspond to the idea of services?_
+
+We cloud make it such that each component (i.e., web, backend server, database) are each hosted in the cloud as separate services. Additionally, we could break each functionality such as voting or polling into separate services (e.g., separate AWS Lambdas).
