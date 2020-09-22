@@ -144,3 +144,14 @@ Some ongoing concerns for components include:
 ## Summary
 
 Advent of viable component marketplace has opened up a whole new approach to building software applications. Components provide some of the flexibility that comes with building your own solution without incurring all of the associated risks.
+
+## Section Quizzes
+
+### Buy Quiz
+
+_Below are some business factors to consider when deciding whether to buy a software component from a 3rd party vendor . Choose whether each is enhanced or diminished if you decide to buy._
+
+- Your uniqueness with respect to your competitors: diminished
+- The amount of staff time required to develop the product of which the component is a part: enhanced
+- Your overall production costs: enhanced
+- Your control over the development process: diminished
