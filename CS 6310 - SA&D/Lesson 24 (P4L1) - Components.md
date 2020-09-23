@@ -155,3 +155,13 @@ _Below are some business factors to consider when deciding whether to buy a soft
 - The amount of staff time required to develop the product of which the component is a part: enhanced
 - Your overall production costs: enhanced
 - Your control over the development process: diminished
+
+### Third Party Quiz
+
+_In addition to buying complete applications or components , there are several other ways that 3rd parties can provide computational resources to a client. Match the example to the category:_
+
+- PThreads: software libraries
+- NIST time service: cloud-based services
+- Tom-Tom GPS: turn-key equipment
+- Checkstyle: IDE plugins
+- PHP: open-source software
