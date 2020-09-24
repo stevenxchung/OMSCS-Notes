@@ -165,3 +165,11 @@ _In addition to buying complete applications or components , there are several o
 - Tom-Tom GPS: turn-key equipment
 - Checkstyle: IDE plugins
 - PHP: open-source software
+
+### Component Models Quiz
+
+_Wordpress is a content management solution for blogs. Here are some requirements taken from the Wordpress codex. For each requirement, determine whether it concerns component syntax, component semantics, or component composition._
+
+- Any text output by the 'Action' function will appear in the page source at the location where the action was invoked: **component semantics**
+- Use well-structured, error-free PHP and valid HTML: **component composition**
+- Actions are triggered by specific events in Wordpress, such as publishing a post, changing themes, or displaying an administration screen. Action is a custom PHP function defined in your plugin and hooked to some of these events: **component syntax**
