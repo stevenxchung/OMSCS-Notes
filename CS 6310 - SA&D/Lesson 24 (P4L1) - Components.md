@@ -173,3 +173,9 @@ _Wordpress is a content management solution for blogs. Here are some requirement
 - Any text output by the 'Action' function will appear in the page source at the location where the action was invoked: **component semantics**
 - Use well-structured, error-free PHP and valid HTML: **component composition**
 - Actions are triggered by specific events in Wordpress, such as publishing a post, changing themes, or displaying an administration screen. Action is a custom PHP function defined in your plugin and hooked to some of these events: **component syntax**
+
+### Automobile Components Quiz
+
+_What are some of the 3rd party component on which automobile manufacturers rely?_
+
+Tires, dashboards, and other parts.
