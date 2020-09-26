@@ -179,3 +179,9 @@ _Wordpress is a content management solution for blogs. Here are some requirement
 _What are some of the 3rd party component on which automobile manufacturers rely?_
 
 Tires, dashboards, and other parts.
+
+### Callbacks Quiz
+
+_Consider this sequence diagram (shown in lecture) describing a typical callback situation in which a component captures a user event and invokes a client method via a callback. The component is subject to corruption during which time period?_
+
+Period D to E since the component method is exposed.
