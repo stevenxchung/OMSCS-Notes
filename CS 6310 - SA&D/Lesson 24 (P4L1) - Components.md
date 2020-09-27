@@ -185,3 +185,13 @@ Tires, dashboards, and other parts.
 _Consider this sequence diagram (shown in lecture) describing a typical callback situation in which a component captures a user event and invokes a client method via a callback. The component is subject to corruption during which time period?_
 
 Period D to E since the component method is exposed.
+
+### Guarantees Quiz
+
+_Consider the following snippets taken from the Oracle documentation of the format method in the Java PrintStream class. Classify each snippet as:_
+
+> 1 - signature, 2 - correctness, 3 - collaboration, or 4 - quality of service
+
+- Date formats are not synchronized. It is recommended that you create separate format instances for each thread. If multiple threads access a format concurrently, they must be synchronized externally: **3 - Collaboration**
+- `public PrintStream format(Locale 1, String format, Object, ... args)`: **1 - Signature**
+- If a format string contains illegal syntax, a format specifier that is incompatible with the given arguments, insufficient arguments given the format string, or other illegal conditions, then IllegalFormatException is thrown: **2 - Correctness**
