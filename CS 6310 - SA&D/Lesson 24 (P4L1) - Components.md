@@ -195,3 +195,14 @@ _Consider the following snippets taken from the Oracle documentation of the form
 - Date formats are not synchronized. It is recommended that you create separate format instances for each thread. If multiple threads access a format concurrently, they must be synchronized externally: **3 - Collaboration**
 - `public PrintStream format(Locale 1, String format, Object, ... args)`: **1 - Signature**
 - If a format string contains illegal syntax, a format specifier that is incompatible with the given arguments, insufficient arguments given the format string, or other illegal conditions, then IllegalFormatException is thrown: **2 - Correctness**
+
+### Proprietary or Domain Quiz
+
+_For each of the technologies below, determine whether each is proprietary technology or a domain standard._
+
+- HTML: domain standard
+- Direct3D: proprietary technology
+- UNIX: proprietary technology
+- OpenGL: domain standard
+- Java: proprietary technology
+- JavaScript: domain standard
