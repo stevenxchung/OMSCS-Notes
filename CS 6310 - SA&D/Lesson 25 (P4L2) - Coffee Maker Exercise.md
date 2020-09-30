@@ -42,3 +42,15 @@ Here is what Martin has to say about the dependency inversion principle regardin
 ## Summary
 
 Using traditional OOA does not always lead to the best solution. Think about using use cases to determine roles. You might have to use DIP to reduce coupling and promote reuse.
+
+## Section Quizzes
+
+The Mark IV Special Coffee Maker (Textual Description):
+
+> The Mark IV Special Coffee Maker makes up to 12 cups of coffee at a time. The user places a filter in the filter holder, fills the filter with coffee grounds, and slides the filter holder into its receptacle. The user then pours up to 12 cups of water into the water strainer and presses the Brew button. The water is heated until boiling. The pressure of the evolving steam forces the water to be sprayed over the coffee grounds, and coffee drips through the filter into the pot. The pot is kept warm for extended periods by a warmer plate, which only turns on if there is coffee in the pot. If the pot is removed from the warmer plate while water is being sprayed over the grounds, the flow of water is stopped so that brewed coffee does not spill on the warmer plate.
+
+### Hardware Quiz
+
+_One way of attacking a problem like this is from the bottom up. That is, you are given a device for which you are going to provide software support, so you determine what its capabilities are. Make a list of all the hardware devices that are part of the coffee maker._
+
+Coffee maker, filter, filter holder, receptacle, water strainer, brew button, pot, and warmer plate.
