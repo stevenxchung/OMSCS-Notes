@@ -54,3 +54,9 @@ The Mark IV Special Coffee Maker (Textual Description):
 _One way of attacking a problem like this is from the bottom up. That is, you are given a device for which you are going to provide software support, so you determine what its capabilities are. Make a list of all the hardware devices that are part of the coffee maker._
 
 Coffee maker, filter, filter holder, receptacle, water strainer, brew button, pot, and warmer plate.
+
+### Traditional Approach Quiz
+
+_The traditional OOA approach to modeling is to search for nouns (or noun phrases) in the problem statement and model them with classes. Do this now on the coffee maker description producing a list of nouns or noun phrases._
+
+`CoffeeMaker`, `Cups`, `Coffee`, `Filter`, `FilterHolder`, `Receptacle`, `WaterStrainer`, `BrewButton`, `Pot`, and `WarmerPlate`.
