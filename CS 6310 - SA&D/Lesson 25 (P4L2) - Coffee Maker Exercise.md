@@ -66,3 +66,9 @@ _The traditional OOA approach to modeling is to search for nouns (or noun phrase
 _One of the points of Martin's exercises is the limitations of the traditional approach. See how many problems you can detect with this design (shown in lecture)._
 
 There does not seem to be any attributes or methods in this diagram. Furthermore, it seems like the key objects such as coffee or coffee grounds, water, filter, cups, and pot is missing from the diagram.
+
+### Brew Button Quiz
+
+_Let's look at the first use case: user presses the brew button, and play through what happens. First off, which of the three classes receives this event from the hardware interface?_
+
+User interface should be responsible for delegating tasks.
