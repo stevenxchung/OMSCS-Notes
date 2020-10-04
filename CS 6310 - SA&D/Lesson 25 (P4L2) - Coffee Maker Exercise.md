@@ -72,3 +72,9 @@ There does not seem to be any attributes or methods in this diagram. Furthermore
 _Let's look at the first use case: user presses the brew button, and play through what happens. First off, which of the three classes receives this event from the hardware interface?_
 
 User interface should be responsible for delegating tasks.
+
+### Hardware API Quiz
+
+_To proceed with our object design, we could implement the described behaviors (of the coffee maker) as methods in each of the three classes by having them make calls to the hardware API. This would be the wrong approach. Why?_
+
+The coupling would be too tight between the client code and the specific hardware.
