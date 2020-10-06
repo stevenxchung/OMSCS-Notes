@@ -85,3 +85,11 @@ How do we go about implementing control?
 ## OOD Summary
 
 OOA goes a long way. However, the OOD process allows us to address how to best deal with UML elements in a OOP setting. We should think through the tradeoffs involved before choosing a solution.
+
+## Section Quizzes
+
+### OOA To OOD Quiz
+
+_What UML elements, used in OOA models do not have direct equivalents in object-oriented programming languages?_
+
+Associations, aggregations, invariants, and state charts to name a few.
