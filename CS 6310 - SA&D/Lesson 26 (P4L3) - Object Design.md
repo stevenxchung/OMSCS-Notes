@@ -93,3 +93,9 @@ OOA goes a long way. However, the OOD process allows us to address how to best d
 _What UML elements, used in OOA models do not have direct equivalents in object-oriented programming languages?_
 
 Associations, aggregations, invariants, and state charts to name a few.
+
+### Generalization Quiz
+
+_If you were implementing generalization between squares and rectangles, would you make Square a subclass of Rectangle in which both sides are equal? Or would you make Rectangle a subclass of Square with an additional attribute?_
+
+Either implementation could work, it depends on which class is defined first and how it is defined.
