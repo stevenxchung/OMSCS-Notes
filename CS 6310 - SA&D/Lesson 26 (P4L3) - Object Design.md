@@ -99,3 +99,12 @@ Associations, aggregations, invariants, and state charts to name a few.
 _If you were implementing generalization between squares and rectangles, would you make Square a subclass of Rectangle in which both sides are equal? Or would you make Rectangle a subclass of Square with an additional attribute?_
 
 Either implementation could work, it depends on which class is defined first and how it is defined.
+
+### Associations Quiz
+
+_Consider the problem of implementing the Takes association between Students and Courses. For each of the following 4 options (provided in lecture), match each with its major disadvantage._
+
+- In each student, create a reference that refers to the `Course` that student is taking: a student can take only one course
+- In each course, create a `Vector` of references to students: hard to find the courses taken by students
+- Create a `Takes` association class that contains an attribute for `Student` and `Course`: extra step involved in each query
+- Use symmetric `Vectors` in `Student` and `Course`: referential integrity maintenance
