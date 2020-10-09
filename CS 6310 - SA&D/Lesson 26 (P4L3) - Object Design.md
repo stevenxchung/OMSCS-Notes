@@ -108,3 +108,12 @@ _Consider the problem of implementing the Takes association between Students and
 - In each course, create a `Vector` of references to students: hard to find the courses taken by students
 - Create a `Takes` association class that contains an attribute for `Student` and `Course`: extra step involved in each query
 - Use symmetric `Vectors` in `Student` and `Course`: referential integrity maintenance
+
+### Modeling To Implementation Quiz
+
+_Match each OOA modeling concept (provided in lecture) with a Java concept that might be used for its implementation._
+
+- Generalization: sub-classing
+- Aggregation: collection classes
+- Invariant: methods and constructors
+- State: enumerations
