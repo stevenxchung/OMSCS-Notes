@@ -107,3 +107,11 @@ There are several problem areas regarding patterns:
 ## Summary
 
 Patterns are an essential part of all developers' vocabularies. It is difficult to passively learn design patterns. Although there are some costs and potential problems might arise, they are so powerful that we should take advantage of them when possible.
+
+## Section Quizzes
+
+### Patterns And UML Quiz
+
+_UML class model diagrams distinguish associations in which deleting a collection deletes its elements from those that don't. What is the visual indication of the former?_
+
+A filled diamond on the collection end of the line.
