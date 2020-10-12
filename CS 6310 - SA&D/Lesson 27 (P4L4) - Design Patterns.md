@@ -115,3 +115,12 @@ Patterns are an essential part of all developers' vocabularies. It is difficult 
 _UML class model diagrams distinguish associations in which deleting a collection deletes its elements from those that don't. What is the visual indication of the former?_
 
 A filled diamond on the collection end of the line.
+
+### Composite Pattern Quiz
+
+_Imagine that you were writing an application to manage parts inventories. Match the class names from the Composite pattern given to the application data in the list._
+
+- Client: `OutOfStockDetector`
+- Component: `InventoryItem`
+- Leaf: `StainlessSteelHexBolt(3/8")`
+- Composite: `BlueBirdBoxKit`
