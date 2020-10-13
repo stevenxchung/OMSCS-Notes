@@ -124,3 +124,9 @@ _Imagine that you were writing an application to manage parts inventories. Match
 - Component: `InventoryItem`
 - Leaf: `StainlessSteelHexBolt(3/8")`
 - Composite: `BlueBirdBoxKit`
+
+### Singleton Quiz
+
+_Say you wrote a battery of unit tests for an application that you intend to run frequently during development. Assuming you use a single process for testing, what difficulty does a Singleton impose on this approach?_
+
+Support of independent tests as there is only one instance of the class.
