@@ -130,3 +130,9 @@ _Imagine that you were writing an application to manage parts inventories. Match
 _Say you wrote a battery of unit tests for an application that you intend to run frequently during development. Assuming you use a single process for testing, what difficulty does a Singleton impose on this approach?_
 
 Support of independent tests as there is only one instance of the class.
+
+### Pattern Quiz 1
+
+_Which design pattern does the following object model (provided in lecture) represent?_
+
+Adapter since it is responsible for altering the interface that an object provides to conform to the needs of its clients. Often, these clients comprise of legacy code that cannot be readily altered.
