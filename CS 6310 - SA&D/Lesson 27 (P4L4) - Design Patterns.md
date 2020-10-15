@@ -136,3 +136,9 @@ Support of independent tests as there is only one instance of the class.
 _Which design pattern does the following object model (provided in lecture) represent?_
 
 Adapter since it is responsible for altering the interface that an object provides to conform to the needs of its clients. Often, these clients comprise of legacy code that cannot be readily altered.
+
+### Pattern Quiz 2
+
+_Which design pattern does the following object model (provided in lecture) represent?_
+
+Builder since it isolates the steps involved in constructing a complex object from the representation of that object.
