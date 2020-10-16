@@ -142,3 +142,9 @@ Adapter since it is responsible for altering the interface that an object provid
 _Which design pattern does the following object model (provided in lecture) represent?_
 
 Builder since it isolates the steps involved in constructing a complex object from the representation of that object.
+
+### Pattern Quiz 3
+
+_Which design pattern does the following object model (provided in lecture) represent?_
+
+Iterator because it is responsible for traversing a collection, applying some action to each element. This enables clients to visit each element without necessarily knowing how the collection is implemented.
