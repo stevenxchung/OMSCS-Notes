@@ -99,3 +99,14 @@ There are two other principles we should examine along with the previous princip
 ## Summary
 
 A catalog of design principles may be too abstract to be immediately useful. However, by being made aware of these principles we will be sensitized to problematic situations when they arise.
+
+## Section Quizzes
+
+### Foundational Concepts Quiz
+
+_Match the described design principal (provided in lecture) with the situation._
+
+- Coupling: requires more code reading
+- Cohesion: improves reusability
+- Orthogonality: enables maximum variability
+- Information hiding: raises the level of abstraction
