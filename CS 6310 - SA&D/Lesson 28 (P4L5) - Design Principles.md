@@ -110,3 +110,9 @@ _Match the described design principal (provided in lecture) with the situation._
 - Cohesion: improves reusability
 - Orthogonality: enables maximum variability
 - Information hiding: raises the level of abstraction
+
+### Design Principles Quiz
+
+_Assume the robot class is very complex, and now we have to change it to include a new Fancy motor. Making this change will be difficult with the current design (provided in lecture) because it violates which design principle?_
+
+Dependency inversion principle since high level modules should not depend upon low level modules.
