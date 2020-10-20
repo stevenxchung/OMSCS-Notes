@@ -116,3 +116,9 @@ _Match the described design principal (provided in lecture) with the situation._
 _Assume the robot class is very complex, and now we have to change it to include a new Fancy motor. Making this change will be difficult with the current design (provided in lecture) because it violates which design principle?_
 
 Dependency inversion principle since high level modules should not depend upon low level modules.
+
+### Principles and Heuristics Quiz
+
+_James Gosling was the author of the Java programming language. At a Java users' group meeting, he was asked, "If you could do Java over again, what would you change?" He replied, "I'd leave out classes." Which of the principles or heuristics (provided in lecture) that have been mentioned in this lesson supports this idea?_
+
+Liskov substitution, interface segregation, stable abstraction, and Riel's design heuristics principle. These principles suggest that inheritance should be used only to model a generalization hierarchy.
