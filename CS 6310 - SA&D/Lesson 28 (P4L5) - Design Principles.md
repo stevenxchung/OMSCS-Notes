@@ -117,7 +117,7 @@ _Assume the robot class is very complex, and now we have to change it to include
 
 Dependency inversion principle since high level modules should not depend upon low level modules.
 
-### Principles and Heuristics Quiz
+### Principles And Heuristics Quiz
 
 _James Gosling was the author of the Java programming language. At a Java users' group meeting, he was asked, "If you could do Java over again, what would you change?" He replied, "I'd leave out classes." Which of the principles or heuristics (provided in lecture) that have been mentioned in this lesson supports this idea?_
 
