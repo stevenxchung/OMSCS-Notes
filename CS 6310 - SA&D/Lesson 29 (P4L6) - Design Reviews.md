@@ -122,3 +122,12 @@ Costs include:
 ## Summary
 
 The later that a problem is detected, the more expensive it is to fix. Consequently, reviews are a cost effective way to find problems. However, reviews run the risk of revealing shallow problems. To reveal the real problems requires exposure of the design to experienced designers. Generally, short-term costs will be offset by the eventual saving.
+
+## Section Quizzes
+
+### Defects Quiz 1
+
+_Write down defects you see with the line number and the defect detected._
+
+- Line 6: `term = x` is a `float` assigned to a `double` variable
+- Line 9: `term < e` is trying to evaluate different types
