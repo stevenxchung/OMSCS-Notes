@@ -131,3 +131,12 @@ _Write down defects you see with the line number and the defect detected._
 
 - Line 6: `term = x` is a `float` assigned to a `double` variable
 - Line 9: `term < e` is trying to evaluate different types
+
+### Defects Quiz 2
+
+_Indicate the type of error found on each line. Mark bug (B), documentation issue (D) , violation of coding standard (V), or inefficiency (I). For lines with multiple errors, enter as a list. Please enter the line number and the error(s) found._
+
+- Line [1, 5, 6, 9, 10]: B
+- Line 2: D
+- Line 6: V
+- Line [6, 8, 10]: I
