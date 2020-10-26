@@ -15,6 +15,11 @@ Resources:
 - Bian, D., Wade, J., Warren, Z., & Sarkar, N. (2016, July). Online Engagement Detection and Task Adaptation in a Virtual Reality Based Driving Simulator for Autism Intervention. In International Conference on Universal Access in Human-Computer Interaction (pp. 538-547). Springer International Publishing.
 - North, M. M., & North, S. M. (2016). Virtual reality therapy. In Computer-Assisted and Web-Based Innovations in Psychology, Special Education, and Health, 141.
 
+Books:
+
+- Biocca, F., & Levy, M. R. (Eds.). (2013). Communication in the age of virtual reality. Routledge.
+- Earnshaw, R. A. (Ed.). (2014). Virtual reality systems. Academic Press.
+
 ## Technology: Augmented Reality
 
 **Augmented reality** - real-world environments that are complemented by computer-generated multimedia.
@@ -30,6 +35,11 @@ Resources:
 - Anderson, F., Grossman, T., Matejka, J., & Fitzmaurice, G. (2013, October). YouMove: enhancing movement training with an augmented reality mirror. In Proceedings of the 26th Annual ACM Symposium on User Interface Software and Technology (pp. 311-320). ACM.
 - Zhu, E., Hadadgar, A., Masiello, I., & Zary, N. (2014). Augmented reality in healthcare education: an integrative review. PeerJ, 2, e469.
 
+Books:
+
+- Schmalstieg, D. & Hollerer, T. (2016). Augmented Reality: Principles and Practice. Addison-Wesley Professional.
+- Craig, A. B. (2013). Understanding Augmented Reality: Concepts and Applications. Newnes.
+
 ## Technology: Ubiquitous Computing And Wearables
 
 - **Ubiquitous computing** - computing power anytime, anywhere.
@@ -41,6 +51,11 @@ Resources:
 - Lv, Z., Halawani, A., Feng, S., Ur Réhman, S., & Li, H. (2015). Touch-less interactive augmented reality game on vision-based wearable device. Personal and Ubiquitous Computing, 19(3-4), 551-567.
 - Clear, A. K., Comber, R., Friday, A., Ganglbauer, E., Hazas, M., & Rogers, Y. (2013, September). Green food technology: UbiComp opportunities for reducing the environmental impacts of food. In Proceedings of the 2013 ACM Conference on Pervasive and Ubiquitous Computing, 553-558. ACM.
 - De Haan, G. (2013, April). A Vision of the Future of Media Technology Design Education-design and education from HCI to UbiComp. In Proceedings of the 3rd Computer Science Education Research Conference on Computer Science Education Research, 67-72. Open Universiteit, Heerlen.
+
+Books:
+
+- Krumm, J. (2016). Ubiquitous Computing Fundamentals. CRC Press.
+- Sazonov, E. & Neuman, M. (2014). Wearable Sensors: Fundamentals, Implementation, and Applications. Academic Press.
 
 ## Technology: Robotics
 
@@ -57,6 +72,11 @@ Resources:
 - Złotowski, J., Proudfoot, D., Yogeeswaran, K., & Bartneck, C. (2015). Anthropomorphism: opportunities and challenges in human–robot interaction. International Journal of Social Robotics, 7(3), 347-360.
 - Broz, F., Nourbakhsh, I., & Simmons, R. (2013). Planning for human–robot interaction in socially situated tasks. International Journal of Social Robotics, 5(2), 193-214.
 
+Books:
+
+- Dautenhahn, K. & Saunders, J. (Eds.) (2011). New Frontiers in Human-Robot Interaction. John Benjamins Publishing Co.
+- Rahimi, M. & Karwowski, W. (Eds.) (2003). Human-Robot Interaction. Taylor & Francis.
+
 ## Technology: Mobile
 
 **Mobile** - portable computing devices built to be used easily on the go
@@ -67,3 +87,17 @@ Resources:
 - Kjeldskov, J., & Skov, M. B. (2014, September). Was it worth the hassle?: ten years of mobile HCI research discussions on lab and field evaluations. In Proceedings of the 16th International Conference on Human-Computer Interaction with Mobile Devices & Services, 43-52. ACM.
 - McMillan, D., Morrison, A., & Chalmers, M. (2013, April). Categorised ethical guidelines for large scale mobile HCI. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 1853-1862. ACM.
 - Sakamoto, D., Komatsu, T., & Igarashi, T. (2013, August). Voice augmented manipulation: using paralinguistic information to manipulate mobile devices. In Proceedings of the 15th International Conference on Human-Computer Interaction with Mobile Devices and Services, 69-78. ACM.
+
+Conferences:
+
+- 18th International Conference on Human-Computer Interaction with Mobile Devices and Services
+- 17th International Conference on Human-Computer Interaction with Mobile Devices and Services
+- 16th International Conference on Human-Computer Interaction with Mobile Devices and Services
+- 15th International Conference on Human-Computer Interaction with Mobile Devices and Services
+  Recommended Books:
+
+Books:
+
+- Love, S. (2005). Understanding Mobile Human-Computer Interaction. Elsevier.
+- Kjeldskov, J. (2014). Mobile Interactions in Context: A Designerly Way Toward Digital Ecology. Morgan & Claypool Publishers.
+  Dedicated Courses:
