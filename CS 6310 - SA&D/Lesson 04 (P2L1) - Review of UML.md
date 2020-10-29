@@ -1,6 +1,6 @@
 # Lesson 4
 
-In this lesson, we will cover the different types of diagrams used in software architecture and design.
+In this lesson we will cover the different types of diagrams used in software architecture and design.
 
 ## OMT
 
