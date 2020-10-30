@@ -1,6 +1,6 @@
 # Lesson 5
 
-In this lesson, we will focus on analysis or the process of understanding the problem. In particular, this lesson will go over a specific form of analysis known as **OOA (Object-oriented Analysis)**.
+In this lesson we will focus on analysis or the process of understanding the problem. In particular, this lesson will go over a specific form of analysis known as **OOA (Object-oriented Analysis)**.
 
 ## Object Oriented Analysis (OOA)
 
