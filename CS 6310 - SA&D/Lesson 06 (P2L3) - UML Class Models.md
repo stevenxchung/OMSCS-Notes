@@ -1,6 +1,6 @@
 # Lesson 6
 
-In this lesson, we will cover how to express the results of OOA using **UML (Unified Modeling Language)**. We will mainly be focusing on the Class Model Diagram (also called Static Structure Diagrams) which is the most popular and most complex of the diagrams (although there is no need to use all of its features). This type of diagram contains representations for:
+In this lesson we will cover how to express the results of OOA using **UML (Unified Modeling Language)**. We will mainly be focusing on the Class Model Diagram (also called Static Structure Diagrams) which is the most popular and most complex of the diagrams (although there is no need to use all of its features). This type of diagram contains representations for:
 
 - Classes
 - Interfaces
