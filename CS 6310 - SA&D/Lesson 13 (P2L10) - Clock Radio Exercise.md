@@ -1,6 +1,6 @@
 # Lesson 13
 
-State charts are a precise way of modeling the behavior of complex, reactive systems. Errors can lead to safety, security and usability problems. In this lesson, we will examine how to model the behavior of a common clock radio.
+State charts are a precise way of modeling the behavior of complex, reactive systems. Errors can lead to safety, security and usability problems. In this lesson we will examine how to model the behavior of a common clock radio.
 
 ## Description
 
