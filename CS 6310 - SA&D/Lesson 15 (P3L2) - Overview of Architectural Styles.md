@@ -1,6 +1,6 @@
 # Lesson 15
 
-The second major topic in this course is software architecture. In this lesson, we will examine software architecture as well as diagrams that go along with software architecture.
+The second major topic in this course is software architecture. In this lesson we will examine software architecture as well as diagrams that go along with software architecture.
 
 ## Informal Definition
 
