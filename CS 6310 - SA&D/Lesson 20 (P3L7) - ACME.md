@@ -1,6 +1,6 @@
 # Lesson 20
 
-As software architecture evolves so do the tools required to describe architectures. In this lesson, we will examine **ADL** (Architecture Description Language).
+As software architecture evolves so do the tools required to describe architectures. In this lesson we will examine **ADL** (Architecture Description Language).
 
 ## ACME
 
