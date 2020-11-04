@@ -1,6 +1,6 @@
 # Lesson 27
 
-The most important predictor of a successful product design effort is the extent to which a team possesses experience on related problems. An indicator of design experience is **design pattern** knowledge. Design patterns are a description of a solution to a problem in a context. In this lesson, we will examine design patterns more thoroughly.
+The most important predictor of a successful product design effort is the extent to which a team possesses experience on related problems. An indicator of design experience is **design pattern** knowledge. Design patterns are a description of a solution to a problem in a context. In this lesson we will examine design patterns more thoroughly.
 
 ## Architectural Patterns
 
