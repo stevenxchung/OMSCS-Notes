@@ -1,6 +1,6 @@
 # Lesson 28
 
-Recall that design cannot be taught, rather it has to be learned through experience. So far we have gone through several ways to learn from the experience of others. In this lesson, we will examine design principles.
+Recall that design cannot be taught, rather it has to be learned through experience. So far we have gone through several ways to learn from the experience of others. In this lesson we will examine design principles.
 
 ## Design Quality
 
