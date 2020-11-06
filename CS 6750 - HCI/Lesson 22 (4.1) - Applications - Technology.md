@@ -1,6 +1,6 @@
 # Lesson 22
 
-In this lesson, we look into areas of HCI which may interest you.
+In this lesson we look into areas of HCI which may interest you.
 
 ## Technology: Virtual Reality
 
