@@ -1,6 +1,6 @@
 # Lesson 10
 
-In this lesson, we will look into two methods for task analysis:
+In this lesson we will look into two methods for task analysis:
 
 1. Human information processor models
 2. Cognitive task analysis
