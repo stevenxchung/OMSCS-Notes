@@ -1,6 +1,6 @@
 # Lesson 11
 
-In this lesson, we will look into the four models of context surrounding HCI:
+In this lesson we will look into the four models of context surrounding HCI:
 
 1. Distributed cognition
 2. Social cognition
