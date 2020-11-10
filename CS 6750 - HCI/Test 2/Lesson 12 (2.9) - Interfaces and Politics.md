@@ -1,6 +1,6 @@
 # Lesson 12
 
-In this lesson, we will cover interfaces and politics:
+In this lesson we will cover interfaces and politics:
 
 - **Politics** - Whether artifacts can personify specific forms of authority or power, whether good or bad
 
