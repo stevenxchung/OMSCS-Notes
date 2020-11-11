@@ -1,6 +1,6 @@
 # Lesson 13
 
-In this lesson, we will attempt to tie together all the different threads on design principles.
+In this lesson we will attempt to tie together all the different threads on design principles.
 
 ## Zooming Out: Human As Processor
 
