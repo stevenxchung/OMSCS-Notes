@@ -1,6 +1,6 @@
 # Lesson 20
 
-In this lesson, we will cover how we might use agile development methods to engage in quicker feedback cycles.
+In this lesson we will cover how we might use agile development methods to engage in quicker feedback cycles.
 
 ## The Demand For Rapid Hci
 
