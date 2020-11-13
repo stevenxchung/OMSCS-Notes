@@ -1,6 +1,6 @@
 # Lesson 21
 
-In this lesson, we will attempt to tie together all the different topics on methods and design principles.
+In this lesson we will attempt to tie together all the different topics on methods and design principles.
 
 ## Designing Audiobooks For Exercisers
 
