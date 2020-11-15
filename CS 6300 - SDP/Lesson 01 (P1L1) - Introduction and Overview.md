@@ -8,3 +8,13 @@ This lesson will serve to provide and overview of the entire course then cover q
 ## Importance Of Software Engineering
 
 There are many takes on the importance of software engineering. Software engineering today involves many stakeholders and engineers working together to deliver technology that meets the requirements of all stakeholders and the customer. Today, software is ubiquitous with everyday life.
+
+## Discipline Of Software Engineering
+
+Why is it so difficult to built good software? To build good software requires:
+
+- Methodologies
+- Techniques
+- Tools
+
+The deliverable must be a _high quality_ product that _works_ and _fits the budget_.
