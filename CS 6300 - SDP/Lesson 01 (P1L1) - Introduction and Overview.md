@@ -18,3 +18,11 @@ Why is it so difficult to built good software? To build good software requires:
 - Tools
 
 The deliverable must be a _high quality_ product that _works_ and _fits the budget_.
+
+## The Software Crisis
+
+There were many reasons for the software crisis in the 1960s:
+
+1. The demand for software from 1950 to 2000 grew exponentially
+2. The development effort for bigger deliverables (e.g., operating system, distributed system, etc.) became a _software engineering_ effort
+3. The software developers' productivity could not keep up with the software size and complexity
