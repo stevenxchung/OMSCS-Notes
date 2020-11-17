@@ -26,3 +26,12 @@ There were many reasons for the software crisis in the 1960s:
 1. The demand for software from 1950 to 2000 grew exponentially
 2. The development effort for bigger deliverables (e.g., operating system, distributed system, etc.) became a _software engineering_ effort
 3. The software developers' productivity could not keep up with the software size and complexity
+
+## Evidence of the Software Crisis
+
+In 1990, Davis studied nine software development contracts where majority of the budget spent on software ($5M out of $7M) resulted in software that was:
+
+- Delivered but never successfully used
+- Not delivered
+
+This study resulted in the NATO software engineering conferences starting in January 1969.
