@@ -35,3 +35,12 @@ In 1990, Davis studied nine software development contracts where majority of the
 - Not delivered
 
 This study resulted in the NATO software engineering conferences starting in January 1969.
+
+## Software Development
+
+Software development is the process in which an abstract idea becomes a concrete system that implements the abstract idea. For this to happen, an abstract idea must go through several software processes which are:
+
+1. Systematic
+2. Formal
+
+Such that many different parts can come together to implement the abstract idea.
