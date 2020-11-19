@@ -44,3 +44,12 @@ Software development is the process in which an abstract idea becomes a concrete
 2. Formal
 
 Such that many different parts can come together to implement the abstract idea.
+
+## Software Process
+
+There are many different software processes. In this course we will cover:
+
+1. Waterfall
+2. Evolutionary prototype
+3. RUP/USP (Rational Unified Process/Unified Software Process)
+4. Agile
