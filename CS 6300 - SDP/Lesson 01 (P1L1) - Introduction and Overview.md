@@ -53,3 +53,13 @@ There are many different software processes. In this course we will cover:
 2. Evolutionary prototype
 3. RUP/USP (Rational Unified Process/Unified Software Process)
 4. Agile
+
+## Software Phases
+
+There are various software phases in the software process:
+
+1. Requirements engineering
+2. Design
+3. Implementation
+4. Verification and validation
+5. Maintenance
