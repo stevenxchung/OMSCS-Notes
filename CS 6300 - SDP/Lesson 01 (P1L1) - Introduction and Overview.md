@@ -71,3 +71,11 @@ Software tools can help close the gap between developers' productivity and softw
 1. IDE (integrated development environments)
 2. VCS (version control systems)
 3. Coverage and verification tools
+
+## Section Quizzes
+
+### Software Failure Quiz
+
+_What is this (image provided)?_
+
+Explosion of Ariane 5 rocket due to software errors.
