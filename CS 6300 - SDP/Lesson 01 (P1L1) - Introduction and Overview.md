@@ -63,3 +63,11 @@ There are various software phases in the software process:
 3. Implementation
 4. Verification and validation
 5. Maintenance
+
+## Tools Of The Trade
+
+Software tools can help close the gap between developers' productivity and software size and complexity. The main tools we will examine in this class are:
+
+1. IDE (integrated development environments)
+2. VCS (version control systems)
+3. Coverage and verification tools
