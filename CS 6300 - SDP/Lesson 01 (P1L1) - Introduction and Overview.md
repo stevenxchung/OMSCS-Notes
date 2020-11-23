@@ -79,3 +79,11 @@ Software tools can help close the gap between developers' productivity and softw
 _What is this (image provided)?_
 
 Explosion of Ariane 5 rocket due to software errors.
+
+### Software Crisis Quiz
+
+_What are the major causes of the software crisis?_
+
+- Increasing product complexity
+- Slow programmers' productivity growth
+- Rising demand for software
