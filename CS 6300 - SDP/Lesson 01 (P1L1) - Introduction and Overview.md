@@ -87,3 +87,8 @@ _What are the major causes of the software crisis?_
 - Increasing product complexity
 - Slow programmers' productivity growth
 - Rising demand for software
+
+## Preliminary Questions 1 Quiz
+
+1. _What is the largest software system on which you have worked?_ Banking
+2. _How many LOC/day were you producing?_ Depends.
