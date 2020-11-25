@@ -92,3 +92,9 @@ _What are the major causes of the software crisis?_
 
 1. _What is the largest software system on which you have worked?_ Banking
 2. _How many LOC/day were you producing?_ Depends.
+
+## Preliminary Questions 2 Quiz
+
+_How many LOC/day do you think professional software engineers produce?_
+
+Around 50-100 LOC.
