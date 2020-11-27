@@ -18,3 +18,7 @@ Recall that there are several phases in software:
    - Corrective maintenance
    - Perfective maintenance
    - Adaptive maintenance
+
+## Software Process Model Introduction
+
+The software process model should describe what we should do next and how long we should continue to do it for each activity.
