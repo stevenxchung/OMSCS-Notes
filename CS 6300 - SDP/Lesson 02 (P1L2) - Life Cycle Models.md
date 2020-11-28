@@ -22,3 +22,19 @@ Recall that there are several phases in software:
 ## Software Process Model Introduction
 
 The software process model should describe what we should do next and how long we should continue to do it for each activity.
+
+## Software Processes
+
+There are various software lifecycle processes:
+
+- **Waterfall**: a software process that occurs in a linear fashion
+  - Pros: finding errors early
+  - Cons: this process is not flexible
+- **Spiral**: a process that involves several of steps (determine objectives, identify and resolve risks, development and tests, and plan the next iteration)
+  - Pros: risk reduction, added functionality, early software delivery
+  - Cons: specific expertise, dependent on risk analysis, complex
+- **Evolutionary prototyping**: mainly based around prototyping
+  - Pros: immediate feedback
+  - Cons: difficult to plan
+- **RUP (Rational Unified Process)**: is a UML (Unified Modeling Language) based process which includes inception, elaboration, construction, and transition for each activity
+- **Agile**: a group of software development methods which are based on highly iterative and incremental development
