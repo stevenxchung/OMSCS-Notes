@@ -38,3 +38,14 @@ There are various software lifecycle processes:
   - Cons: difficult to plan
 - **RUP (Rational Unified Process)**: is a UML (Unified Modeling Language) based process which includes inception, elaboration, construction, and transition for each activity
 - **Agile**: a group of software development methods which are based on highly iterative and incremental development
+
+## Choosing A Model
+
+Choosing the right model for software development depends on many factors below are several to consider:
+
+- Requirements understanding
+- Expected lifetime
+- Risk
+- Schedule constraints
+- Interaction with management and customers
+- Expertise
