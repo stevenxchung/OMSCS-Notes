@@ -49,3 +49,12 @@ Choosing the right model for software development depends on many factors below 
 - Schedule constraints
 - Interaction with management and customers
 - Expertise
+
+## Classic Mistakes
+
+There are several classic mistakes during the software development process:
+
+1. People: heroics, work environment, and people management
+2. Process: scheduling issues, planning issues, failures
+3. Product: gold plating, feature creep, development that is actually research
+4. Technology: silver bullet syndrome, switching tools, no version control
