@@ -58,3 +58,15 @@ There are several classic mistakes during the software development process:
 2. Process: scheduling issues, planning issues, failures
 3. Product: gold plating, feature creep, development that is actually research
 4. Technology: silver bullet syndrome, switching tools, no version control
+
+## Section Quizzes
+
+### Software Phases Quiz
+
+_What are the traditional software phases?_
+
+1. Requirements engineering
+2. Design
+3. Implementation
+4. Verification and validation
+5. Maintenance
