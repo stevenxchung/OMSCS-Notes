@@ -70,3 +70,9 @@ _What are the traditional software phases?_
 3. Implementation
 4. Verification and validation
 5. Maintenance
+
+### Choosing A Model Quiz 1
+
+_Which of the following models is most suitable to develop a software control system?_
+
+Pure waterfall.
