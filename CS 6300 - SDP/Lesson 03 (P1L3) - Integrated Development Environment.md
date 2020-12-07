@@ -19,3 +19,9 @@ What is an IDE? An IDE provides the following:
 5. Runtime
 6. Testing
 7. Debugger
+
+## Plug-ins
+
+What is a plug-in? From wiki:
+
+> In computing, a plug-in (or plugin, add-in, addin, add-on, or addon) is a software component that adds a specific feature to an existing computer program. When a program supports plug-ins, it enables customization.
