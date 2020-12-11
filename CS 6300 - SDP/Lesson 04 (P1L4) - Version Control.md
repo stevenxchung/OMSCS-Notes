@@ -16,3 +16,11 @@ Why is VCS useful?
 4. Enables collaboration
 5. Recovers from accidental deletions or edits
 6. Conserves disk space
+
+## Essential Actions
+
+There are several essential actions when it comes to version control:
+
+1. Add
+2. Commit
+3. Update
