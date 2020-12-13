@@ -32,3 +32,10 @@ There are a couple of things we should not do in VCS:
 - Do not add derived files (such as executable files)
 - Do not add bulky binary files
 - Do not use local copies
+
+## Two Main Types Of VCS
+
+There are two main types of VCS:
+
+- **Centralized**: each person works directly with a centralized repository
+- **Decentralized**: each person works directly with a forked-copy of the upstream repository and can push final changes to the upstream repository
