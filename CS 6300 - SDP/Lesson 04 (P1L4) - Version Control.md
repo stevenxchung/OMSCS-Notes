@@ -24,3 +24,11 @@ There are several essential actions when it comes to version control:
 1. Add
 2. Commit
 3. Update
+
+## Do Nots In VSC
+
+There are a couple of things we should not do in VCS:
+
+- Do not add derived files (such as executable files)
+- Do not add bulky binary files
+- Do not use local copies
