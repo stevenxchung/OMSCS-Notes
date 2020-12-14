@@ -39,3 +39,12 @@ There are two main types of VCS:
 
 - **Centralized**: each person works directly with a centralized repository
 - **Decentralized**: each person works directly with a forked-copy of the upstream repository and can push final changes to the upstream repository
+
+## Git Workflow
+
+There are several of steps in a Git workflow:
+
+1. Workspace (working directory)
+2. Index (stage)
+3. Local repository (HEAD)
+4. Remote repository
