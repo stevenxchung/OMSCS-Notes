@@ -48,3 +48,11 @@ There are several of steps in a Git workflow:
 2. Index (stage)
 3. Local repository (HEAD)
 4. Remote repository
+
+## Section Quizzes
+
+### VCS Quiz
+
+_Have you used any version control systems (VCS)? Which ones?_
+
+Git and TortoiseSVN.
