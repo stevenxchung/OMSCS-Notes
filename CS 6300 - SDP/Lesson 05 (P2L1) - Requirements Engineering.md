@@ -15,3 +15,9 @@ What is **RE (requirements engineering)**? RE covers a number of activities such
 - Requirements management process (change management)
 
 RE includes _engineering_ in the term because it requires a systematic process throughout the whole lifecycle of the deliverable.
+
+## General RE Definition
+
+RE establishes the services that the customer requires from the software system. RE also establishes the constraints under which the software system operates.
+
+**SRS (software requirements specification)** which is established under RE should focus on the the _what_ (e.g., what should our software system do) rather than the _how_ (e.g., how should our software system accomplish tasks).
