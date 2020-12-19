@@ -21,3 +21,7 @@ RE includes _engineering_ in the term because it requires a systematic process t
 RE establishes the services that the customer requires from the software system. RE also establishes the constraints under which the software system operates.
 
 **SRS (software requirements specification)** which is established under RE should focus on the the _what_ (e.g., what should our software system do) rather than the _how_ (e.g., how should our software system accomplish tasks).
+
+## Software Intensive Systems
+
+What do we mean when we talk about software systems? A software system is really a software _intensive_ system that includes software, hardware, and context in which the system is used.
