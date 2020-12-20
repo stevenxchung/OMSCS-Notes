@@ -25,3 +25,7 @@ RE establishes the services that the customer requires from the software system.
 ## Software Intensive Systems
 
 What do we mean when we talk about software systems? A software system is really a software _intensive_ system that includes software, hardware, and context in which the system is used.
+
+## Software Quality
+
+Based on what we discussed about software intensive systems, software quality is not just a function of our software but also the user experience provided by our deliverable.
