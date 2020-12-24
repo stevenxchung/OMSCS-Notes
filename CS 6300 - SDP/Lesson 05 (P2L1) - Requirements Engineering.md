@@ -29,3 +29,12 @@ What do we mean when we talk about software systems? A software system is really
 ## Software Quality
 
 Based on what we discussed about software intensive systems, software quality is not just a function of our software but also the user experience provided by our deliverable.
+
+## Identifying Purpose
+
+Identifying a purpose is to define requirements. This is a very difficult task due to factors such as:
+
+- Sheer complexity of purpose/requirements
+- People not knowing what they want
+- Changing requirements
+- Conflicting requirements
