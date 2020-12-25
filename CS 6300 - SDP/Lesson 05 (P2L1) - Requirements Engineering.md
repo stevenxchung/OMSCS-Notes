@@ -38,3 +38,7 @@ Identifying a purpose is to define requirements. This is a very difficult task d
 - People not knowing what they want
 - Changing requirements
 - Conflicting requirements
+
+## Completeness And Pertinence
+
+It is very difficult to have a complete picture of the software. Another issue occurs when software developers collect too many irrelevant requirements. Requirements must be accurate, complete and pertinent.
