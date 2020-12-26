@@ -42,3 +42,14 @@ Identifying a purpose is to define requirements. This is a very difficult task d
 ## Completeness And Pertinence
 
 It is very difficult to have a complete picture of the software. Another issue occurs when software developers collect too many irrelevant requirements. Requirements must be accurate, complete and pertinent.
+
+## RE Definition Breakdown
+
+The RE definition can be broken down as follows:
+
+1. RE is a set of activities
+2. Communication is as important as analysis
+3. Quality means fitness-for-purpose (must understand software purpose)
+4. Designers need to know how and where the system will be used
+5. RE is split between needs and what is possible
+6. Successful RE depends on identifying all stakeholders
