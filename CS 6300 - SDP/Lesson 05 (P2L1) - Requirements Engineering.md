@@ -53,3 +53,22 @@ The RE definition can be broken down as follows:
 4. Designers need to know how and where the system will be used
 5. RE is split between needs and what is possible
 6. Successful RE depends on identifying all stakeholders
+
+## Defining Requirements
+
+Requirements can be application domain or machine domain:
+
+**Application domain** is the world in which software will operate and are characterized by:
+
+- Domain properties
+- Requirements
+
+**Machine domain** is the domain on which the software will run and are characterized by:
+
+- Computers
+- Programs
+
+Lastly, **specifications** are formal descriptions of what the software system should do in order to fulfill requirements in both domains. Specifications must take into account:
+
+1. _Events_ in the real world that the machine can _sense_
+2. _Actions_ in the real world that the machine can _cause_
