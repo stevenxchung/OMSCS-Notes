@@ -72,3 +72,10 @@ Lastly, **specifications** are formal descriptions of what the software system s
 
 1. _Events_ in the real world that the machine can _sense_
 2. _Actions_ in the real world that the machine can _cause_
+
+## Functional And Non-functional Requirements
+
+There are two general types of requirements for system at a high-level:
+
+1. **Functional**: what the system does or computation to solve the problem
+2. **Non-functional**: refers to the system's qualities, e.g., security, usability, etc.
