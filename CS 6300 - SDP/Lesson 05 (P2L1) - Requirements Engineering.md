@@ -79,3 +79,18 @@ There are two general types of requirements for system at a high-level:
 
 1. **Functional**: what the system does or computation to solve the problem
 2. **Non-functional**: refers to the system's qualities, e.g., security, usability, etc.
+
+## User And System Requirements
+
+We also must take into account user and system requirements:
+
+**User requirements**:
+
+- Written for customers
+- Often in natural language, no technical details
+
+**System requirements**:
+
+- Written for developers
+- Detailed functional and non-functional requirements
+- Clearly and more rigorously specified
