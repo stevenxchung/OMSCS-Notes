@@ -94,3 +94,11 @@ We also must take into account user and system requirements:
 - Written for developers
 - Detailed functional and non-functional requirements
 - Clearly and more rigorously specified
+
+## Requirements Origins
+
+So where do these requirements come from? There are many possible sources, below are some of the main sources:
+
+- Stakeholders
+- Application domain
+- Documentation
