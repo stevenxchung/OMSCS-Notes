@@ -102,3 +102,12 @@ So where do these requirements come from? There are many possible sources, below
 - Stakeholders
 - Application domain
 - Documentation
+
+## Elicitation Problems
+
+During software development, there exists several elicitation problems which make gathering requirements difficult:
+
+1. Thin spread of domain knowledge
+2. Knowledge is tacit
+3. Limited observability
+4. Bias
