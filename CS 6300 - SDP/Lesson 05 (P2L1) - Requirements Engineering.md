@@ -111,3 +111,13 @@ During software development, there exists several elicitation problems which mak
 2. Knowledge is tacit
 3. Limited observability
 4. Bias
+
+## Traditional Techniques
+
+Thankfully, there are some techniques we can use to combat elicitation issues discussed earlier:
+
+- **Background reading**: reading through existing documentation on the problem space to gather requirements but can be cumbersome and open-ended
+- **Hard data and samples**: includes using already collected data and samples to establish requirements but can be difficult to determine what data is useful
+- **Interviews**: can probe users in-depth to determine requirements but typically requires an expert who knows how to interview to optimize results
+- **Surveys**: can quickly collect information from a large number of people but can constrain the information the users can provide
+- **Meetings**: can collectively decide on useful or not useful information for requirements but needs to be properly organized to be optimal
