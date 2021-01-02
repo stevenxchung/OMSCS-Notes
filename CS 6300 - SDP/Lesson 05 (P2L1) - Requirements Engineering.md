@@ -121,3 +121,11 @@ Thankfully, there are some techniques we can use to combat elicitation issues di
 - **Interviews**: can probe users in-depth to determine requirements but typically requires an expert who knows how to interview to optimize results
 - **Surveys**: can quickly collect information from a large number of people but can constrain the information the users can provide
 - **Meetings**: can collectively decide on useful or not useful information for requirements but needs to be properly organized to be optimal
+
+## Other Techniques
+
+There also exists other techniques for requirements gathering:
+
+- **Collaborative techniques**: supports incremental development of complex systems with large diverse user populations
+- **Social approaches**: techniques which exploit social sciences to better collect information from stakeholders and environment (e.g., ethnographic techniques which can help with observing users in their original environment)
+- **Cognitive techniques**: leverages cognitive science to discover expert knowledge
