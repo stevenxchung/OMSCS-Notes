@@ -129,3 +129,10 @@ There also exists other techniques for requirements gathering:
 - **Collaborative techniques**: supports incremental development of complex systems with large diverse user populations
 - **Social approaches**: techniques which exploit social sciences to better collect information from stakeholders and environment (e.g., ethnographic techniques which can help with observing users in their original environment)
 - **Cognitive techniques**: leverages cognitive science to discover expert knowledge
+
+## Modeling Requirements
+
+Once requirements are established, it is important to decide what to model and how to model:
+
+1. _What to model_ depends on which aspects of the requirements are most important
+2. _How to model_ will offer different perspectives on the models selected for modeling
