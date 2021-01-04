@@ -136,3 +136,11 @@ Once requirements are established, it is important to decide what to model and h
 
 1. _What to model_ depends on which aspects of the requirements are most important
 2. _How to model_ will offer different perspectives on the models selected for modeling
+
+## Analyzing Requirements
+
+There are three steps when analyzing requirements:
+
+1. **Verification**: _developers_ check if the requirements accurately address customer needs as well as completeness, relevance, etc.
+2. **Validation**: _stakeholders_ check if the collected requirements define the system that the stakeholders desire
+3. **Risk analysis**: relates to analyzing any possible risks involved in development and mitigating those risks
