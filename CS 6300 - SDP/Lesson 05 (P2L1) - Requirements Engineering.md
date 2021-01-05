@@ -144,3 +144,11 @@ There are three steps when analyzing requirements:
 1. **Verification**: _developers_ check if the requirements accurately address customer needs as well as completeness, relevance, etc.
 2. **Validation**: _stakeholders_ check if the collected requirements define the system that the stakeholders desire
 3. **Risk analysis**: relates to analyzing any possible risks involved in development and mitigating those risks
+
+## Requirements Prioritization
+
+Requirements should be prioritized as there are limited resources and an inability to satisfy all requirements in the real world. Prioritization may be categorized as follows:
+
+- Mandatory: i.e., a feature that is critical to address customer needs
+- Nice to have: i.e., a feature that may compliment customer needs
+- Superfluous: i.e., a feature that is not actually needed
