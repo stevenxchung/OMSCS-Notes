@@ -152,3 +152,14 @@ Requirements should be prioritized as there are limited resources and an inabili
 - Mandatory: i.e., a feature that is critical to address customer needs
 - Nice to have: i.e., a feature that may compliment customer needs
 - Superfluous: i.e., a feature that is not actually needed
+
+## Requirements Engineering Process
+
+In general, there are four main steps in the requirements engineering process:
+
+1. **Elicitation**: abstracting requirements from various sources
+2. **Modeling**: representing the requirements using formal notation
+3. **Analysis**: identifying possible issues with the requirements
+4. **Negotiation**: discussions between developers and stakeholders regarding requirements until a consensus is reached
+
+Note that this process is a highly iterative process and make take many iterations before requirements are finalized.
