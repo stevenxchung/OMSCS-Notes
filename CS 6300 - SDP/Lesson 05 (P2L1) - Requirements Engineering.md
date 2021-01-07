@@ -163,3 +163,18 @@ In general, there are four main steps in the requirements engineering process:
 4. **Negotiation**: discussions between developers and stakeholders regarding requirements until a consensus is reached
 
 Note that this process is a highly iterative process and make take many iterations before requirements are finalized.
+
+## SRS
+
+Why is the SRS important? The SRS offers a way to communicate requirements to others. Different projects require different SRS. The IEEE has defined a standard in which requirements may be specified:
+
+1. Introduction
+2. User requirements
+3. System requirements (functional and non-functional)
+
+It is important to note that requirements should have the following properties:
+
+- Simple (specific not compound)
+- Testable
+- Organized
+- Numbered (traceability purposes)
