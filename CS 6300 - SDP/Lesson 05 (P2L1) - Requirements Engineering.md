@@ -178,3 +178,13 @@ It is important to note that requirements should have the following properties:
 - Testable
 - Organized
 - Numbered (traceability purposes)
+
+## Section Quizzes
+
+### Pertinence Quiz
+
+_Consider an information system for a gym. In the list below, mark all the requirements that you believe are pertinent._
+
+- Members of the gym shall be able to access their training programs
+- The system shall be able to read member cards
+- Personal trainers shall be able to add clients
