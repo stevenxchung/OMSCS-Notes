@@ -188,3 +188,9 @@ _Consider an information system for a gym. In the list below, mark all the requi
 - Members of the gym shall be able to access their training programs
 - The system shall be able to read member cards
 - Personal trainers shall be able to add clients
+
+### Completeness Quiz
+
+> Consider an information system for a gym. In the list below (provided), mark all the requirements that you believe are pertinent.
+
+1. _Is the above list complete?_ No
