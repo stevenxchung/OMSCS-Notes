@@ -201,3 +201,12 @@ _Why can irrelevant requirements be harmful?_
 
 - They can introduce inconsistency
 - They can waste project resources
+
+### Defining Requirements Quiz
+
+> Referring to the figure that we just discussed (provided), indicate, for each of the following items, whether they belong to the machine domain (1), application domain (2), or their intersection (3).
+
+1. _An algorithm sorts a list of books in alphabetical order by the first author's name._ Machine domain
+2. _A notification of the arrival of a message appears on a smart watch._ Their intersection
+3. _An employee wants to organize a meeting with a set of colleagues._ Application domain
+4. _A user clicks a link on a web page._ Their intersection
