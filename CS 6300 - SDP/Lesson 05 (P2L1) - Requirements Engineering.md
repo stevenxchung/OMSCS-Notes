@@ -210,3 +210,10 @@ _Why can irrelevant requirements be harmful?_
 2. _A notification of the arrival of a message appears on a smart watch._ Their intersection
 3. _An employee wants to organize a meeting with a set of colleagues._ Application domain
 4. _A user clicks a link on a web page._ Their intersection
+
+### Requirements Quiz
+
+_Which of the following requirements are non-functional requirements?_
+
+- The WordCount program should be able to process large files
+- The Login program for a website should be secure
