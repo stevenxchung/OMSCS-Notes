@@ -217,3 +217,15 @@ _Which of the following requirements are non-functional requirements?_
 
 - The WordCount program should be able to process large files
 - The Login program for a website should be secure
+
+### Requirements Prioritization Quiz
+
+> Imagine that you have collected the following set of five requirements for an ATM system but only have resources to satisfy two, possibly three of those
+>
+> Suitably prioritize the requirements by marking them as Mandatory, Nice to have, or Superfluous.
+
+1. _The system shall check the PIN of the ATM card before allowing the customer to perform an operation._ Mandatory
+2. _The system shall perform an additional biometric verification of the customer's identity before it allows the customer to perform an operation._ Superfluous
+3. _The system shall allow customer to withdraw cash using an ATM card._ Mandatory
+4. _The system shall allow customer to deposit money using an ATM card._ Nice to have
+5. _The system shall allow customer to change the PIN of an ATM card._ Superfluous
