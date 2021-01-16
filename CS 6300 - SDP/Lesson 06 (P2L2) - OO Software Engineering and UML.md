@@ -10,3 +10,9 @@ What is **OO (object orientation)**? Object orientation focuses several key conc
 2. Information hiding
 3. Encapsulation
 4. Inheritance
+
+## Objects And Classes
+
+An **object** is a computing unit organized around a collection of state or instance variables that define the state of the object. Each object has operators which are methods that allow reading and writing instance variables.
+
+On the other hand, a **class** is a template or blueprint from which new objects (instances) can be created.
