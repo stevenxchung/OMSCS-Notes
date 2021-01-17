@@ -16,3 +16,11 @@ What is **OO (object orientation)**? Object orientation focuses several key conc
 An **object** is a computing unit organized around a collection of state or instance variables that define the state of the object. Each object has operators which are methods that allow reading and writing instance variables.
 
 On the other hand, a **class** is a template or blueprint from which new objects (instances) can be created.
+
+## Benefits Of OO
+
+Why should we use OO?
+
+1. Reduce maintenance costs
+2. Improve development process
+3. Enforce good design
