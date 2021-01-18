@@ -24,3 +24,7 @@ Why should we use OO?
 1. Reduce maintenance costs
 2. Improve development process
 3. Enforce good design
+
+## OO Analysis History
+
+At the time OMT (Object Modeling Techniques) were being developed (led by Rumbaugh), scientists (Jacobson and Booch) also began to think about another technique (UML). OMT comprises of data, functions, and control.
