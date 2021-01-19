@@ -28,3 +28,7 @@ Why should we use OO?
 ## OO Analysis History
 
 At the time OMT (Object Modeling Techniques) were being developed (led by Rumbaugh), scientists (Jacobson and Booch) also began to think about another technique (UML). OMT comprises of data, functions, and control.
+
+## OO Analysis Overview
+
+In OO analysis, we are concerned about defining the data objects first then the functions between each object second. We also look to transfer real world objects into requirements.
