@@ -32,3 +32,27 @@ At the time OMT (Object Modeling Techniques) were being developed (led by Rumbau
 ## OO Analysis Overview
 
 In OO analysis, we are concerned about defining the data objects first then the functions between each object second. We also look to transfer real world objects into requirements.
+
+## UML Structural Diagrams: Class Diagrams
+
+We will discuss several UML diagrams in this lesson. The class diagram will be one of them. The class diagram is a static, structured view of the system which describes: classes and their relationships.
+
+**Classes** include:
+
+- Class name
+- Attributes and their types
+- Operations and their types
+
+**Attributes** represent the structure of a class and may be found by:
+
+- Examining class definitions
+- Studying requirements
+- Applying domain knowledge
+
+**Operations** represent the behavior of a class and may be found by examining interactions among entities.
+
+**Relationships** describe interactions between objects. There are several types of relationships:
+
+- Dependencies (e.g., x uses y)
+- Associations/aggregations (e.g., x has a y)
+- Generalization (e.g., x is a y)
