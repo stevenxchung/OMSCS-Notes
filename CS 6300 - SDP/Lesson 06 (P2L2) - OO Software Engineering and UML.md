@@ -56,3 +56,13 @@ We will discuss several UML diagrams in this lesson. The class diagram will be o
 - Dependencies (e.g., x uses y)
 - Associations/aggregations (e.g., x has a y)
 - Generalization (e.g., x is a y)
+
+## Class Diagram: Creation Tips
+
+Below are several recommendations when working with class diagrams:
+
+1. Understand the problem
+2. Choose good names
+3. Concentrate of the _what_
+4. Start with a simple diagram
+5. Refine until you feel it is complete
