@@ -66,3 +66,12 @@ Below are several recommendations when working with class diagrams:
 3. Concentrate of the _what_
 4. Start with a simple diagram
 5. Refine until you feel it is complete
+
+## UML Structural Diagrams: Component Diagram
+
+The component diagram is a static view of components and their relationships. Unlike class diagrams, component diagrams have:
+
+- _Nodes_ to represent components (set of classes with a well-defined interface)
+- _Edges_ to represent a relationship
+
+Component diagrams can be used to represent an architecture.
