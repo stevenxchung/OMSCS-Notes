@@ -75,3 +75,10 @@ The component diagram is a static view of components and their relationships. Un
 - _Edges_ to represent a relationship
 
 Component diagrams can be used to represent an architecture.
+
+## UML Structural Diagrams: Deployment
+
+The deployment diagram is a static deployment view of system. Physical allocation of components to computational units.
+
+- _Nodes_ are computational units
+- _Edges_ represent communication
