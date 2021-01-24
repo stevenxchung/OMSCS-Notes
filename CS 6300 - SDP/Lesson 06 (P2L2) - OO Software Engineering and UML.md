@@ -82,3 +82,16 @@ The deployment diagram is a static deployment view of system. Physical allocatio
 
 - _Nodes_ are computational units
 - _Edges_ represent communication
+
+## UML Behavioral Diagrams: Use Case
+
+Use case diagrams describe the outside view of the system as well as:
+
+- Sequence of interactions of outside entities (actors) with the system
+- System actions that yield an observable result of value to the actors
+
+Use cases have three parts:
+
+1. Use case
+2. Actor (human or a device)
+3. Relationship
