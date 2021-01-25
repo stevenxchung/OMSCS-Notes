@@ -95,3 +95,12 @@ Use cases have three parts:
 1. Use case
 2. Actor (human or a device)
 3. Relationship
+
+## Building A Use Case Diagram
+
+The behavior of a use case can be specified by describing its flow of events:
+
+- How the use case starts and ends
+- Normal flow of events
+- Alternative flow of events
+- Exceptional flow of events
