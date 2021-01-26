@@ -104,3 +104,13 @@ The behavior of a use case can be specified by describing its flow of events:
 - Normal flow of events
 - Alternative flow of events
 - Exceptional flow of events
+
+## Role Of Use Cases
+
+There are several of reasons why use cases are important:
+
+1. Requirements elicitation
+2. Architectural analysis
+3. User prioritization
+4. Planning
+5. Testing
