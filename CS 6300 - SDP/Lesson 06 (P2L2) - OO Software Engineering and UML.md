@@ -114,3 +114,14 @@ There are several of reasons why use cases are important:
 3. User prioritization
 4. Planning
 5. Testing
+
+## Use Case Diagram: Creation Tips
+
+Below are several recommendations when working with use case diagrams:
+
+1. Use name that communicates purpose
+2. Define one atomic behavior per use case
+3. Define flow of events clearly
+4. Provide only essential details
+5. Factor common behaviors
+6. Factor variants
