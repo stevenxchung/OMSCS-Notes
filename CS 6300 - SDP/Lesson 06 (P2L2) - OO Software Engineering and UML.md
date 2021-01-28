@@ -125,3 +125,7 @@ Below are several recommendations when working with use case diagrams:
 4. Provide only essential details
 5. Factor common behaviors
 6. Factor variants
+
+## UML Behavioral Diagrams: Sequence
+
+Sequence diagrams emphasizes the time ordering of messages.
