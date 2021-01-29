@@ -129,3 +129,11 @@ Below are several recommendations when working with use case diagrams:
 ## UML Behavioral Diagrams: Sequence
 
 Sequence diagrams emphasizes the time ordering of messages.
+
+## UML Behavioral Diagrams: State Transition Diagram
+
+State transition diagrams specify the events that cause an object to move from one state to another and effects. These diagrams are composed of the following for each class:
+
+- Possible states of the class
+- Events that cause a transition from one state to another
+- Actions that result from a state change
