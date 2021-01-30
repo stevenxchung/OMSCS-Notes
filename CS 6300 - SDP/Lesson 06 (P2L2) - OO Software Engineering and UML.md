@@ -137,3 +137,13 @@ State transition diagrams specify the events that cause an object to move from o
 - Possible states of the class
 - Events that cause a transition from one state to another
 - Actions that result from a state change
+
+## Section Quizzes
+
+### OO Benefits Quiz
+
+_Acme Corporation decided to use an OO approach in its software development process. What benefits can they expect to receive from this decision?_
+
+- Increased reuse because of the modular coding style
+- Increased maintainability because the system design can accommodate changes more easily
+- Increased understandability because the design models real-world entities
