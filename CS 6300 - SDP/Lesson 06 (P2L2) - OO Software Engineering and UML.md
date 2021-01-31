@@ -147,3 +147,11 @@ _Acme Corporation decided to use an OO approach in its software development proc
 - Increased reuse because of the modular coding style
 - Increased maintainability because the system design can accommodate changes more easily
 - Increased understandability because the design models real-world entities
+
+### Modeling Classes Quiz
+
+_Consider the following requirement for an online shopping website: "Users can add more than one item on sale at a time to a shopping cart." Which of the following elements should be modeled as classes?_
+
+- Item
+- Shopping cart
+- User
