@@ -160,9 +160,9 @@ _Consider the following requirement for an online shopping website: "Users can a
 
 _Which of the following relationships is an actual relationship for the system we are modeling?_
 
-- RegistrationManager uses SchedulingAlgorithm (dependency)
-- RegistrationManager uses Student (dependency)
-- Student registers for CourseOffering (association)
-- Course consists of CourseOffering (aggregation)
-- Student is a RegistrationUser (generalization)
-- Professor is a RegistrationUser (generalization)
+- `RegistrationManager` uses `SchedulingAlgorithm` (dependency)
+- `RegistrationManager` uses `Student` (dependency)
+- `Student` registers for `CourseOffering` (association)
+- `Course` consists of `CourseOffering` (aggregation)
+- `Student` is a `RegistrationUser` (generalization)
+- `Professor` is a `RegistrationUser` (generalization)
