@@ -166,3 +166,10 @@ _Which of the following relationships is an actual relationship for the system w
 - `Course` consists of `CourseOffering` (aggregation)
 - `Student` is a `RegistrationUser` (generalization)
 - `Professor` is a `RegistrationUser` (generalization)
+
+### Recap Quiz 1
+
+_An UML state transition diagram specifies:_
+
+- The events that cause an object to move from one state to another
+- The effects of a state change
