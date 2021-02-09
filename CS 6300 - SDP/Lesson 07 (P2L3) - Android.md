@@ -29,3 +29,12 @@ The Android app is comprised of:
 4. **Broadcast receiver**: a receiver that could be registered to receive system or application events
 
 Each one of the above components is connected by _intents_ and all component properties are declared in the Android manifest `.xml` file
+
+## Intents
+
+**Intents** are abstract descriptions of an operation to be performed and it consists of two main parts:
+
+1. Action - the task to be performed
+2. Data - the data on which the action will operate
+
+E.g., intent to call a contact involves a _call_ (action) which uses a _phone number_ (data).
