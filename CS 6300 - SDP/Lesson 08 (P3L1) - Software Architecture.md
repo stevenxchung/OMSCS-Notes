@@ -16,3 +16,14 @@ What is **SWA (software architecture)**? Depends on the source but generally sof
   - Interactions among those elements
   - Patterns that guide their composition
   - Constraints on these patterns
+
+## General Definition Of SWA
+
+A general definition of SWA: a set of principal design decisions about the system. The blueprint of a software system includes:
+
+- Structural properties
+- Behavioral properties
+- Non-functional properties
+- Interactions
+
+There is also a temporal aspect of SWA since it should change over the lifetime of a software system.
