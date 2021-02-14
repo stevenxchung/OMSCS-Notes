@@ -27,3 +27,7 @@ A general definition of SWA: a set of principal design decisions about the syste
 - Interactions
 
 There is also a temporal aspect of SWA since it should change over the lifetime of a software system.
+
+## Prescriptive Vs Descriptive Architecture
+
+A **prescriptive architecture** captures the design decisions made prior to the system's construction (as-conceived SWA). A **descriptive architecture** describes how the system has actually been built (as-implemented SWA).
