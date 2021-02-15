@@ -31,3 +31,7 @@ There is also a temporal aspect of SWA since it should change over the lifetime 
 ## Prescriptive Vs Descriptive Architecture
 
 A **prescriptive architecture** captures the design decisions made prior to the system's construction (as-conceived SWA). A **descriptive architecture** describes how the system has actually been built (as-implemented SWA).
+
+## Architectural Evolution
+
+When a system evolves, ideally its prescriptive architecture should be modified first. However, in practice this almost never happens.
