@@ -35,3 +35,10 @@ A **prescriptive architecture** captures the design decisions made prior to the 
 ## Architectural Evolution
 
 When a system evolves, ideally its prescriptive architecture should be modified first. However, in practice this almost never happens.
+
+## Architectural Degradation
+
+Over time, two types of architectural degradation occurs for software systems with poor SWA:
+
+1. **Architectural drift**: introduction of architectural design decisions orthogonal to a system's prescriptive architecture
+2. **Architectural erosion**: introduction of architecture design decisions that violate a system's prescriptive architecture.
