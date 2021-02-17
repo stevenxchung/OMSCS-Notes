@@ -42,3 +42,7 @@ Over time, two types of architectural degradation occurs for software systems wi
 
 1. **Architectural drift**: introduction of architectural design decisions orthogonal to a system's prescriptive architecture
 2. **Architectural erosion**: introduction of architecture design decisions that violate a system's prescriptive architecture.
+
+## Architectural Recovery
+
+What happens when an architecture drifts or erodes? We have to take a path leading to **architectural recovery** which typically means to determine SWA from implementation and fix it. Developers should not simply _tweak_ code to recover their SWA.
