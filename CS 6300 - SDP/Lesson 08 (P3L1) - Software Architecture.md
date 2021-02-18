@@ -46,3 +46,14 @@ Over time, two types of architectural degradation occurs for software systems wi
 ## Architectural Recovery
 
 What happens when an architecture drifts or erodes? We have to take a path leading to **architectural recovery** which typically means to determine SWA from implementation and fix it. Developers should not simply _tweak_ code to recover their SWA.
+
+## Architectural Elements
+
+A SWA typically is not a monolith composition and interplay of different elements. SWA includes:
+
+1. Processing elements
+2. Data elements
+3. Interaction elements
+4. Components
+5. Connectors
+6. Configuration composed of components and connectors
