@@ -57,3 +57,14 @@ A SWA typically is not a monolith composition and interplay of different element
 4. Components
 5. Connectors
 6. Configuration composed of components and connectors
+
+## Components - Connectors - And Configurations
+
+Regarding architectural components, connectors, and configurations:
+
+A **component** is an architectural entity that:
+
+1. Encapsulates a subset of the system's functionality and/or data
+2. Restricts access to that subset via an explicitly defined interface
+
+A **connector** is an architectural entity affecting and regulating interaction. Finally, a **configuration** is an association between components and connectors of a SWA.
