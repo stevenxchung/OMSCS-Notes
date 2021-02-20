@@ -68,3 +68,9 @@ A **component** is an architectural entity that:
 2. Restricts access to that subset via an explicitly defined interface
 
 A **connector** is an architectural entity affecting and regulating interaction. Finally, a **configuration** is an association between components and connectors of a SWA.
+
+## Architectural Styles
+
+An **architectural style** is a named collection of architectural design decisions applicable in a given context. Alternatively from Shaw and Garland, an architectural style:
+
+> ...defines a family of systems in terms of a pattern of structural organization, a vocabulary of components and connectors, with constraints on how the can be combined.
