@@ -74,3 +74,14 @@ A **connector** is an architectural entity affecting and regulating interaction.
 An **architectural style** is a named collection of architectural design decisions applicable in a given context. Alternatively from Shaw and Garland, an architectural style:
 
 > ...defines a family of systems in terms of a pattern of structural organization, a vocabulary of components and connectors, with constraints on how the can be combined.
+
+## Types Of Architectural Styles
+
+There are many types of architectural styles in SWA:
+
+1. Pipes and filters
+2. Event-driven
+3. Publish-subscribe
+4. Client-server
+5. P2P (Peer-to-peer)
+6. REST (Representational State Transfer)
