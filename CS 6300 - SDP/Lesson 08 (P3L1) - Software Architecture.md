@@ -85,3 +85,7 @@ There are many types of architectural styles in SWA:
 4. Client-server
 5. P2P (Peer-to-peer)
 6. REST (Representational State Transfer)
+
+## P2P Architectures
+
+**P2P architectures** advocate decentralized resource sharing and discovery. E.g., Skype utilizing super nodes to support a decentralized architecture but still allowing users to communicate P2P.
