@@ -89,3 +89,11 @@ There are many types of architectural styles in SWA:
 ## P2P Architectures
 
 **P2P architectures** advocate decentralized resource sharing and discovery. E.g., Skype utilizing super nodes to support a decentralized architecture but still allowing users to communicate P2P.
+
+## Takeaway Message
+
+Several takeaways from this lesson:
+
+1. A great SWA is a ticket to success
+2. A great SWA reflects deep understanding of the problem domain
+3. A great SWA normally combines aspects of several simpler architectures
