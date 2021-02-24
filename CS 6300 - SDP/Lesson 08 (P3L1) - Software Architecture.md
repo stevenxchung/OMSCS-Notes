@@ -97,3 +97,11 @@ Several takeaways from this lesson:
 1. A great SWA is a ticket to success
 2. A great SWA reflects deep understanding of the problem domain
 3. A great SWA normally combines aspects of several simpler architectures
+
+## Section Quizzes
+
+### Architectural Recovery Quiz
+
+_Which of the following sentences is true?_
+
+- Architectural drift results in unnecessarily complex architectures
