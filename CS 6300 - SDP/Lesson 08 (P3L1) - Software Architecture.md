@@ -105,3 +105,10 @@ Several takeaways from this lesson:
 _Which of the following sentences is true?_
 
 - Architectural drift results in unnecessarily complex architectures
+
+### Architectural Design Quiz
+
+_What are ideal characteristics of an architectural design?_
+
+- Scalability
+- Low coupling
