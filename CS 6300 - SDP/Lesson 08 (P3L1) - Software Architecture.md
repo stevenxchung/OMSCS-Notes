@@ -112,3 +112,12 @@ _What are ideal characteristics of an architectural design?_
 
 - Scalability
 - Low coupling
+
+### Architectural Styles Quiz
+
+_Mark which architectural style(s) (given) charterizes the following systems:_
+
+1. _Android OS_: event-driven, publish-subscribe
+2. _Skype_: client-server, peer-to-peer
+3. _World-wide Web_: client-server, REST
+4. _DropBox_: client-server
