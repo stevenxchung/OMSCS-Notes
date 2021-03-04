@@ -23,3 +23,15 @@ There are five main categories of design patterns we may be concerned with:
 5. **Concurrency**
 
 We will cover some patterns from each category. For more information on patterns in each category see the [Wiki page on software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern).
+
+## Pattern Format
+
+The format of a design pattern is as follows:
+
+- Name
+- Intent
+- Applicability
+- Structure
+- Sample code
+
+There are more formats which include fields such as motivation, consequences, implementation, and related patterns. However, for the purpose of this class we will mainly focus on the five attributes above for each design pattern.
