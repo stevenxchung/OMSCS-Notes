@@ -35,3 +35,20 @@ The format of a design pattern is as follows:
 - Sample code
 
 There are more formats which include fields such as motivation, consequences, implementation, and related patterns. However, for the purpose of this class we will mainly focus on the five attributes above for each design pattern.
+
+## Factory Method Pattern
+
+Below are properties of the factory method pattern:
+
+- **Name**: factory method pattern
+- **Intent**: allows for creating objects without specifying their class by invoking a factory method (i.e., a method whose main goal is to create class instances)
+- **Applicability**:
+  - Class can't anticipate the type of objects it must create
+  - Class wants its subclasses to specify the type of objects it creates
+  - Class needs control over the creation of its objects
+- **Structure**: an example of factory method may include:
+  - **Creator**: provides interface for factory method
+  - **ConcreteCreator**: provides method for creating actual object
+  - **Product**: object created by the factory method
+
+See lecture for sample code example.
