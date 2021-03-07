@@ -52,19 +52,3 @@ Below are properties of the factory method pattern:
   - **Product**: object created by the factory method
 
 See lecture for sample code example.
-
-## Strategy Pattern
-
-Below are properties of the strategy pattern:
-
-- **Name**: strategy patter
-- **Intent**: allows for switching between different algorithms for accomplishing a task
-- **Applicability**:
-  - Different variants of an algorithm
-  - Many related classes differ only in their behavior
-- **Structure**: an example of strategy pattern may include:
-  - **Context**: interface to outside world
-  - **Algorithm (strategy)**: common interface for the different algorithms
-  - **Concrete strategy**: actual implementation of the algorithm
-
-See lecture for sample code example.
