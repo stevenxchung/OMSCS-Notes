@@ -68,3 +68,13 @@ Below are properties of the strategy pattern:
   - **Concrete strategy**: actual implementation of the algorithm
 
 See lecture for sample code example.
+
+## Other Common Patterns
+
+Other patterns include:
+
+- **Visitor**: a way of separating an algorithm from an object structure on which it operates
+- **Decorator**: a wrapper that adds functionality to a class (stackable)
+- **Iterator**: access elements of a collection without knowing underlying representation
+- **Observer**: notify dependents when object changes
+- **Proxy**: surrogate controls access to an object
