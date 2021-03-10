@@ -78,3 +78,19 @@ Other patterns include:
 - **Iterator**: access elements of a collection without knowing underlying representation
 - **Observer**: notify dependents when object changes
 - **Proxy**: surrogate controls access to an object
+
+## Choosing A Pattern
+
+There are several guidelines to choosing a design pattern:
+
+1. Understand your design context
+2. Examine the patterns catalog
+3. Identify and study related patterns
+4. Apply suitable pattern
+
+However, there are pitfalls when selecting design patterns which may include (but are not limited to):
+
+- Selecting wrong patterns
+- Abusing patterns
+
+We should always be careful to not rely too heavily on design patterns and ensure that whichever design pattern we select fits our problem.
