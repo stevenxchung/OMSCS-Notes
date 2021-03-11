@@ -94,3 +94,7 @@ However, there are pitfalls when selecting design patterns which may include (bu
 - Abusing patterns
 
 We should always be careful to not rely too heavily on design patterns and ensure that whichever design pattern we select fits our problem.
+
+## Negative Design Patterns
+
+In addition to design patterns, there are also negative design patterns, i.e., how not to design manage, etc. These are also called _anti-patterns_ and _bad smells_ as discussed in Christoper Alexander's book: [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
