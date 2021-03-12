@@ -98,3 +98,26 @@ We should always be careful to not rely too heavily on design patterns and ensur
 ## Negative Design Patterns
 
 In addition to design patterns, there are also negative design patterns, i.e., how not to design manage, etc. These are also called _anti-patterns_ and _bad smells_ as discussed in Christoper Alexander's book: [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
+
+## Section Quizzes
+
+### Choosing A Pattern Quiz
+
+_Answer following questions:_
+
+1. _Imagine that you have to write a class that can have one instance only. Which of the design pattern that we've discussed is most appropriate?_ Factory
+2. _Imagine that you have to write a class that can have one instance only. Using one of the design patterns that we discussed in this lesson, write the code of a class with only one method (except for possible constructors) that satisfy this requirement._ The code should be as follows:
+
+```java
+public class Singleton {
+    private static Singleton instance;
+    private Singleton() {}
+
+    public static Singleton factory() {
+        if (instance == null) {
+           instance = new Singleton();
+        }
+        return instance;
+    }
+}
+```
