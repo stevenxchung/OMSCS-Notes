@@ -21,3 +21,7 @@ There are several features of RUP:
 2. Component-based: includes software components and well-defined interfaces
 3. Tightly related to UML: related notation and basic principles
 4. Distinguishing aspects include: use-case driven, architecture-centric, and iterative and incremental
+
+## Use Case Driven
+
+RUP is use case driven. A system performs a sequence of actions in response to user input. Use cases capture this interaction and answer the question: _what is the system suppose to do for each user?_
