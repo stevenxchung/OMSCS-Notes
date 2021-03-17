@@ -25,3 +25,11 @@ There are several features of RUP:
 ## Use Case Driven
 
 RUP is use case driven. A system performs a sequence of actions in response to user input. Use cases capture this interaction and answer the question: _what is the system suppose to do for each user?_
+
+## Architecture Centric
+
+RUP is architecture centric. Use cases define the function and the architecture defines the form. The process for this may include:
+
+1. Creating a rough outline of the system
+2. Translating key use cases into sub-systems
+3. Refining architecture using additional use cases
