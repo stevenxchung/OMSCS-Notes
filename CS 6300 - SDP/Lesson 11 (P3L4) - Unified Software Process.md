@@ -44,3 +44,13 @@ RUP is iterative and incremental. Each software project has numerous cycles and 
 4. **Transition** - includes some testing and deployment activities
 
 For each phase, there may be multiple iterations.
+
+## Iterations
+
+Within each iteration the following activities may be observed:
+
+1. Identify relevant use cases
+2. Create design
+3. Implement the design
+4. Verify code against use cases
+5. Release a product at the end
