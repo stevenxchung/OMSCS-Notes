@@ -54,3 +54,11 @@ Within each iteration the following activities may be observed:
 3. Implement the design
 4. Verify code against use cases
 5. Release a product at the end
+
+## Section Quizzes
+
+### UML Quiz 1
+
+_What is the difference between a use case and a use case model?_
+
+A use case model is a set of use cases.
