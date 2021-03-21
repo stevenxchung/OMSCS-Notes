@@ -62,3 +62,11 @@ Within each iteration the following activities may be observed:
 _What is the difference between a use case and a use case model?_
 
 A use case model is a set of use cases.
+
+### UML Quiz 2
+
+_What are use case diagrams used for?_
+
+- They can be used to prioritize requirements
+- They can be used during requirements elicitation
+- They can be used for test case design
