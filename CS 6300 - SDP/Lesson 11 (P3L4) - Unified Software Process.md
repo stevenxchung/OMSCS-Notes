@@ -70,3 +70,11 @@ _What are use case diagrams used for?_
 - They can be used to prioritize requirements
 - They can be used during requirements elicitation
 - They can be used for test case design
+
+### Iterative Approach Quiz
+
+_What are the benefits of iterative approaches?_
+
+- Give developers early feedback
+- Minimize risk of developing wrong system
+- Accommodate evolving requirements
