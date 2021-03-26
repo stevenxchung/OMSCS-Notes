@@ -13,3 +13,20 @@ There are three main concepts we should know when testing software:
 1. **Failure**: an observable incorrect behavior
 2. **Fault**: incorrect code
 3. **Error**: cause of a fault
+
+## Verification Approaches
+
+How can we verify software? There are several approaches:
+
+1. **Testing**: testing if a piece of software returns an expected output given an input
+   - Pros: does not generate false positives
+   - Cons: is incomplete
+2. **Static verification**: considers all possible inputs
+   - Pros: considers all program behaviors
+   - Cons: generates false positives
+3. **Inspections**: a manual and typically group activity that involves reviewing a piece of software for correctness
+   - Pros: systematic and thorough
+   - Cons: informal and subjective
+4. **Formal proofs of correctness**: a proof (e.g., simulation that verifies physics or mathematics) that piece of software correctly implements what is specified in the specification document
+   - Pros: strong guarantees
+   - Cons: complex and expensive
