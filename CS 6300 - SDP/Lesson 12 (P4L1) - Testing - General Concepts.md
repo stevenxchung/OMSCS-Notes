@@ -30,3 +30,10 @@ How can we verify software? There are several approaches:
 4. **Formal proofs of correctness**: a proof (e.g., simulation that verifies physics or mathematics) that piece of software correctly implements what is specified in the specification document
    - Pros: strong guarantees
    - Cons: complex and expensive
+
+## Testing Introduction
+
+Testing means to execute a program on a tiny sample of the input domain. Testing is a:
+
+- Dynamic technique
+- Optimistic approximation
