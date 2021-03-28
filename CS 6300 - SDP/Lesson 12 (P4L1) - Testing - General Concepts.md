@@ -37,3 +37,13 @@ Testing means to execute a program on a tiny sample of the input domain. Testing
 
 - Dynamic technique
 - Optimistic approximation
+
+## Testing Granularity Levels
+
+There are different levels of testing:
+
+1. **Unit**: testing one unit of software (e.g., if a variable is doubled)
+2. **Integration**: testing a particular software feature (e.g., does the home page load the correct user data in order)
+3. **System**: testing the whole software (e.g., do the various application features work?)
+4. **Acceptance**: testing if the software system meets the customer's specifications
+5. **Regression**: testing if the new features and unchanged features work as expected
