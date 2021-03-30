@@ -47,3 +47,10 @@ There are different levels of testing:
 3. **System**: testing the whole software (e.g., do the various application features work?)
 4. **Acceptance**: testing if the software system meets the customer's specifications
 5. **Regression**: testing if the new features and unchanged features work as expected
+
+## Alpha And Beta Testing
+
+We previously discussed developer testing but there are also different types of testing by organization:
+
+- **Alpha**: testing done by users internal to the developing organization
+- **Beta**: testing done by users external to the developing organization
