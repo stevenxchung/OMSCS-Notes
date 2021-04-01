@@ -61,3 +61,19 @@ There are also testing techniques such as:
 
 - **Black-box testing**: testing a piece of software based on a description of the software (specification). The goal is to cover as much specified behavior as possible. However, it cannot reveal errors due to implementation details
 - **White-box testing**: testing that looks at software implementation and is design to covered as much coded behavior as possible. However, it cannot reveal errors due to missing specifications
+
+## Section Quizzes
+
+### Failure, Fault, and Error Quiz 1
+
+_Given the following code:_
+
+```java
+int doubleValue(int i) {
+   int result;
+   result = i*i;
+   return result;
+}
+```
+
+_A call to doubleValue(3) returns 9. This is:_ a failure.
