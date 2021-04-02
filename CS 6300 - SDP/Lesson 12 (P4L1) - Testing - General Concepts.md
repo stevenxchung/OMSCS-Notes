@@ -73,7 +73,13 @@ int doubleValue(int i) {
    int result;
    result = i*i;
    return result;
-}
+
 ```
 
 _A call to doubleValue(3) returns 9. This is:_ a failure.
+
+### Failure, Fault, and Error Quiz 2
+
+_Where is the fault that causes the failure in the program (provided previously)? Write the line number of the code that contains the fault._
+
+In line 3 where `result = i*i;`.
