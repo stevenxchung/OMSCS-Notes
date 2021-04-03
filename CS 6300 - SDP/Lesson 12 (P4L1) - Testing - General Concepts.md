@@ -83,3 +83,9 @@ _A call to doubleValue(3) returns 9. This is:_ a failure.
 _Where is the fault that causes the failure in the program (provided previously)? Write the line number of the code that contains the fault._
 
 In line 3 where `result = i*i;`.
+
+### Failure, Fault, and Error Quiz 3
+
+_What is the error the caused the fault (given previously)?_
+
+The `result` should be the input multiplied by 2 not by itself. However, as a user we would not know what the error is, only the developer would know.
