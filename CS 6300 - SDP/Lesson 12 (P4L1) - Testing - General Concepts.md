@@ -89,3 +89,11 @@ In line 3 where `result = i*i;`.
 _What is the error the caused the fault (given previously)?_
 
 The `result` should be the input multiplied by 2 not by itself. However, as a user we would not know what the error is, only the developer would know.
+
+### Verification Approaches Quiz
+
+> 50% of my company employees are testers, and the rest spends 50% of their time testing.
+
+_Who said that?_
+
+Bill Gates when he was at Microsoft.
