@@ -12,3 +12,16 @@ Advantages:
 - No need for the code -> early test design
 - Catches logic defects
 - Applicable at all granularity levels
+
+## Systematic Functional Testing Approach
+
+How do we get from functional specifications to test cases? There are several steps:
+
+1. **Identify independently testable features**
+2. **Identify relevant inputs**:
+   - We should **not** have to test all cases
+   - We should **not** test random inputs
+   - Instead we should identify partitions and select inputs from each
+   - We could also look at boundary values (edge cases) for each partition
+3. **Derive test cases specifications**
+4. **Generate test cases**
