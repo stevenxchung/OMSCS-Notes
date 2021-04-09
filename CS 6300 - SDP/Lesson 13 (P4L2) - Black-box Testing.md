@@ -43,3 +43,12 @@ The **Category-partition Method** (Ostrand and Balcer, CACM, June 1988) describe
 6. **Generate test cases from test case specifications**:
    - Simple instantiation of frames
    - Produces set of concrete tests (final result)
+
+## Model Based Testing
+
+**Model-based testing** fits into the previous functional testing approach like so:
+
+1. Identify independently testable features
+2. Identify relevant inputs _or_ the model
+3. Derive test cases specifications
+4. Generate test cases
