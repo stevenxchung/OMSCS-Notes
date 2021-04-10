@@ -52,3 +52,17 @@ The **Category-partition Method** (Ostrand and Balcer, CACM, June 1988) describe
 2. Identify relevant inputs _or_ the model
 3. Derive test cases specifications
 4. Generate test cases
+
+## Finite State Machines
+
+One of the model-based testing approaches utilizes **FSM (finite state machines)** which can be defined by the following components:
+
+1. Nodes -> states
+2. Edges -> transitions
+3. Edge labels -> events and actions
+
+To build an FSM from specifications, we can perform the following:
+
+1. Identify system boundaries and input and output
+2. Identify relevant states and transitions
+3. Identify how a system can go from one state to another
