@@ -76,13 +76,13 @@ Software tools can help close the gap between developers' productivity and softw
 
 ### Software Failure Quiz
 
-_What is this (image provided)?_
+_What is this (image provided)_?
 
 Explosion of Ariane 5 rocket due to software errors.
 
 ### Software Crisis Quiz
 
-_What are the major causes of the software crisis?_
+_What are the major causes of the software crisis_?
 
 - Increasing product complexity
 - Slow programmers' productivity growth
@@ -90,11 +90,11 @@ _What are the major causes of the software crisis?_
 
 ## Preliminary Questions 1 Quiz
 
-1. _What is the largest software system on which you have worked?_ Banking
-2. _How many LOC/day were you producing?_ Depends.
+1. _What is the largest software system on which you have worked_? Banking
+2. _How many LOC/day were you producing_? Depends.
 
 ## Preliminary Questions 2 Quiz
 
-_How many LOC/day do you think professional software engineers produce?_
+_How many LOC/day do you think professional software engineers produce_?
 
 Around 50-100 LOC.
