@@ -63,7 +63,7 @@ There are several classic mistakes during the software development process:
 
 ### Software Phases Quiz
 
-_What are the traditional software phases?_
+_What are the traditional software phases_?
 
 1. Requirements engineering
 2. Design
@@ -73,12 +73,12 @@ _What are the traditional software phases?_
 
 ### Choosing A Model Quiz 1
 
-_Which of the following models is most suitable to develop a software control system?_
+_Which of the following models is most suitable to develop a software control system_?
 
 Pure waterfall.
 
 ### Choosing A Model Quiz 2
 
-_Which model is the most suitable for a software project if you expect midcourse corrections?_
+_Which model is the most suitable for a software project if you expect midcourse corrections_?
 
 Spiral or evolutionary prototyping.
