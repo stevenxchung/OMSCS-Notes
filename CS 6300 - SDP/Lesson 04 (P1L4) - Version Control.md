@@ -53,6 +53,6 @@ There are several of steps in a Git workflow:
 
 ### VCS Quiz
 
-_Have you used any version control systems (VCS)? Which ones?_
+_Have you used any version control systems (VCS)? Which ones_?
 
 Git and TortoiseSVN.
