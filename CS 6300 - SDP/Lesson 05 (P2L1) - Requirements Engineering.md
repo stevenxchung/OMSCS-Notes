@@ -183,7 +183,7 @@ It is important to note that requirements should have the following properties:
 
 ### Pertinence Quiz
 
-_Consider an information system for a gym. In the list below, mark all the requirements that you believe are pertinent._
+_Consider an information system for a gym. In the list below, mark all the requirements that you believe are pertinent_.
 
 - Members of the gym shall be able to access their training programs
 - The system shall be able to read member cards
@@ -193,11 +193,11 @@ _Consider an information system for a gym. In the list below, mark all the requi
 
 > Consider an information system for a gym. In the list below (provided), mark all the requirements that you believe are pertinent.
 
-1. _Is the above list complete?_ No
+1. _Is the above list complete_? No
 
 ### Irrelevant Requirements Quiz
 
-_Why can irrelevant requirements be harmful?_
+_Why can irrelevant requirements be harmful_?
 
 - They can introduce inconsistency
 - They can waste project resources
@@ -206,14 +206,14 @@ _Why can irrelevant requirements be harmful?_
 
 > Referring to the figure that we just discussed (provided), indicate, for each of the following items, whether they belong to the machine domain (1), application domain (2), or their intersection (3).
 
-1. _An algorithm sorts a list of books in alphabetical order by the first author's name._ Machine domain
-2. _A notification of the arrival of a message appears on a smart watch._ Their intersection
-3. _An employee wants to organize a meeting with a set of colleagues._ Application domain
-4. _A user clicks a link on a web page._ Their intersection
+1. _An algorithm sorts a list of books in alphabetical order by the first author's name_. Machine domain
+2. _A notification of the arrival of a message appears on a smart watch_. Their intersection
+3. _An employee wants to organize a meeting with a set of colleagues_. Application domain
+4. _A user clicks a link on a web page_. Their intersection
 
 ### Requirements Quiz
 
-_Which of the following requirements are non-functional requirements?_
+_Which of the following requirements are non-functional requirements_?
 
 - The WordCount program should be able to process large files
 - The Login program for a website should be secure
@@ -224,8 +224,8 @@ _Which of the following requirements are non-functional requirements?_
 >
 > Suitably prioritize the requirements by marking them as Mandatory, Nice to have, or Superfluous.
 
-1. _The system shall check the PIN of the ATM card before allowing the customer to perform an operation._ Mandatory
-2. _The system shall perform an additional biometric verification of the customer's identity before it allows the customer to perform an operation._ Superfluous
-3. _The system shall allow customer to withdraw cash using an ATM card._ Mandatory
-4. _The system shall allow customer to deposit money using an ATM card._ Nice to have
-5. _The system shall allow customer to change the PIN of an ATM card._ Superfluous
+1. _The system shall check the PIN of the ATM card before allowing the customer to perform an operation_. Mandatory
+2. _The system shall perform an additional biometric verification of the customer's identity before it allows the customer to perform an operation_. Superfluous
+3. _The system shall allow customer to withdraw cash using an ATM card_. Mandatory
+4. _The system shall allow customer to deposit money using an ATM card_. Nice to have
+5. _The system shall allow customer to change the PIN of an ATM card_. Superfluous
