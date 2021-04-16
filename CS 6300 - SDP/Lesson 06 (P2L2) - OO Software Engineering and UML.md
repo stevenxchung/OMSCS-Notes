@@ -142,7 +142,7 @@ State transition diagrams specify the events that cause an object to move from o
 
 ### OO Benefits Quiz
 
-_Acme Corporation decided to use an OO approach in its software development process. What benefits can they expect to receive from this decision?_
+_Acme Corporation decided to use an OO approach in its software development process. What benefits can they expect to receive from this decision_?
 
 - Increased reuse because of the modular coding style
 - Increased maintainability because the system design can accommodate changes more easily
@@ -150,7 +150,7 @@ _Acme Corporation decided to use an OO approach in its software development proc
 
 ### Modeling Classes Quiz
 
-_Consider the following requirement for an online shopping website: "Users can add more than one item on sale at a time to a shopping cart." Which of the following elements should be modeled as classes?_
+_Consider the following requirement for an online shopping website: "Users can add more than one item on sale at a time to a shopping cart." Which of the following elements should be modeled as classes_?
 
 - Item
 - Shopping cart
@@ -158,7 +158,7 @@ _Consider the following requirement for an online shopping website: "Users can a
 
 ### Class Diagram Relationships Quiz
 
-_Which of the following relationships is an actual relationship for the system we are modeling?_
+_Which of the following relationships is an actual relationship for the system we are modeling_?
 
 - `RegistrationManager` uses `SchedulingAlgorithm` (dependency)
 - `RegistrationManager` uses `Student` (dependency)
@@ -169,14 +169,14 @@ _Which of the following relationships is an actual relationship for the system w
 
 ### Recap Quiz 1
 
-_An UML state transition diagram specifies:_
+_An UML state transition diagram specifies_:
 
 - The events that cause an object to move from one state to another
 - The effects of a state change
 
 ### Recap Quiz 2
 
-_Which of the following diagrams are UML structural diagrams?_
+_Which of the following diagrams are UML structural diagrams_?
 
 - Class diagram
 - Deployment diagram
