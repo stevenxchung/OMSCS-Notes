@@ -102,20 +102,20 @@ Several takeaways from this lesson:
 
 ### Architectural Recovery Quiz
 
-_Which of the following sentences is true?_
+_Which of the following sentences is true_?
 
 - Architectural drift results in unnecessarily complex architectures
 
 ### Architectural Design Quiz
 
-_What are ideal characteristics of an architectural design?_
+_What are ideal characteristics of an architectural design_?
 
 - Scalability
 - Low coupling
 
 ### Architectural Styles Quiz
 
-_Mark which architectural style(s) (given) charterizes the following systems:_
+_Mark which architectural style(s) (given) charterizes the following systems_:
 
 1. _Android OS_: event-driven, publish-subscribe
 2. _Skype_: client-server, peer-to-peer
