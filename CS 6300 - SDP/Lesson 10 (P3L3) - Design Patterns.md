@@ -103,10 +103,10 @@ In addition to design patterns, there are also negative design patterns, i.e., h
 
 ### Choosing A Pattern Quiz
 
-_Answer following questions:_
+_Answer following questions_:
 
-1. _Imagine that you have to write a class that can have one instance only. Which of the design pattern that we've discussed is most appropriate?_ Factory
-2. _Imagine that you have to write a class that can have one instance only. Using one of the design patterns that we discussed in this lesson, write the code of a class with only one method (except for possible constructors) that satisfy this requirement._ The code should be as follows:
+1. _Imagine that you have to write a class that can have one instance only. Which of the design pattern that we've discussed is most appropriate_? Factory
+2. _Imagine that you have to write a class that can have one instance only. Using one of the design patterns that we discussed in this lesson, write the code of a class with only one method (except for possible constructors) that satisfy this requirement_. The code should be as follows:
 
 ```java
 public class Singleton {
