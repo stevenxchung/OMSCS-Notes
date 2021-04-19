@@ -24,7 +24,7 @@ There are several features of RUP:
 
 ## Use Case Driven
 
-RUP is use case driven. A system performs a sequence of actions in response to user input. Use cases capture this interaction and answer the question: _what is the system suppose to do for each user?_
+RUP is use case driven. A system performs a sequence of actions in response to user input. Use cases capture this interaction and answer the question: _what is the system suppose to do for each user_?
 
 ## Architecture Centric
 
@@ -59,13 +59,13 @@ Within each iteration the following activities may be observed:
 
 ### UML Quiz 1
 
-_What is the difference between a use case and a use case model?_
+_What is the difference between a use case and a use case model_?
 
 A use case model is a set of use cases.
 
 ### UML Quiz 2
 
-_What are use case diagrams used for?_
+_What are use case diagrams used for_?
 
 - They can be used to prioritize requirements
 - They can be used during requirements elicitation
@@ -73,7 +73,7 @@ _What are use case diagrams used for?_
 
 ### Iterative Approach Quiz
 
-_What are the benefits of iterative approaches?_
+_What are the benefits of iterative approaches_?
 
 - Give developers early feedback
 - Minimize risk of developing wrong system
