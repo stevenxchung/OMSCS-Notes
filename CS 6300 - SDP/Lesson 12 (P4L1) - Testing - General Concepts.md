@@ -66,7 +66,7 @@ There are also testing techniques such as:
 
 ### Failure, Fault, and Error Quiz 1
 
-_Given the following code:_
+_Given the following code_:
 
 ```java
 int doubleValue(int i) {
@@ -76,17 +76,17 @@ int doubleValue(int i) {
 
 ```
 
-_A call to doubleValue(3) returns 9. This is:_ a failure.
+_A call to doubleValue(3) returns 9. This is_: a failure.
 
 ### Failure, Fault, and Error Quiz 2
 
-_Where is the fault that causes the failure in the program (provided previously)? Write the line number of the code that contains the fault._
+_Where is the fault that causes the failure in the program (provided previously)? Write the line number of the code that contains the fault_.
 
 In line 3 where `result = i*i;`.
 
 ### Failure, Fault, and Error Quiz 3
 
-_What is the error the caused the fault (given previously)?_
+_What is the error the caused the fault (given previously)_?
 
 The `result` should be the input multiplied by 2 not by itself. However, as a user we would not know what the error is, only the developer would know.
 
@@ -94,6 +94,6 @@ The `result` should be the input multiplied by 2 not by itself. However, as a u
 
 > 50% of my company employees are testers, and the rest spends 50% of their time testing.
 
-_Who said that?_
+_Who said that_?
 
 Bill Gates when he was at Microsoft.
