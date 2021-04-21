@@ -66,3 +66,13 @@ To build an FSM from specifications, we can perform the following:
 1. Identify system boundaries and input and output
 2. Identify relevant states and transitions
 3. Identify how a system can go from one state to another
+
+## Finite State Machines Considerations
+
+There are some considerations for the FSM model-based testing approach:
+
+1. **Applicability**:
+   - Very general approach
+   - In UML, state machines are readily available
+2. **Abstraction is key**
+3. **Many other approaches**: e.g., decision tables, flow graphs, historical models, etc.
