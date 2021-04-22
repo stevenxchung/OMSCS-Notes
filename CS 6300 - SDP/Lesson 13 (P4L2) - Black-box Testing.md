@@ -76,3 +76,13 @@ There are some considerations for the FSM model-based testing approach:
    - In UML, state machines are readily available
 2. **Abstraction is key**
 3. **Many other approaches**: e.g., decision tables, flow graphs, historical models, etc.
+
+## Section Quizzes
+
+### Overview Quiz 1
+
+> `printSum(int a, int b)`
+
+_How many independently testable features do we have here_?
+
+We only have one feature, in this case `printSum()`.
