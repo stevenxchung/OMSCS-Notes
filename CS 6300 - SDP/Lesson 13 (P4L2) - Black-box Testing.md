@@ -86,3 +86,11 @@ There are some considerations for the FSM model-based testing approach:
 _How many independently testable features do we have here_?
 
 We only have one feature, in this case `printSum()`.
+
+### Overview Quiz 2
+
+_Identify three possible independently testable features for a spreadsheet_.
+
+- Sorting
+- Plotting
+- Saving
