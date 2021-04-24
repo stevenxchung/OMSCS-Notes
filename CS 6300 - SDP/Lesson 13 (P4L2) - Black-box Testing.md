@@ -94,3 +94,13 @@ _Identify three possible independently testable features for a spreadsheet_.
 - Sorting
 - Plotting
 - Saving
+
+### Test Data Selection Quiz
+
+_How long would it take to exhaustively test this function_?
+
+> `printSum(int a, int b)`
+
+_This function takes two integers and prints the sum_.
+
+It would take hundreds of years.
