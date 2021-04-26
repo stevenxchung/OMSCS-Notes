@@ -79,7 +79,7 @@ There are some considerations for the FSM model-based testing approach:
 
 ## Section Quizzes
 
-### Overview Quiz 1
+### Overview 1 Quiz
 
 > `printSum(int a, int b)`
 
@@ -87,7 +87,7 @@ _How many independently testable features do we have here_?
 
 We only have one feature, in this case `printSum()`.
 
-### Overview Quiz 2
+### Overview 2 Quiz
 
 _Identify three possible independently testable features for a spreadsheet_.
 
