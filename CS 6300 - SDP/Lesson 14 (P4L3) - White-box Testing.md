@@ -24,3 +24,7 @@ There are also different kind of white-box testing:
 **Statement coverage** refers to the number of statements in the program (e.g., _expect a + b to be > 0_) and the coverage should measure the number of executed statements versus the total number of statements.
 
 Statement coverage in practice is typically 80-90% with but not 100%.
+
+## Control Flow Graphs
+
+**Control flow graphs** are ways to visualize the control flow of a particular block of code.
