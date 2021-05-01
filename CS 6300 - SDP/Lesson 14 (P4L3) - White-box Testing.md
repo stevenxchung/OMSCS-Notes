@@ -28,3 +28,7 @@ Statement coverage in practice is typically 80-90% with but not 100%.
 ## Control Flow Graphs
 
 **Control flow graphs** are ways to visualize the control flow of a particular block of code.
+
+## Branch Coverage
+
+Similar to statement coverage, **branch coverage** refers to the number of branches in the program (a group of tests based on the control flow for a particular block of program) and the coverage should measure the number of executed branches versus the total number of branches.
