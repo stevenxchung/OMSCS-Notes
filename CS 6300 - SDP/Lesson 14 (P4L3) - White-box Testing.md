@@ -32,3 +32,7 @@ Statement coverage in practice is typically 80-90% with but not 100%.
 ## Branch Coverage
 
 Similar to statement coverage, **branch coverage** refers to the number of branches in the program (a group of tests based on the control flow for a particular block of program) and the coverage should measure the number of executed branches versus the total number of branches.
+
+## Condition Coverage
+
+**Condition coverage** refers to the individual conditions in the program and are measured based on the number of conditions that are both true and false versus the total number of conditions.
