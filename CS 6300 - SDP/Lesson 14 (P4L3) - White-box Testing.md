@@ -36,3 +36,7 @@ Similar to statement coverage, **branch coverage** refers to the number of branc
 ## Condition Coverage
 
 **Condition coverage** refers to the individual conditions in the program and are measured based on the number of conditions that are both true and false versus the total number of conditions.
+
+## Modified Condition/Decision Coverage
+
+**MC/DC (modified condition/decision coverage)** refers to testing important combinations of conditions and limiting test costs. This type of testing extends branch and decision coverage with the requirement that _each_ condition should affect the decision outcome independently.
