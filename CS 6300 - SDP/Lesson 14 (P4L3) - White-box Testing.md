@@ -40,3 +40,24 @@ Similar to statement coverage, **branch coverage** refers to the number of branc
 ## Modified Condition/Decision Coverage
 
 **MC/DC (modified condition/decision coverage)** refers to testing important combinations of conditions and limiting test costs. This type of testing extends branch and decision coverage with the requirement that _each_ condition should affect the decision outcome independently.
+
+## Section Quizzes
+
+### Coverage Criteria Intro Quiz 1
+
+_Given the following code block_:
+
+```java
+printSum(int a, int b) {
+   int result = a +b;
+   if(result > 0)
+      printcol("red", result);
+   else if(result < 0)
+      printcol("blue", result);
+}
+```
+
+_What are some possible test specifications that will satisfy some of the requirements we just saw? What constraint must be specified for line 4 and 6 to be executed_?
+
+1. Line 4: `a + b > 0`
+2. Line 6: `a + b < 0`
