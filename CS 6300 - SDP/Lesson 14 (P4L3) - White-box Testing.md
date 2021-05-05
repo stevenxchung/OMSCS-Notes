@@ -61,3 +61,10 @@ _What are some possible test specifications that will satisfy some of the requir
 
 1. Line 4: `a + b > 0`
 2. Line 6: `a + b < 0`
+
+### Coverage Criteria Intro Quiz 2
+
+_Implement the test cases matching the following specifications_:
+
+1. `a + b` needs to be positive and the result should be red
+2. `a + b` needs to be negative and the result should be blue
