@@ -68,3 +68,9 @@ _Implement the test cases matching the following specifications_:
 
 1. `a + b` needs to be positive and the result should be red
 2. `a + b` needs to be negative and the result should be blue
+
+### Statement Coverage Quiz
+
+_Given statement coverage is mostly used in industry and "typical coverage" target is 80-90% why don't we aim at 100%_?
+
+That is not possible and would take too much time to reach that goal since almost always more lines of code are added to an active repository than can be covered.
