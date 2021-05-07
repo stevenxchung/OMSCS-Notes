@@ -74,3 +74,7 @@ _Implement the test cases matching the following specifications_:
 _Given statement coverage is mostly used in industry and "typical coverage" target is 80-90% why don't we aim at 100%_?
 
 That is not possible and would take too much time to reach that goal since almost always more lines of code are added to an active repository than can be covered.
+
+### Subsumption Quiz 1
+
+_Does condition coverage imply branch coverage_? No, branch coverage covers branches while condition coverage covers conditions.
