@@ -82,3 +82,9 @@ _Does condition coverage imply branch coverage_? No, branch coverage covers bran
 ### Subsumption Quiz 2
 
 _Does branch and condition coverage imply branch coverage_? Yes, because it implies that branch and condition coverage needs to be met.
+
+### Branch And Condition Coverage Quiz
+
+_Add a test case (to provided code) to achieve 100% branch and condition coverage_.
+
+Set `x = 1` and `y = -1`.
