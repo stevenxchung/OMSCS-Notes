@@ -88,3 +88,15 @@ _Does branch and condition coverage imply branch coverage_? Yes, because it impl
 _Add a test case (to provided code) to achieve 100% branch and condition coverage_.
 
 Set `x = 1` and `y = -1`.
+
+### Review Quiz 1
+
+_Given the following code block_:
+
+```java
+int i;
+read(i);
+print(10 / (i - 3));
+```
+
+_Test if test suite (1, -5), (-1, 2.5), (0, -3.333), does this test suite achieve path coverage_? Yes, since there is only one path.
