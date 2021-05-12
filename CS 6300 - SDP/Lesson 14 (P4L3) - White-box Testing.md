@@ -104,3 +104,17 @@ _Test if test suite (1, -5), (-1, 2.5), (0, -3.333), does this test suite achiev
 ### Review Quiz 2
 
 _Referring to the previous path coverage test, does this test suite reveal the fault at line 3_? No, because there is no input that causes it to `print(10/0)`.
+
+### Review Quiz 3
+
+_Given the following code block_:
+
+```java
+int i = 0;
+int j;
+read(j);
+if ((j > 5) && (i > 0))
+   print(i);
+```
+
+_Can you create a test suite to achieve statement coverage_? No, because `i = 0` is always true
