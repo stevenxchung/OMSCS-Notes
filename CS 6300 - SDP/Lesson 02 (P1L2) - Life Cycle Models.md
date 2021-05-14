@@ -76,3 +76,9 @@ _What are the traditional software phases_?
 _Which of the following models is most suitable to develop a software control system_?
 
 Pure waterfall.
+
+### Choosing A Model 2 Quiz
+
+_Which model is the most suitable for a software project if you expect midcourse corrections_?
+
+Spiral or evolutionary prototyping.
