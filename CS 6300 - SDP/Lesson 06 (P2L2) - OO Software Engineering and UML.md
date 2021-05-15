@@ -167,16 +167,9 @@ _Which of the following relationships is an actual relationship for the system w
 - `Student` is a `RegistrationUser` (generalization)
 - `Professor` is a `RegistrationUser` (generalization)
 
-### Recap Quiz 1
+### Recap 1 Quiz
 
 _An UML state transition diagram specifies_:
 
 - The events that cause an object to move from one state to another
 - The effects of a state change
-
-### Recap Quiz 2
-
-_Which of the following diagrams are UML structural diagrams_?
-
-- Class diagram
-- Deployment diagram
