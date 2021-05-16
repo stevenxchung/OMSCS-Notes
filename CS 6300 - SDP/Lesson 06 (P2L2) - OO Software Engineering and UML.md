@@ -173,3 +173,10 @@ _An UML state transition diagram specifies_:
 
 - The events that cause an object to move from one state to another
 - The effects of a state change
+
+### Recap 2 Quiz
+
+_Which of the following diagrams are UML structural diagrams_?
+
+- Class diagram
+- Deployment diagram
