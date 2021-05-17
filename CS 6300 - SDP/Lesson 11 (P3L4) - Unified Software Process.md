@@ -57,7 +57,7 @@ Within each iteration the following activities may be observed:
 
 ## Section Quizzes
 
-### UML Quiz 1
+### UML 1 Quiz
 
 _What is the difference between a use case and a use case model_?
 
