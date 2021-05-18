@@ -63,7 +63,7 @@ _What is the difference between a use case and a use case model_?
 
 A use case model is a set of use cases.
 
-### UML Quiz 2
+### UML 2 Quiz
 
 _What are use case diagrams used for_?
 
