@@ -64,7 +64,7 @@ There are also testing techniques such as:
 
 ## Section Quizzes
 
-### Failure, Fault, and Error Quiz 1
+### Failure, Fault, and Error 1 Quiz
 
 _Given the following code_:
 
