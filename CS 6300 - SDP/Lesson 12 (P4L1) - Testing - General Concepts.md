@@ -78,7 +78,7 @@ int doubleValue(int i) {
 
 _A call to doubleValue(3) returns 9. This is_: a failure.
 
-### Failure, Fault, and Error Quiz 2
+### Failure, Fault, and Error 2 Quiz
 
 _Where is the fault that causes the failure in the program (provided previously)? Write the line number of the code that contains the fault_.
 
