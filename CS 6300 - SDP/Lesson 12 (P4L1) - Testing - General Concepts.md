@@ -84,7 +84,7 @@ _Where is the fault that causes the failure in the program (provided previously)
 
 In line 3 where `result = i*i;`.
 
-### Failure, Fault, and Error Quiz 3
+### Failure, Fault, and Error 3 Quiz
 
 _What is the error the caused the fault (given previously)_?
 
