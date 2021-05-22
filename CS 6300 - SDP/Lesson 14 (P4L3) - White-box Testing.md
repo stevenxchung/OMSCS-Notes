@@ -43,7 +43,7 @@ Similar to statement coverage, **branch coverage** refers to the number of branc
 
 ## Section Quizzes
 
-### Coverage Criteria Intro Quiz 1
+### Coverage Criteria Intro 1 Quiz
 
 _Given the following code block_:
 
