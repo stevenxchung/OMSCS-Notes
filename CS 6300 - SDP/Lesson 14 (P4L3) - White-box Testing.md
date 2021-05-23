@@ -62,7 +62,7 @@ _What are some possible test specifications that will satisfy some of the requir
 1. Line 4: `a + b > 0`
 2. Line 6: `a + b < 0`
 
-### Coverage Criteria Intro Quiz 2
+### Coverage Criteria Intro 2 Quiz
 
 _Implement the test cases matching the following specifications_:
 
