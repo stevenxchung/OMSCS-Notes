@@ -75,7 +75,7 @@ _Given statement coverage is mostly used in industry and "typical coverage" targ
 
 That is not possible and would take too much time to reach that goal since almost always more lines of code are added to an active repository than can be covered.
 
-### Subsumption Quiz 1
+### Subsumption 1 Quiz
 
 _Does condition coverage imply branch coverage_? No, branch coverage covers branches while condition coverage covers conditions.
 
