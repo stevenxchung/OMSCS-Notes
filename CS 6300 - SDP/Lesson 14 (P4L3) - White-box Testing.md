@@ -79,7 +79,7 @@ That is not possible and would take too much time to reach that goal since almos
 
 _Does condition coverage imply branch coverage_? No, branch coverage covers branches while condition coverage covers conditions.
 
-### Subsumption Quiz 2
+### Subsumption 2 Quiz
 
 _Does branch and condition coverage imply branch coverage_? Yes, because it implies that branch and condition coverage needs to be met.
 
