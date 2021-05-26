@@ -89,7 +89,7 @@ _Add a test case (to provided code) to achieve 100% branch and condition coverag
 
 Set `x = 1` and `y = -1`.
 
-### Review Quiz 1
+### Review 1 Quiz
 
 _Given the following code block_:
 
