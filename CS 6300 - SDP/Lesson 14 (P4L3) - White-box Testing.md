@@ -105,7 +105,7 @@ _Test if test suite (1, -5), (-1, 2.5), (0, -3.333), does this test suite achiev
 
 _Referring to the previous path coverage test, does this test suite reveal the fault at line 3_? No, because there is no input that causes it to `print(10/0)`.
 
-### Review Quiz 3
+### Review 3 Quiz
 
 _Given the following code block_:
 
