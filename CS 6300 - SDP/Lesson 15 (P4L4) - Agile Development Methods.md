@@ -21,3 +21,47 @@ If cost is flat then upfront work becomes a liability and with ambiguity it may 
 4. Customer involvement
 5. Expectation that requirements will change
 6. Simplicity
+
+## XP Extreme Programming
+
+**XP** is a lightweight methodology for small to medium size teams developing software in the face of vague or rapidly changing requirements. XP focuses on four main key points:
+
+1. Lightweight
+2. Humanistic
+3. Discipline
+4. Software Development
+
+Additionally, XP embodies the following values and principles:
+
+1. Communication
+2. Simplicity
+3. Feedback
+4. Courage
+
+In practice, XP advocates for:
+
+1. **Incremental planning**: which could be broken down into the following:
+   1. Select user stories for release
+   2. Break stories into tasks
+   3. Plan release
+   4. Develop, integrate, and test
+   5. Release software
+   6. Evaluate system and iteration
+2. **Small releases**: there many advantages of small releases:
+   1. Deliver value quickly
+   2. Rapid feedback
+   3. Sense of accomplishment for the developments
+   4. Reduces risk
+   5. Quickly adapt to new requirements
+3. **Simple design**: which advocates for design that:
+   1. Is enough to meet the requirements
+   2. Includes no duplicated functionality
+   3. Has the fewest possible classes and methods
+4. **Test first**: write tests early before developing a feature
+5. **Refactoring**: restructuring code such that code is more clean and simple
+6. **Pair programming**: a technique that leverages two developers where one may take on the role of programming and one may take on the role of strategizing
+7. **Continuous integration**: process that advocates for continuously checking the following:
+   1. Local tests
+   2. Integration tests
+   3. System tests
+8. **On-site customer**: the customer is an actual member of the team (not very common in practice)
