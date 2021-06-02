@@ -65,3 +65,10 @@ In practice, XP advocates for:
    2. Integration tests
    3. System tests
 8. **On-site customer**: the customer is an actual member of the team (not very common in practice)
+
+## Testing Strategy
+
+The testing strategy in agile is that testing is coded confidence. There are various types of tests we should implement for meaningful features and functionality:
+
+- Unit tests
+- System tests
