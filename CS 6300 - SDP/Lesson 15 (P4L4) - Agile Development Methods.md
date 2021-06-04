@@ -89,3 +89,12 @@ There are several of high-level scrum process:
 4. Daily scrum (iterative)
 5. Sprint review and retrospective (iterative)
 6. Potentially shippable product increment
+
+## Section Quizzes
+
+### Testing Strategy Quiz
+
+_Which of the following statements about Extreme Programming (XP) are true_?
+
+- XP follows the test driven development (TDD) paradigm
+- XP is an iterative software development process
