@@ -15,3 +15,7 @@ Why should we refactor? We should refactor because of the following:
 1. Requirements change
 2. Design needs to be improved
 3. Sloppiness/laziness creeping into software
+
+## History Of Refactoring
+
+Refactoring is something programmers have always done. Refactoring is especially important for OO languages and is an increasingly popular and important part of agile software development.
