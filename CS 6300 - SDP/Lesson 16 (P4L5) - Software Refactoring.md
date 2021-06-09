@@ -19,3 +19,14 @@ Why should we refactor? We should refactor because of the following:
 ## History Of Refactoring
 
 Refactoring is something programmers have always done. Refactoring is especially important for OO languages and is an increasingly popular and important part of agile software development.
+
+## Types Of Refactoring
+
+There are many types of refactoring but for this class we will cover the following:
+
+- **Collapse hierarchy**: useful when a superclass and a subclass are too similar
+- **Consolidate conditionals**: useful when a set of conditionals has the same result
+- **Decompose conditionals**: useful when a conditional statement is particularly complex
+- **Extract method**: useful when a cohesive code fragment exists in a large method
+- **Extract class**: useful when a class is doing the work of two classes
+- **Inline class**: useful when a class is not doing much
