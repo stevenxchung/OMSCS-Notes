@@ -30,3 +30,11 @@ There are many types of refactoring but for this class we will cover the followi
 - **Extract method**: useful when a cohesive code fragment exists in a large method
 - **Extract class**: useful when a class is doing the work of two classes
 - **Inline class**: useful when a class is not doing much
+
+## Refactoring Risks
+
+Refactoring is a powerful tool but there are several drawbacks:
+
+- May introduce subtle faults
+- Should not be abused
+- Should be used carefully on systems in production
