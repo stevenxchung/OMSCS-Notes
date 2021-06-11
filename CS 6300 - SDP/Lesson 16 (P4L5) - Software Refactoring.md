@@ -38,3 +38,11 @@ Refactoring is a powerful tool but there are several drawbacks:
 - May introduce subtle faults
 - Should not be abused
 - Should be used carefully on systems in production
+
+## Cost Of Refactoring
+
+The cost of refactoring depends on a several factors:
+
+- Manual work
+- Test development and maintenance
+- Documentation maintenance
