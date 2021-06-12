@@ -46,3 +46,11 @@ The cost of refactoring depends on a several factors:
 - Manual work
 - Test development and maintenance
 - Documentation maintenance
+
+## When Not To Refactor
+
+We should not refactor when:
+
+- Code is broken
+- A deadline is close
+- There is no reason to
