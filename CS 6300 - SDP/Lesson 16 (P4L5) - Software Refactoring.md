@@ -54,3 +54,13 @@ We should not refactor when:
 - Code is broken
 - A deadline is close
 - There is no reason to
+
+## Bad Smells
+
+**Bad smells** are symptoms in the code which may indicate deeper problems. There are many types of bad smells. Below are some of the common bad smells and the solution that may be applied to resolve them:
+
+- Duplicated code -> solved by extract method
+- Long method -> extract method, decomposed conditional, etc.
+- Large class -> extract class (or subclass)
+- Shotgun surgery -> move method/field, inline class, etc.
+- Feature envy -> extract method, move method
