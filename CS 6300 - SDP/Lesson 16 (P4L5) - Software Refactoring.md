@@ -64,3 +64,11 @@ We should not refactor when:
 - Large class -> extract class (or subclass)
 - Shotgun surgery -> move method/field, inline class, etc.
 - Feature envy -> extract method, move method
+
+## Section Quizzes
+
+### Introduction Quiz
+
+_Why can't testing guarantee that a refactoring is behavior preserving_?
+
+Because testing is inherently incomplete.
