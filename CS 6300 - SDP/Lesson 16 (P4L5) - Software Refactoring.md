@@ -79,3 +79,10 @@ _When is is appropriate to apply refactoring "extract method"_?
 
 - When there is duplicated code in two or more methods
 - When a method is highly coupled with a class other than the one where it is defined
+
+### Bad Smell Quiz
+
+_Which of the following can be considered to be "bad smells" in the context of refactoring_?
+
+- Method `m()` in class `C` is very long
+- Every time we modify method `m1()`, we also need to modify method `m2()`
