@@ -72,3 +72,10 @@ We should not refactor when:
 _Why can't testing guarantee that a refactoring is behavior preserving_?
 
 Because testing is inherently incomplete.
+
+### Extract Method Refactoring Quiz
+
+_When is is appropriate to apply refactoring "extract method"_?
+
+- When there is duplicated code in two or more methods
+- When a method is highly coupled with a class other than the one where it is defined
