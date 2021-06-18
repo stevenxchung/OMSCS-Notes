@@ -102,7 +102,7 @@ Design is the most creative part of software development.
 
 ### Terms Quiz
 
-_Can you distinguish the following definitions?_
+_Can you distinguish the following definitions_?
 
 - Design: deliberative, purposive planning
 - Engineering: skillful or artful contrivance applying scientific and mathematical principles
@@ -111,43 +111,43 @@ _Can you distinguish the following definitions?_
 
 ### Programming Or Design Quiz
 
-_Which of the following are differences between software design and programming?_
+_Which of the following are differences between software design and programming_?
 
 - Scale
 - Emphasis on non-functional requirements
 
 ### Weather Quiz
 
-_If you were designing for performance, would you use an array or a collection of interdependent objects to hold data about weather for a region?_
+_If you were designing for performance, would you use an array or a collection of interdependent objects to hold data about weather for a region_?
 
 We would use an array.
 
 ### Design Review Quiz
 
-_What are the negative consequences of testing a design for the first time once the project has been completed?_
+_What are the negative consequences of testing a design for the first time once the project has been completed_?
 
 That would not be cost or time effective.
 
 ### Documentation Quiz
 
-_Pick an organization that would require formal documentation:_
+_Pick an organization that would require formal documentation_:
 
 A military contractor would require formal documentation.
 
 ### Java Quiz 1
 
-_Which of (reduced) coupling or (increased) cohesion do Java packages support?_
+_Which of (reduced) coupling or (increased) cohesion do Java packages support_?
 
 Java packages support reduced coupling.
 
 ### Java Quiz 2
 
-_Does the Java class inheritance mechanism increase or decrease coupling between the parent and child classes?_
+_Does the Java class inheritance mechanism increase or decrease coupling between the parent and child classes_?
 
 The Java class inheritance mechanism increases coupling.
 
 ### Metaphors Quiz
 
-_Can you think of any other metaphors we use when talking about computers?_
+_Can you think of any other metaphors we use when talking about computers_?
 
 It was interesting to realize that engineers set the _on_ function as a _1_ and the _off_ function as a _0_ and kept what is mostly a backend attribute on the front of products when they shipped.
