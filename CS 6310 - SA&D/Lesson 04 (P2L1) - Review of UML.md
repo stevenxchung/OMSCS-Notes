@@ -145,7 +145,7 @@ You cannot design a complex system without having some idea of what it is suppos
 
 ### Diagram Quiz
 
-_We want to convince a development shop of the benefits of design diagrams by indicating some pros and cons of using them. Mark the following with pro (P) or con (C):_
+_We want to convince a development shop of the benefits of design diagrams by indicating some pros and cons of using them. Mark the following with pro (P) or con (C)_:
 
 - Communication: P
 - Maintainability: C
@@ -154,7 +154,7 @@ _We want to convince a development shop of the benefits of design diagrams by in
 
 ### UML Structure Diagram Quiz
 
-_Match up each of the UML Structure Diagram types with their descriptions:_
+_Match up each of the UML Structure Diagram types with their descriptions_:
 
 - Class: components and structural properties
 - Composite structure: internal structure and possible interactions
@@ -166,7 +166,7 @@ _Match up each of the UML Structure Diagram types with their descriptions:_
 
 ### UML Quiz
 
-_Which of the UML Structure Diagram types could be used to convey system architecture?_
+_Which of the UML Structure Diagram types could be used to convey system architecture_?
 
 - Class diagram
 - Component diagram
@@ -175,7 +175,7 @@ _Which of the UML Structure Diagram types could be used to convey system archite
 
 ### Behavior Diagram Quiz
 
-_Match the following behavior diagrams with their descriptions:_
+_Match the following behavior diagrams with their descriptions_:
 
 - Activity: flow of control from activity to activity
 - Sequence: interaction of classes of message exchange
