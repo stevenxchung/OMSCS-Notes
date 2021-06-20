@@ -127,13 +127,13 @@ OOA is a valuable first take to take during a software development effort. It ca
 
 ### Object Quiz
 
-_Can you think why objects might be a better starting point for analysis than functions?_
+_Can you think why objects might be a better starting point for analysis than functions_?
 
 During maintenance, functions change more frequently than objects.
 
 ### Step 1: Locate Nouns Quiz
 
-_Locate the nouns:_
+_Locate the nouns_:
 
 > Keep a pile of the parts of the tree that have not yet been counted. Initially, get a tree and put it on the empty pile; the count of the leaves is initially set to zero. As long as the pile is not empty, repeatedly take a tree off the pile and examine it. If the tree consists of a single leaf, then increment the leaf counter and throw away that tree. If the tree is not a single leaf but instead consists of two subtrees, split the tree into its left and right subtrees and put them back on the pile. Once the pile is empty, display the count of the leaves.
 
@@ -159,7 +159,7 @@ _Find all adjectives in the paragraph. Then, group the adjectives (attributes) t
 
 ### Action Verbs Quiz
 
-_Locate the verbs:_
+_Locate the verbs_:
 
 > Keep a pile of the parts of the tree that have not yet been counted. Initially, get a tree and put it on the empty pile; the count of the leaves is initially set to zero. As long as the pile is not empty, repeatedly take a tree off the pile and examine it. If the tree consists of a single leaf, then increment the leaf counter and throw away that tree. If the tree is not a single leaf but instead consists of two subtrees, split the tree into its left and right subtrees and put them back on the pile. Once the pile is empty, display the count of the leaves.
 
@@ -167,7 +167,7 @@ Keep, counted, get, put, is, set, take, examine, consist, increment, throw, spli
 
 ### Operations In Class Quiz
 
-_Match each verb with a candidate class. We have omitted certain verbs and candidate classes from this list that will be explained in the next video._
+_Match each verb with a candidate class. We have omitted certain verbs and candidate classes from this list that will be explained in the next video_.
 
 - `get()`: Pile
 - `throw()`: Pile
