@@ -126,7 +126,7 @@ UML provides a rich vocabulary for modeling system structure. However there is n
 
 ### Abstract Class Quiz
 
-_Fill in the following text boxes for an abstract vehicles class:_
+_Fill in the following text boxes for an abstract vehicles class_:
 
 - Subclasses: car
 - Attributes: VIN
@@ -134,7 +134,7 @@ _Fill in the following text boxes for an abstract vehicles class:_
 
 ### Class Description Quiz
 
-_For 'Name': Enter a single word answer into the text box. For 'Attributes' and 'Operations', provide comma-separated answers._
+_For 'Name': Enter a single word answer into the text box. For 'Attributes' and 'Operations', provide comma-separated answers_.
 
 - Name: Account
 - Attributes: Current balance
@@ -142,7 +142,7 @@ _For 'Name': Enter a single word answer into the text box. For 'Attributes' and 
 
 ### Aggregation & Composition Quiz
 
-_For the pairs of classes, select whether the each is a composition, an aggregation, or a general association._
+_For the pairs of classes, select whether the each is a composition, an aggregation, or a general association_.
 
 - Courses and students: aggregation
 - Person and spouse: general associations
@@ -151,7 +151,7 @@ _For the pairs of classes, select whether the each is a composition, an aggregat
 
 ### Constraints Quiz
 
-_For each of the following superclasses and their subclasses, determine whether the subclasses are disjoint and complete._
+_For each of the following superclasses and their subclasses, determine whether the subclasses are disjoint and complete_.
 
 1. _Athletes: BaseballPlayers, FootballPlayers, BasketballPlayers_
    - Overlapping
@@ -164,6 +164,6 @@ _For each of the following superclasses and their subclasses, determine whether 
 
 ### Superclass & Subclass Quiz
 
-_Among omnivores and vegetarians, which is the superclass and which is the subclass?_
+_Among omnivores and vegetarians, which is the superclass and which is the subclass_?
 
 Vegetarians are the superclass; omnivores are the subclass.
