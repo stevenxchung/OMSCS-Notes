@@ -78,7 +78,7 @@ In summary, design can't be taught. It has to be learned. Therefore, the project
 
 ### Design Factors Quiz
 
-_What are some of the factors that might be used to compare different versions of a program?_
+_What are some of the factors that might be used to compare different versions of a program_?
 
 - Performance
 - Size
