@@ -45,13 +45,13 @@ To summarize:
 
 ### SQRT Signature Quiz
 
-_Give a signature for a function called SQRT that takes as input a real number and returns another real number whose value is the square root of the argument._
+_Give a signature for a function called SQRT that takes as input a real number and returns another real number whose value is the square root of the argument_.
 
 `Real Y = SQRT(Real X)`
 
 ### SQRT Postcondition Quiz
 
-_See if you can specify the postcondition SQRT given the signature:_
+_See if you can specify the postcondition SQRT given the signature_:
 
 > `Real Y = SQRT(Real X)`
 
@@ -59,7 +59,7 @@ _See if you can specify the postcondition SQRT given the signature:_
 
 ### ORDERED Precondition Quiz
 
-_See if you can specify the precondition for ORDERED given the signature:_
+_See if you can specify the precondition for ORDERED given the signature_:
 
 > `Vector<int> Y = ORDERED(Vector<int> X)`
 
@@ -67,12 +67,12 @@ _See if you can specify the precondition for ORDERED given the signature:_
 
 ### ORDERED Spec And Pre Quiz
 
-_Give the signature for the REORDERED function that determines whether an input Vector of integers is in descending order._
+_Give the signature for the REORDERED function that determines whether an input Vector of integers is in descending order_.
 
 `Bool Y = REORDERED(Vector<int> X)`
 
 ### PERMUTATION Signature Quiz
 
-_Give the signature for PERMUTATION that takes two Vectors of integers and returns whether they are permutations of each other._
+_Give the signature for PERMUTATION that takes two Vectors of integers and returns whether they are permutations of each other_.
 
 `Bool Z = PERMUTATION(Vector<int> X, Vector<int> Y)`
