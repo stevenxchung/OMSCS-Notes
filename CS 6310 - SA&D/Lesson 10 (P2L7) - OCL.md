@@ -100,12 +100,12 @@ marketCapitalization > 1000000
 
 ### Post Condition Quiz
 
-_Say you had a class with two attributes, a and b, both Reals, and you wanted to have an Operations called swap that interchanges their values. See if you can probide a post-condition that expresses this Operation._
+_Say you had a class with two attributes, a and b, both Reals, and you wanted to have an Operations called swap that interchanges their values. See if you can probide a post-condition that expresses this Operation_.
 
 `post a = b@pre and b = a@pre`
 
 ### Bank ID Quiz
 
-_For the same diagram with context class Customer, how would you refer to the size of the set of BankIDs that a Customer instance has written checks on for all Orders that the Customer has made?_
+_For the same diagram with context class Customer, how would you refer to the size of the set of BankIDs that a Customer instance has written checks on for all Orders that the Customer has made_?
 
 `self.Order.Check.bankID --> size()`
