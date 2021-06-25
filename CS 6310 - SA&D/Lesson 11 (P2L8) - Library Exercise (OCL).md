@@ -18,7 +18,7 @@ We should be open during the process of analysis to the possibility of new requi
 
 ### Requirements Quiz
 
-_Determine which of the requirements the diagram is able to adequately address with a `+` or cannot address with a `-`._
+_Determine which of the requirements the diagram is able to adequately address with a `+` or cannot address with a `-`_.
 
 - Req 1: -
 - Req 2: +
@@ -34,19 +34,19 @@ _Determine which of the requirements the diagram is able to adequately address w
 
 ## Requirement 6 Quiz
 
-_Which of the classes in the diagram is most appropriate to associate with Requirement #6 (checking out books)?_
+_Which of the classes in the diagram is most appropriate to associate with Requirement #6 (checking out books)_?
 
 `Book` is the most appropriate class.
 
 ## CheckedOut Quiz
 
-_Does the constraint for the checkout period sound more like a class invariant or an operation?_
+_Does the constraint for the checkout period sound more like a class invariant or an operation_?
 
 Sounds more like an invariant.
 
 ## Requirement 7 OCL Quiz
 
-_Complete the OCL constraint for Requirement #7 (AV material checkout)._
+_Complete the OCL constraint for Requirement #7 (AV material checkout)_.
 
 - Attribute name: checkOutPeriod
 - Operator: =
@@ -54,7 +54,7 @@ _Complete the OCL constraint for Requirement #7 (AV material checkout)._
 
 ## Requirement 4 OCL Quiz
 
-_Complete the OCL constraint for Requirement #4 (children checkout limit)._
+_Complete the OCL constraint for Requirement #4 (children checkout limit)_.
 
 ```java
 context Patron : : checkout (i : LoanableItem)
@@ -64,13 +64,13 @@ pre: if age <= 12 then
 
 ## Checkout Preconditions Quiz
 
-_For adults, which of the following is not a precondition for the Patron::checkOut operation?_
+_For adults, which of the following is not a precondition for the Patron::checkOut operation_?
 
 The patron has not exceeded checkout limit.
 
 ## Derived Data Quiz
 
-_Complete the OCL constraint for Patron's age. Hint: Use the OCL keyword derive._
+_Complete the OCL constraint for Patron's age. Hint: Use the OCL keyword derive_.
 
 ```java
 context Patron::age:Date
