@@ -111,13 +111,13 @@ Behavioral modeling can be done with state charts. There are other methods we ca
 
 ### Tic Tac Toe Quiz
 
-_The game of TicTacToe is played on a 3 x 3 grid. Each grid cell can contain an X, an O, or can be empty. In how many different states can a TicTacToe board be?_
+_The game of TicTacToe is played on a 3 x 3 grid. Each grid cell can contain an X, an O, or can be empty. In how many different states can a TicTacToe board be_?
 
 3^9 = 19683
 
 ### State Vs Event Quiz
 
-_Which of the following are states, events, or neither? Select the correct option from the drop down next to each of the below._
+_Which of the following are states, events, or neither? Select the correct option from the drop down next to each of the below_.
 
 - State
 - Neither
@@ -130,7 +130,7 @@ _Which of the following are states, events, or neither? Select the correct optio
 
 ### Garage Door Quiz 1
 
-_In how many states could the garage door be?_
+_In how many states could the garage door be_?
 
 There are six states total based on the given information:
 
@@ -143,7 +143,7 @@ There are six states total based on the given information:
 
 ### Garage Door Quiz 2
 
-_To how many events does the garage door system respond?_
+_To how many events does the garage door system respond_?
 
 The system responds to three events based on the given information:
 
@@ -153,10 +153,10 @@ The system responds to three events based on the given information:
 
 ### Harel's Digital Watch Quiz
 
-_Refer to the given state diagrams in lecture._
+_Refer to the given state diagrams in lecture_.
 
-- _How many outermost states does the watch have?_ 2
-- _What button must be pressed to turn on the alarm-clock feature?_ a
-- _In the ALIVE state, how many concurrent machines are running?_ 5
-- _When the c button is pressed to set the time, which part (day, date, hour, minute, or second) is the first one a user can change?_ Second
-- _If you are changing the time on your watch, and you press the b button to indicate that you are done, what unexpected side effect occurs?_ The watch light turns on
+- _How many outermost states does the watch have_? 2
+- _What button must be pressed to turn on the alarm-clock feature_? a
+- _In the ALIVE state, how many concurrent machines are running_? 5
+- _When the c button is pressed to set the time, which part (day, date, hour, minute, or second) is the first one a user can change_? Second
+- _If you are changing the time on your watch, and you press the b button to indicate that you are done, what unexpected side effect occurs_? The watch light turns on
