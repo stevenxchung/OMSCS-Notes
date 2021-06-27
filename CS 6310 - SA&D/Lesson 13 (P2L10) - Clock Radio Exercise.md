@@ -57,7 +57,7 @@ Below are the steps to modeling a system with a state chart:
 
 ### Percepts Quiz
 
-_Typically, a device's outputs and some of its inputs comprise its percepts. With what percepts might the clock radio allow the user to interact?_
+_Typically, a device's outputs and some of its inputs comprise its percepts. With what percepts might the clock radio allow the user to interact_?
 
 - Volume knob
 - Speaker
@@ -69,13 +69,13 @@ _Typically, a device's outputs and some of its inputs comprise its percepts. Wit
 
 ### Percepts State Quiz
 
-_How many different states can the time display be in?_
+_How many different states can the time display be in_?
 
 12 \* 60 = 720
 
 ### Mode Switch Quiz
 
-_To detemine the states for the FSM, refer to the mode switch in this Clock Diagram (shown in lecture). Use the same spelling shown in the diagram._
+_To detemine the states for the FSM, refer to the mode switch in this Clock Diagram (shown in lecture). Use the same spelling shown in the diagram_.
 
 - On
 - Music
@@ -83,14 +83,14 @@ _To detemine the states for the FSM, refer to the mode switch in this Clock Diag
 
 ### Outermost Layer StateChart Quiz
 
-_What are the states in the outermost layer (referring to diagram provided in lecture)?_
+_What are the states in the outermost layer (referring to diagram provided in lecture)_?
 
 - Unplugged
 - Plugged
 
 ### Stimulus Response Table Quiz
 
-_For this table (provided), fill in the responses for events 12 and 13._
+_For this table (provided), fill in the responses for events 12 and 13_.
 
 - Music
 - Alarm
@@ -100,7 +100,7 @@ _For this table (provided), fill in the responses for events 12 and 13._
 
 ## Timer Events Quiz
 
-_When the clock time reaches the alarm time, what responses should the clock radio have?_
+_When the clock time reaches the alarm time, what responses should the clock radio have_?
 
 - Play beep/radio
 - Start alarm timeout timer
