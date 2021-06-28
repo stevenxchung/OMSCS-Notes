@@ -66,7 +66,7 @@ There are a variety of different architectural styles that can be used to solve 
 
 ### Shared Data Approach Quiz
 
-_Each approach to solving the KWIC problem has advantages and disadvantages . For the following statements choose whether they are advantages or disadvantages of the shared data approach._
+_Each approach to solving the KWIC problem has advantages and disadvantages . For the following statements choose whether they are advantages or disadvantages of the shared data approach_.
 
 - Data Access Complexity: advantage
 - Data Access Speed: advantage
@@ -74,7 +74,7 @@ _Each approach to solving the KWIC problem has advantages and disadvantages . Fo
 
 ### Enhancements Quiz
 
-_Assume that you have built the KWIC program, and it has been successfully released. Customers would like to see more enhancements. List at least three ways the tool could be improved._
+_Assume that you have built the KWIC program, and it has been successfully released. Customers would like to see more enhancements. List at least three ways the tool could be improved_.
 
 1. Return results based on cached/collected data
 2. Add some way to get customer feedback because that is what matters most
@@ -82,18 +82,18 @@ _Assume that you have built the KWIC program, and it has been successfully relea
 
 ### Reusability Quiz
 
-_Which of the four styles do you think would be best able to deal with change regarding reusability of components?_
+_Which of the four styles do you think would be best able to deal with change regarding reusability of components_?
 
 Pipe and filter
 
 ### Data Change Resilience Quiz
 
-_Which of the four styles would be least able to cope with change having to do with different data representation?_
+_Which of the four styles would be least able to cope with change having to do with different data representation_?
 
 Shared data
 
 ### Deletion Quiz
 
-_Which of the four styles do you think would be best able to deal with change regarding interactive title deletion?_
+_Which of the four styles do you think would be best able to deal with change regarding interactive title deletion_?
 
 Abstract data type
