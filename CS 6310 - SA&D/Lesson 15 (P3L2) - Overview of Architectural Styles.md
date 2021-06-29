@@ -79,7 +79,7 @@ The ultimate goal is to increase the quality of delivered systems and reduce the
 
 ### Analysis To Components Quiz
 
-_Assume we want to determine the components of a software system based solely on an analysis model. Given this scenario, select true or false for each statement._
+_Assume we want to determine the components of a software system based solely on an analysis model. Given this scenario, select true or false for each statement_.
 
 Analysis models...
 
@@ -90,12 +90,12 @@ Analysis models...
 
 ### UML Diagram Quiz
 
-_Recall at least 3 kinds of UML diagrams that can be used to convey architectural views._
+_Recall at least 3 kinds of UML diagrams that can be used to convey architectural views_.
 
 We can use class model, sequence, communication, etc.
 
 ### Arch Style Quiz
 
-_What style is defined by the list of decisions (given in lecture)?_
+_What style is defined by the list of decisions (given in lecture)_?
 
 Client server
