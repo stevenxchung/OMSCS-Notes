@@ -79,7 +79,7 @@ When it comes to software architecture, there is no single tangible thing as _th
 
 ### Diagram Types Quiz
 
-_Match the diagram in the first column with the text in the second column that most closely describes the meaning of its lines._
+_Match the diagram in the first column with the text in the second column that most closely describes the meaning of its lines_.
 
 - Component diagram: calls
 - Package diagram: imports
@@ -87,25 +87,25 @@ _Match the diagram in the first column with the text in the second column that m
 
 ### Feature Diagram Quiz 1
 
-_How many differently configured cars does the diagram allow (diagram shown in lecture)?_
+_How many differently configured cars does the diagram allow (diagram shown in lecture)_?
 
 1 (car body) \* 2 (auto or manual) \* 3 (electric, gas, or hybrid) \* 2 (trailer or no trailer) = 12
 
 ### Feature Diagram Quiz 2
 
-_Which of the following are valid configurations of cars (diagram shown in lecture)?_
+_Which of the following are valid configurations of cars (diagram shown in lecture)_?
 
 - Sunroof body, automatic transmission, gas, engine, and pulls trailer
 - Sedan body, manual transmission, gas engine, and electric engine
 
 ### Non Functional Requirements Quiz
 
-1. _Match a single non-functional requirement with the description that best characterizes it._
+1. _Match a single non-functional requirement with the description that best characterizes it_.
 
    - Support of SSL (ex. for online shopping): security
    - Plugin capable: extensibility
    - Cross-platform: portability
 
-2. _What are some other non-functional requirements in which a web browser might be interested? Why?_
+2. _What are some other non-functional requirements in which a web browser might be interested? Why_?
 
    - Accessibility is important because there are many users who may have limited ability to use the web browser due to age or disabilities.
