@@ -78,48 +78,48 @@ A key question in going between analysis and design is how we will maintain inva
 
 ### Text Browser Arch Quiz
 
-_Can you think of three other architectural styles that might work for the web browser?_
+_Can you think of three other architectural styles that might work for the web browser_?
 
 Component Based, Model View Controller, Pipe and Filter
 
 ### Resize Window Quiz
 
-_To which component would you assign the responsibility of resizeWindow and its indirect effects?_
+_To which component would you assign the responsibility of resizeWindow and its indirect effects_?
 
 `ViewPort` should have the responsibility of `resizeWindow`.
 
 ### Invariant Maintenance Quiz
 
-_When a user event takes place, such as moving the ScrollBar handle, invariants within the TextBrowser are temporarily broken. When a user scrolls, which if the three invariants might break?_
+_When a user event takes place, such as moving the ScrollBar handle, invariants within the TextBrowser are temporarily broken. When a user scrolls, which if the three invariants might break_?
 
 `displaysDocument` could be broken during scrolling.
 
 ### Centralized Strategy Quiz
 
-_Which of the 3 invariant maintenance strategies is the most centralized?_
+_Which of the 3 invariant maintenance strategies is the most centralized_?
 
 Mediated responsibility since it can handle invariants in a single, highly cohesive location.
 
 ### Decentralized Strategy Quiz
 
-_Which of the 3 invariant maintenance strategies is the most decentralized?_
+_Which of the 3 invariant maintenance strategies is the most decentralized_?
 
 Distributed responsibility as responsibility is spread out.
 
 ### Aggregated Responsibility Quiz
 
-_Describe how resizeWindow would be handled if the aggregated responsibility strategy is chosen._
+_Describe how resizeWindow would be handled if the aggregated responsibility strategy is chosen_.
 
 Since `ViewPort` aggregates the responsibility of `resizeWindow`, that method should part of the `ViewPort` class.
 
 ### Distributed Responsibility Quiz
 
-_Describe how resizeWindow would be handled if the distributed responsibility strategy is chosen._
+_Describe how resizeWindow would be handled if the distributed responsibility strategy is chosen_.
 
 `resizeWindow` can turn into a utility method called by any class since resizing the window can be the responsibility of any of the main components for a distributed system.
 
 ### Mediated Responsibility
 
-_Describe how resizeWindow would be handled if the mediated responsibility strategy is chosen._
+_Describe how resizeWindow would be handled if the mediated responsibility strategy is chosen_.
 
 The responsibility is shifted to a mediator component which has access to `resizeWindow`. Whenever a component needs to handle the invariant, it interacts with the mediator component.
