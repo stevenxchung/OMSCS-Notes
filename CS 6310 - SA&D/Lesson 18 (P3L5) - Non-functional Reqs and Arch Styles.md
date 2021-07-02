@@ -175,13 +175,13 @@ When designing a system be sure to take into account the positives and negatives
 
 ### Non-functional Qualities Quiz
 
-_There are many different non-functional qualities that a system might have. Try to name 3._
+_There are many different non-functional qualities that a system might have. Try to name 3_.
 
 Accessibility, learnability, usability, etc.
 
 ### Functional And Non-functional Requirements Quiz
 
-_Imagine a program that plays TicTacToe against a human opponent. Here is a list of requirements. Please choose if each is a functional or non-functional requirement._
+_Imagine a program that plays TicTacToe against a human opponent. Here is a list of requirements. Please choose if each is a functional or non-functional requirement_.
 
 1. Functional
 2. Non-functional
@@ -190,7 +190,7 @@ _Imagine a program that plays TicTacToe against a human opponent. Here is a list
 
 ### Applications Quiz
 
-_The column lists the five qualities we just discussed (shown in lecture). The lists to the right contain the applications. See if you can match the quality to the application in which that quality is paramount._
+_The column lists the five qualities we just discussed (shown in lecture). The lists to the right contain the applications. See if you can match the quality to the application in which that quality is paramount_.
 
 - Performance: weather prediction
 - Security: online banking
@@ -200,7 +200,7 @@ _The column lists the five qualities we just discussed (shown in lecture). The l
 
 ### Side Effects Quiz 1
 
-_Match each architectural style with a negative side effect it can have on system design._
+_Match each architectural style with a negative side effect it can have on system design_.
 
 - Pipe and filter: increased coupling
 - Blackboard: can promote spread of bad data
@@ -209,7 +209,7 @@ _Match each architectural style with a negative side effect it can have on syste
 
 ### Side Effects Quiz 2
 
-_Now, match each non-functional requirement with the negative side effect using it might engender._
+_Now, match each non-functional requirement with the negative side effect using it might engender_.
 
 - Reusability: increased system fragmentation
 - Reliability: compromised delivery schedule
