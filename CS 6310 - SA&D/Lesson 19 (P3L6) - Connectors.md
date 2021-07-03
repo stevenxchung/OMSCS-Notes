@@ -106,13 +106,13 @@ The job is not finished after determining the components of a system. We still m
 
 ### Pipe and Filter Quiz
 
-_For the pipe and filter architectural style, which is the component and which is the connector?_
+_For the pipe and filter architectural style, which is the component and which is the connector_?
 
 The _pipe_ is the _connector_ and the _filter_ is the _component_.
 
 ### Services Quiz
 
-_Provide service types for the following example services (shown in lecture)._
+_Provide service types for the following example services (shown in lecture)_.
 
 1. Data buffering: f
 2. Acknowledgement: o
@@ -127,7 +127,7 @@ _Provide service types for the following example services (shown in lecture)._
 
 ### Connector Type Quiz
 
-_For each of the following connectors, match its corresponding connector type._
+_For each of the following connectors, match its corresponding connector type_.
 
 - Remote procedure calls: procedure call
 - Schedulers: arbitrators
