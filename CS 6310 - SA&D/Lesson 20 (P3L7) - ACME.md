@@ -47,14 +47,14 @@ The main goal of ACME is to enable architectural descriptions to be expressed in
 
 ### ACME Quiz
 
-_Update the ACME code (provided in lecture) to add a means of communications errors from the server to the client._
+_Update the ACME code (provided in lecture) to add a means of communications errors from the server to the client_.
 
 - `Attachment client.err-trap to err.sink;`
 - `Attachment client.alert to err.source;`
 
 ### ACME Features Quiz 1
 
-_Match the ACME feature in the column with its description in the list (provided in lecture)._
+_Match the ACME feature in the column with its description in the list (provided in lecture)_.
 
 - Role: connector interface
 - Open semantic framework: export formant for use by automated reasoners
@@ -65,6 +65,6 @@ _Match the ACME feature in the column with its description in the list (provided
 
 ### ACME Features Quiz 2
 
-_As ADLs go, ACME is relatively simple. In the text box, list some other features that you might like ACME to have._
+_As ADLs go, ACME is relatively simple. In the text box, list some other features that you might like ACME to have_.
 
 I mainly use TypeScript as the language-of-choice and IntelliJ as the IDE of choice. If ACME could also provide the same level of support that would be ideal.
