@@ -64,7 +64,7 @@ This refinement lesson could be summarized as follows:
 
 ### Bank Account Quiz 1
 
-_Complete the OCL constraints (OCL provided in lecture)._
+_Complete the OCL constraints (OCL provided in lecture)_.
 
 - A: `>`
 - B: `transactions@pre`
@@ -76,7 +76,7 @@ _Complete the OCL constraints (OCL provided in lecture)._
 
 ### Bank Account Quiz 2
 
-_Update your OCL (OCL provided in lecture) to reflect the addition of the new attribute `runningTotal`._
+_Update your OCL (OCL provided in lecture) to reflect the addition of the new attribute `runningTotal`_.
 
 - A: `runningTotal@pre`
 - B: `a`
@@ -89,33 +89,33 @@ _Update your OCL (OCL provided in lecture) to reflect the addition of the new at
 
 ### Adequacy Quiz
 
-_If we have an abstract state that looks like the following:_
+_If we have an abstract state that looks like the following_:
 
 ```bash
 transactions: {3, -2, 4, 5, -6}
 ```
 
-_What is the corresponding concrete state?_
+_What is the corresponding concrete state_?
 
 - `transactions`: {3, -2, 4, 5, -6};
 - `runningTotal`: 4
 
 ### Totality Quiz
 
-_The following is a valid concrete state:_
+_The following is a valid concrete state_:
 
 ```bash
 transactions: {13, -12, 3, 5, -6};
 runningTotal: 3
 ```
 
-_What is the corresponding abstract state?_
+_What is the corresponding abstract state_?
 
 `transactions: {13, -12, 3, 5, -6}`
 
 ### Inputs Quiz
 
-_Which of the three operations in the account class are affected by this part of the modeling criterion?_
+_Which of the three operations in the account class are affected by this part of the modeling criterion_?
 
 Modeling criterion:
 
@@ -125,7 +125,7 @@ Withdrawal only because the precondition refers to the running total instead of 
 
 ### Outputs Quiz
 
-_Which of the three operations in the account class are affected by this part of the modeling criterion?_
+_Which of the three operations in the account class are affected by this part of the modeling criterion_?
 
 Modeling criterion:
 
