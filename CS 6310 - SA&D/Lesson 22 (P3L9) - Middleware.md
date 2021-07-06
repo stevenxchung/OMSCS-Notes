@@ -179,35 +179,35 @@ To summarize, middleware is a collection of technologies for addressing non-func
 
 ### Voting Application Quiz 1
 
-_For the sample application, what data needs to be transmitted from the web browser to the server?_
+_For the sample application, what data needs to be transmitted from the web browser to the server_?
 
 Vote and question number
 
 ### Voting Application Quiz 2
 
-_Is there a need for transactions in the application?_
+_Is there a need for transactions in the application_?
 
 It depends
 
 ### Voting Application Quiz 3
 
-_For the sample voting application, should the clients or the server initiate interactions?_
+_For the sample voting application, should the clients or the server initiate interactions_?
 
 Client sends vote to server
 
 ### Voting Application Quiz 4
 
-_In a typical use case, how many different machines might involved in the processing of a single user's vote?_
+_In a typical use case, how many different machines might involved in the processing of a single user's vote_?
 
 ### Voting Application Quiz 5
 
-_What languages and protocols might have been involved in delivering the vote to the server?_
+_What languages and protocols might have been involved in delivering the vote to the server_?
 
 HTTP, SQL, AJAX
 
 ### LAMP Quiz
 
-_LAMP is a mild form of normative architecture. Look it up and match each of the elements with how they might apply to a voting application._
+_LAMP is a mild form of normative architecture. Look it up and match each of the elements with how they might apply to a voting application_.
 
 - L: Linux operating system
 - A: Apache web server
@@ -216,12 +216,12 @@ _LAMP is a mild form of normative architecture. Look it up and match each of the
 
 ### Middleware Quiz
 
-_Which of the four forms of middleware would be the best match for the voting application?_
+_Which of the four forms of middleware would be the best match for the voting application_?
 
 Transactional
 
 ### Service Oriented Quiz
 
-_As currently defined, the voting application is not service oriented. What change would you make to have it correspond to the idea of services?_
+_As currently defined, the voting application is not service oriented. What change would you make to have it correspond to the idea of services_?
 
 We cloud make it such that each component (i.e., web, backend server, database) are each hosted in the cloud as separate services. Additionally, we could break each functionality such as voting or polling into separate services (e.g., separate AWS Lambdas).
