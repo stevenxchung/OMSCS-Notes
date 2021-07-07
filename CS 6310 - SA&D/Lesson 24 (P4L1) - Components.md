@@ -149,7 +149,7 @@ Advent of viable component marketplace has opened up a whole new approach to bui
 
 ### Buy Quiz
 
-_Below are some business factors to consider when deciding whether to buy a software component from a 3rd party vendor . Choose whether each is enhanced or diminished if you decide to buy._
+_Below are some business factors to consider when deciding whether to buy a software component from a 3rd party vendor . Choose whether each is enhanced or diminished if you decide to buy_.
 
 - Your uniqueness with respect to your competitors: diminished
 - The amount of staff time required to develop the product of which the component is a part: enhanced
@@ -158,7 +158,7 @@ _Below are some business factors to consider when deciding whether to buy a soft
 
 ### Third Party Quiz
 
-_In addition to buying complete applications or components , there are several other ways that 3rd parties can provide computational resources to a client. Match the example to the category:_
+_In addition to buying complete applications or components , there are several other ways that 3rd parties can provide computational resources to a client. Match the example to the category_:
 
 - PThreads: software libraries
 - NIST time service: cloud-based services
@@ -168,7 +168,7 @@ _In addition to buying complete applications or components , there are several o
 
 ### Component Models Quiz
 
-_Wordpress is a content management solution for blogs. Here are some requirements taken from the Wordpress codex. For each requirement, determine whether it concerns component syntax, component semantics, or component composition._
+_Wordpress is a content management solution for blogs. Here are some requirements taken from the Wordpress codex. For each requirement, determine whether it concerns component syntax, component semantics, or component composition_.
 
 - Any text output by the 'Action' function will appear in the page source at the location where the action was invoked: **component semantics**
 - Use well-structured, error-free PHP and valid HTML: **component composition**
@@ -176,19 +176,19 @@ _Wordpress is a content management solution for blogs. Here are some requirement
 
 ### Automobile Components Quiz
 
-_What are some of the 3rd party component on which automobile manufacturers rely?_
+_What are some of the 3rd party component on which automobile manufacturers rely_?
 
 Tires, dashboards, and other parts.
 
 ### Callbacks Quiz
 
-_Consider this sequence diagram (shown in lecture) describing a typical callback situation in which a component captures a user event and invokes a client method via a callback. The component is subject to corruption during which time period?_
+_Consider this sequence diagram (shown in lecture) describing a typical callback situation in which a component captures a user event and invokes a client method via a callback. The component is subject to corruption during which time period_?
 
 Period D to E since the component method is exposed.
 
 ### Guarantees Quiz
 
-_Consider the following snippets taken from the Oracle documentation of the format method in the Java PrintStream class. Classify each snippet as:_
+_Consider the following snippets taken from the Oracle documentation of the format method in the Java PrintStream class. Classify each snippet as_:
 
 > 1 - signature, 2 - correctness, 3 - collaboration, or 4 - quality of service
 
@@ -198,7 +198,7 @@ _Consider the following snippets taken from the Oracle documentation of the form
 
 ### Proprietary or Domain Quiz
 
-_For each of the technologies below, determine whether each is proprietary technology or a domain standard._
+_For each of the technologies below, determine whether each is proprietary technology or a domain standard_.
 
 - HTML: domain standard
 - Direct3D: proprietary technology
