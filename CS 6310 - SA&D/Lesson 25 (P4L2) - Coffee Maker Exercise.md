@@ -51,30 +51,30 @@ The Mark IV Special Coffee Maker (Textual Description):
 
 ### Hardware Quiz
 
-_One way of attacking a problem like this is from the bottom up. That is, you are given a device for which you are going to provide software support, so you determine what its capabilities are. Make a list of all the hardware devices that are part of the coffee maker._
+_One way of attacking a problem like this is from the bottom up. That is, you are given a device for which you are going to provide software support, so you determine what its capabilities are. Make a list of all the hardware devices that are part of the coffee maker_.
 
 Coffee maker, filter, filter holder, receptacle, water strainer, brew button, pot, and warmer plate.
 
 ### Traditional Approach Quiz
 
-_The traditional OOA approach to modeling is to search for nouns (or noun phrases) in the problem statement and model them with classes. Do this now on the coffee maker description producing a list of nouns or noun phrases._
+_The traditional OOA approach to modeling is to search for nouns (or noun phrases) in the problem statement and model them with classes. Do this now on the coffee maker description producing a list of nouns or noun phrases_.
 
 `CoffeeMaker`, `Cups`, `Coffee`, `Filter`, `FilterHolder`, `Receptacle`, `WaterStrainer`, `BrewButton`, `Pot`, and `WarmerPlate`.
 
 ### Limitations Quiz
 
-_One of the points of Martin's exercises is the limitations of the traditional approach. See how many problems you can detect with this design (shown in lecture)._
+_One of the points of Martin's exercises is the limitations of the traditional approach. See how many problems you can detect with this design (shown in lecture)_.
 
 There does not seem to be any attributes or methods in this diagram. Furthermore, it seems like the key objects such as coffee or coffee grounds, water, filter, cups, and pot is missing from the diagram.
 
 ### Brew Button Quiz
 
-_Let's look at the first use case: user presses the brew button, and play through what happens. First off, which of the three classes receives this event from the hardware interface?_
+_Let's look at the first use case: user presses the brew button, and play through what happens. First off, which of the three classes receives this event from the hardware interface_?
 
 User interface should be responsible for delegating tasks.
 
 ### Hardware API Quiz
 
-_To proceed with our object design, we could implement the described behaviors (of the coffee maker) as methods in each of the three classes by having them make calls to the hardware API. This would be the wrong approach. Why?_
+_To proceed with our object design, we could implement the described behaviors (of the coffee maker) as methods in each of the three classes by having them make calls to the hardware API. This would be the wrong approach. Why_?
 
 The coupling would be too tight between the client code and the specific hardware.
