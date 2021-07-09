@@ -90,19 +90,19 @@ OOA goes a long way. However, the OOD process allows us to address how to best d
 
 ### OOA To OOD Quiz
 
-_What UML elements, used in OOA models do not have direct equivalents in object-oriented programming languages?_
+_What UML elements, used in OOA models do not have direct equivalents in object-oriented programming languages_?
 
 Associations, aggregations, invariants, and state charts to name a few.
 
 ### Generalization Quiz
 
-_If you were implementing generalization between squares and rectangles, would you make Square a subclass of Rectangle in which both sides are equal? Or would you make Rectangle a subclass of Square with an additional attribute?_
+_If you were implementing generalization between squares and rectangles, would you make Square a subclass of Rectangle in which both sides are equal? Or would you make Rectangle a subclass of Square with an additional attribute_?
 
 Either implementation could work, it depends on which class is defined first and how it is defined.
 
 ### Associations Quiz
 
-_Consider the problem of implementing the Takes association between Students and Courses. For each of the following 4 options (provided in lecture), match each with its major disadvantage._
+_Consider the problem of implementing the Takes association between Students and Courses. For each of the following 4 options (provided in lecture), match each with its major disadvantage_.
 
 - In each student, create a reference that refers to the `Course` that student is taking: a student can take only one course
 - In each course, create a `Vector` of references to students: hard to find the courses taken by students
@@ -111,7 +111,7 @@ _Consider the problem of implementing the Takes association between Students and
 
 ### Modeling To Implementation Quiz
 
-_Match each OOA modeling concept (provided in lecture) with a Java concept that might be used for its implementation._
+_Match each OOA modeling concept (provided in lecture) with a Java concept that might be used for its implementation_.
 
 - Generalization: sub-classing
 - Aggregation: collection classes
