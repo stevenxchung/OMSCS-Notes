@@ -112,13 +112,13 @@ Patterns are an essential part of all developers' vocabularies. It is difficult 
 
 ### Patterns And UML Quiz
 
-_UML class model diagrams distinguish associations in which deleting a collection deletes its elements from those that don't. What is the visual indication of the former?_
+_UML class model diagrams distinguish associations in which deleting a collection deletes its elements from those that don't. What is the visual indication of the former_?
 
 A filled diamond on the collection end of the line.
 
 ### Composite Pattern Quiz
 
-_Imagine that you were writing an application to manage parts inventories. Match the class names from the Composite pattern given to the application data in the list._
+_Imagine that you were writing an application to manage parts inventories. Match the class names from the Composite pattern given to the application data in the list_.
 
 - Client: `OutOfStockDetector`
 - Component: `InventoryItem`
@@ -127,24 +127,24 @@ _Imagine that you were writing an application to manage parts inventories. Match
 
 ### Singleton Quiz
 
-_Say you wrote a battery of unit tests for an application that you intend to run frequently during development. Assuming you use a single process for testing, what difficulty does a Singleton impose on this approach?_
+_Say you wrote a battery of unit tests for an application that you intend to run frequently during development. Assuming you use a single process for testing, what difficulty does a Singleton impose on this approach_?
 
 Support of independent tests as there is only one instance of the class.
 
 ### Pattern Quiz 1
 
-_Which design pattern does the following object model (provided in lecture) represent?_
+_Which design pattern does the following object model (provided in lecture) represent_?
 
 Adapter since it is responsible for altering the interface that an object provides to conform to the needs of its clients. Often, these clients comprise of legacy code that cannot be readily altered.
 
 ### Pattern Quiz 2
 
-_Which design pattern does the following object model (provided in lecture) represent?_
+_Which design pattern does the following object model (provided in lecture) represent_?
 
 Builder since it isolates the steps involved in constructing a complex object from the representation of that object.
 
 ### Pattern Quiz 3
 
-_Which design pattern does the following object model (provided in lecture) represent?_
+_Which design pattern does the following object model (provided in lecture) represent_?
 
 Iterator because it is responsible for traversing a collection, applying some action to each element. This enables clients to visit each element without necessarily knowing how the collection is implemented.
