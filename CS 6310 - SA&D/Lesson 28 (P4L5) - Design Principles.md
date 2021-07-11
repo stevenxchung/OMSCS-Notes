@@ -104,7 +104,7 @@ A catalog of design principles may be too abstract to be immediately useful. How
 
 ### Foundational Concepts Quiz
 
-_Match the described design principal (provided in lecture) with the situation._
+_Match the described design principal (provided in lecture) with the situation_.
 
 - Coupling: requires more code reading
 - Cohesion: improves reusability
@@ -113,12 +113,12 @@ _Match the described design principal (provided in lecture) with the situation._
 
 ### Design Principles Quiz
 
-_Assume the robot class is very complex, and now we have to change it to include a new Fancy motor. Making this change will be difficult with the current design (provided in lecture) because it violates which design principle?_
+_Assume the robot class is very complex, and now we have to change it to include a new Fancy motor. Making this change will be difficult with the current design (provided in lecture) because it violates which design principle_?
 
 Dependency inversion principle since high level modules should not depend upon low level modules.
 
 ### Principles And Heuristics Quiz
 
-_James Gosling was the author of the Java programming language. At a Java users' group meeting, he was asked, "If you could do Java over again, what would you change?" He replied, "I'd leave out classes." Which of the principles or heuristics (provided in lecture) that have been mentioned in this lesson supports this idea?_
+_James Gosling was the author of the Java programming language. At a Java users' group meeting, he was asked, "If you could do Java over again, what would you change?" He replied, "I'd leave out classes." Which of the principles or heuristics (provided in lecture) that have been mentioned in this lesson supports this idea_?
 
 Liskov substitution, interface segregation, stable abstraction, and Riel's design heuristics principle. These principles suggest that inheritance should be used only to model a generalization hierarchy.
