@@ -127,14 +127,14 @@ The later that a problem is detected, the more expensive it is to fix. Consequen
 
 ### Defects Quiz 1
 
-_Write down defects you see with the line number and the defect detected._
+_Write down defects you see with the line number and the defect detected_.
 
 - Line 6: `term = x` is a `float` assigned to a `double` variable
 - Line 9: `term < e` is trying to evaluate different types
 
 ### Defects Quiz 2
 
-_Indicate the type of error found on each line. Mark bug (B), documentation issue (D) , violation of coding standard (V), or inefficiency (I). For lines with multiple errors, enter as a list. Please enter the line number and the error(s) found._
+_Indicate the type of error found on each line. Mark bug (B), documentation issue (D) , violation of coding standard (V), or inefficiency (I). For lines with multiple errors, enter as a list. Please enter the line number and the error(s) found_.
 
 - Line [1, 5, 6, 9, 10]: B
 - Line 2: D
