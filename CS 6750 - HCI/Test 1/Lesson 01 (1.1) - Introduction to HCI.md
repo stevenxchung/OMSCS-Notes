@@ -11,6 +11,6 @@ One of the goals of designers is to make the interaction between human and compu
 
 ### Reflections: Interacting & Interfaces
 
-_Take a moment to reflect on some of the tasks you do each day involving computers. Try to think of an example where you spend most of your time thinking about the task and then where you spend most of your time thinking about the tool._
+_Take a moment to reflect on some of the tasks you do each day involving computers. Try to think of an example where you spend most of your time thinking about the task and then where you spend most of your time thinking about the tool_.
 
 When using good developer software such as VS Code, there is less thought about how to get VS Code to work and more focus on how to actually get the work done. When using my old Android phone however, sometimes using a specific browser slows the load-time of certain websites down so much that I spend more time figuring out how to access a website than actually getting things done.
