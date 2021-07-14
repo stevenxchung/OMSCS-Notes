@@ -52,11 +52,11 @@ There are three different roles a human can play:
 
 ### Exercise: Identifying A Task
 
-_What was the task that Morgan was performing?_ Making a purchase
+_What was the task that Morgan was performing_? Making a purchase
 
 ### Reflections: Views Of The User
 
-_When have you encountered these different views in your own history of interacting with computers?_
+_When have you encountered these different views in your own history of interacting with computers_?
 
 - Processor: I used to play a hack and slash game where you would be penalized by how fast you could pick up an item that dropped during a game when there were other players in the same game right next to you. At one point players started using auto-pick-up programs to pick up all drops in the game and I felt that dynamic broke the game.
 - Predictor: Some navigation devices I have used in the past alert you before the turn and are accurate enough when I am driving in a rural area, however, if my car is moving faster, at times the navigation does not work as well and it's quite annoying to be alerted when you're only _X_ feet away from your turn.
@@ -64,13 +64,13 @@ _When have you encountered these different views in your own history of interact
 
 ### Design Challenge: Morgan On The Street
 
-_What would designing an audiobook for Morgan look like from each of the three perspectives highlighted earlier?_
+_What would designing an audiobook for Morgan look like from each of the three perspectives highlighted earlier_?
 
 - Processor: interface should allow Morgan to quickly make a bookmark
 - Predictor: interface should allow Morgan to not only make a bookmark but also be able to go back to major sections of any book or where many previous readers have bookmarked
 - Participant: interface should suggest, based on data, what books Morgan would like to read based on read books
 
-_How might the design affect user experience at each level?_
+_How might the design affect user experience at each level_?
 
 - Individual: Morgan could discover books she would not have otherwise discovered
 - Group: Morgan could recommend books to her friends and her friends could do the same as well
