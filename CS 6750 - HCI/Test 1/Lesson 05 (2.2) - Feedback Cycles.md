@@ -41,34 +41,34 @@ How do we go about bridging the gap between the effects of user's actions and ac
 
 ### Reflections: Feedback Cycles
 
-_What was a time you were interacting with an interface but couldn't think of how to accomplish what you wanted to accomplish? What about when you couldn't tell if you had accomplished want you wanted to accomplish?_
+_What was a time you were interacting with an interface but couldn't think of how to accomplish what you wanted to accomplish? What about when you couldn't tell if you had accomplished want you wanted to accomplish_?
 
 - Gulf of execution: there is a microwave in my office and it does not have any standard controls as what you would find at home, there are several steps one must follow in order to set the time and heat your food and it usually takes several of tries to get right
 - Gulf of evaluation: when I was driving an older model of the Toyota Prius, the engine sleep/shut-off (mainly at stops) would cause the car to sort of stall in a way that was very inconvenient because it was difficult to get feedback from the car for a brief moment so I would always been unsure if my pedal would register and get the car to move
 
 ### Feedback Cycles In David's Car 1
 
-_Why is the start button located here?_ It is where the user expects the button to be.
+_Why is the start button located here_? It is where the user expects the button to be.
 
 ### Feedback Cycles In David's Car 2
 
-_Is the car on?_ No
+_Is the car on_? No
 
 ### Feedback Cycles In David's Car 3
 
-_What are some ways this feedback cycle could be improved?_
+_What are some ways this feedback cycle could be improved_?
 
 I was a bit confused when the car was not turned on, I normally listen to the car engine to see if the car was turned on but it almost seemed like the button had a different function at first. I would change that sound and also alert the driver that the car is not on.
 
 ### Design Challenge: Credit Card Readers 1
 
-_What are some ways that inserting the card gives a better feedback cycle than sliding it?_
+_What are some ways that inserting the card gives a better feedback cycle than sliding it_?
 
 For one, the action of just inserting the card becomes binary (you either insert or don't) instead of creating a requirement on the customer to figure out how to swipe a card. Users can actually see that the card is inserted and feel that something is being done while their card is inserted.
 
 ### Design Challenge: Credit Card Readers 2
 
-_How can we build feedback into this system to prevent customers from walking away without their credit cards?_
+_How can we build feedback into this system to prevent customers from walking away without their credit cards_?
 
 Two ideas come to mind:
 
@@ -77,4 +77,4 @@ Two ideas come to mind:
 
 ### Design Challenge: Credit Card Readers 3
 
-_What's wrong with asking how to make the process of sliding a credit card easier?_ It forces us to think only in terms of the credit card itself
+_What's wrong with asking how to make the process of sliding a credit card easier_? It forces us to think only in terms of the credit card itself
