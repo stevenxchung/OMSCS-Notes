@@ -47,7 +47,7 @@ Here are some of the main topics covered in this lesson as it relates to human a
 
 ### Design Challenge: Message Alerts
 
-_Let's tackle the common problem of being alerted when you've received a text message. The device must alert the user when the phone is in the user's pocket or on the table. It cannot disturb the people around the user (this includes vibrating)._
+_Let's tackle the common problem of being alerted when you've received a text message. The device must alert the user when the phone is in the user's pocket or on the table. It cannot disturb the people around the user (this includes vibrating)_.
 
 We can design the alerts such that the alerts only appear in two scenarios:
 
@@ -56,18 +56,18 @@ We can design the alerts such that the alerts only appear in two scenarios:
 
 ### Memory: Perceptual Store
 
-_What was the score on the board?_ The score was 0-0
+_What was the score on the board_? The score was 0-0
 
 ### Memory: Short-Term And Chunking
 
-_What was the six words in the video?_ The six words were, going from top row to bottom: FSDVW, PODAP, PUPPY, POBXC, REXIC, WATCH
+_What was the six words in the video_? The six words were, going from top row to bottom: FSDVW, PODAP, PUPPY, POBXC, REXIC, WATCH
 
 ### Memory: Short-Term And Recognition
 
-_Which of these words did you see previously?_ FSDVW, REXIC, nad PUPPY
+_Which of these words did you see previously_? FSDVW, REXIC, nad PUPPY
 
 ### Reflections: Cognitive Load
 
-_Try to think of a task where you've encountered a high cognitive load. What different things did you have to keep in mind at the same time?_
+_Try to think of a task where you've encountered a high cognitive load. What different things did you have to keep in mind at the same time_?
 
 Sometimes when I am trying to help new team members on my web development team, I find it difficult to debug their problem based on the way they have their interface set up. Some people have 20 tabs open on multiple web browsers and others have multiple code editors open at the same time with multiple tabs in each one. This can make it frustrating to actually help them figure out their problem as there are so many distracting windows open at the same time and it's difficult to close each window because it's difficult to know which window the user really needs. I think this issue is a user error first but if the interface was designed such that it is easier to focus on where the issue really is then that would be helpful. The question on how to do this is very difficult because each window that is opened is different, the interface would have to be smart enough to know what problem is to be debugged and present itself.
