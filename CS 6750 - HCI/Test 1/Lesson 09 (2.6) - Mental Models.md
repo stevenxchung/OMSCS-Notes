@@ -68,25 +68,25 @@ When you are an expert in something there are parts of the task that you do subc
 
 ### Representations For Problem Solving 1
 
-_Was the hiker ever at the same point at the same time on both days?_
+_Was the hiker ever at the same point at the same time on both days_?
 
 Yes, there is a point in time where he would have to pass himself but this is hard to see without a representation of the person going up and also a representation of the person going back down at the same time.
 
 ### Representations For Problem Solving 2
 
-_How many moves does it take to solve the circles and squares problem?_
+_How many moves does it take to solve the circles and squares problem_?
 
 It would take 11 or more moves. Here is an [example](https://www.youtube.com/watch?v=P2Nh4aBdSyM).
 
 ### Design Challenge: Representations
 
-_How can we make this representation of what each breaker corresponds to better?_
+_How can we make this representation of what each breaker corresponds to better_?
 
 We could make the icons for each object or room next to each breaker or digitize the interface so that if configurations change at the circuit breaker level the digital interface to configure each breaker remains the same.
 
 ### Exercise: Slips Vs. Mistakes
 
-_Morgan accidentally sends a text message to the wrong person, is this a slip or a mistake?_
+_Morgan accidentally sends a text message to the wrong person, is this a slip or a mistake_?
 
 A slip, she knows who she means to message but the phone's behavior tricks her into sending things to the wrong people
 
@@ -96,6 +96,6 @@ We must always remember that we are not our users.
 
 ### Reflections: Learned Helplessness And Expert Blind Spot
 
-_Reflect on a time when you experienced learned helplessness and the effects of expert blind spot from someone trying to teach you something._
+_Reflect on a time when you experienced learned helplessness and the effects of expert blind spot from someone trying to teach you something_.
 
 We do a lot of technical solutioning and _hacks_ at while at work in order to create a feature for our software product. There are many times when I would ask a lead engineer how I should approach the problem or direction but because of their expert blind spot they would explain the approach in such a way that the useful details actually get lost in translation or more commonly, they would assume that I already know some of the acronyms that they use in their explanation. Unfortunately, the latter is a very common occurrence based on my own observations in the technical world and causes learned helplessness and _imposter syndrome_ for most new employees.
