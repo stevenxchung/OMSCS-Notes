@@ -112,15 +112,15 @@ High-intervention need-finding:
 
 ### Exercise: Interviews
 
-_Which of these would make good interview questions?_
+_Which of these would make good interview questions_?
 
-- _How often do you exercise?_
-- _What, if anything, do you listen to while exercising?_
-- _What device do you use to listen to something while exercising?_
+- _How often do you exercise_?
+- _What, if anything, do you listen to while exercising_?
+- _What device do you use to listen to something while exercising_?
 
 ### Exercise: Surveys
 
-_What is wrong with this survey?_
+_What is wrong with this survey_?
 
 - The first question should have ordered the preferences from either 1 to 5 or 1 to 10 to give the user more options, and the user does not know what the numbers in between mean
 - The second question is doing a bad job by leading the survey, it should have an option for those who do not like to exercise
@@ -140,7 +140,7 @@ _What is wrong with this survey?_
 
 ### Design Challenge: Need-finding for Book Reading
 
-_Take a moment and design an approach to need-finding for people reading on their own._
+_Take a moment and design an approach to need-finding for people reading on their own_.
 
 1. First we will think about data inventory (the six W's)
 2. Where are people reading on their own?
