@@ -91,13 +91,13 @@ _Morgan will disable the security system in two different ways, try to outline h
 
 ### Reflections: Task Analysis
 
-_Given behaviorism (an approach to psychology that emphasizes behavior as a product of stimuli and the environment) and cognitivism (an approach to psychology that emphasizes internal though processes). How much attention should you devote to observable goals, operators, and methods? How much do you devote to understanding internal thought processes like cognition, learning, and memory?_
+_Given behaviorism (an approach to psychology that emphasizes behavior as a product of stimuli and the environment) and cognitivism (an approach to psychology that emphasizes internal though processes). How much attention should you devote to observable goals, operators, and methods? How much do you devote to understanding internal thought processes like cognition, learning, and memory_?
 
 I think the designer should devote time as 50-50 split between each as understanding in both behaviorism and cognitivism regarding the user as the information will provide useful insight into creating a well-rounded product.
 
 ### Design Challenge: Security System 2
 
-_Going back to Morgan disabling the security system in two ways, build a model of the sequence of thoughts going inside the user's head; paying special attention to what she needs to remember at each step of the process._
+_Going back to Morgan disabling the security system in two ways, build a model of the sequence of thoughts going inside the user's head; paying special attention to what she needs to remember at each step of the process_.
 
 | Thoughts | Scenario 1                             | Scenario 2                              |
 | -------- | -------------------------------------- | --------------------------------------- |
