@@ -60,7 +60,7 @@ A massive and well-developed set of theories regarding interaction between vario
 
 ### Exercise: Distributed Cognition
 
-_Which of the following are playing cognitive roles in the system that is paying Morgan's bills?_
+_Which of the following are playing cognitive roles in the system that is paying Morgan's bills_?
 
 1. Morgan herself
 2. The pen
@@ -70,12 +70,12 @@ _Which of the following are playing cognitive roles in the system that is paying
 
 ### Reflections: Distributed Cognition
 
-_What is the place where the system comprised of you and some number of interfaces is capable of doing more than you alone, specifically because of the qualities that the interfaces possess?_
+_What is the place where the system comprised of you and some number of interfaces is capable of doing more than you alone, specifically because of the qualities that the interfaces possess_?
 
 When I am at home watching lectures or working on a project it is much easier to get things done because of how the interface is set up. I have a large 3440 x 1440 resolution monitor which mostly acts as two-three monitors. It is nice to have this interface as I can switch from one window to another very easily and makes my workflow more simple. Also, I have a monitor splitting software which allows me to arrange up to six windows on my screen which allows me to manage my windows accordingly.
 
 ### Design Challenge: Social Cognition
 
-_How do we design a video gaming system that protects users from false perceptions?_
+_How do we design a video gaming system that protects users from false perceptions_?
 
 There should be some sort of privacy settings for the user, only certain people can see how much video games the user plays. The user should have the power to control these settings.
