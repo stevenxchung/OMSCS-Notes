@@ -35,7 +35,7 @@ Agile development techniques don't replace the design life cycle, they just chan
 
 ### Exercise: When To Go Agile
 
-_Which of the following applications would lend itself to an agile development process?_
+_Which of the following applications would lend itself to an agile development process_?
 
 - A smartwatch game to play in short five-minute sessions
 - A mobile app for aggregating newsfeeds across networks
