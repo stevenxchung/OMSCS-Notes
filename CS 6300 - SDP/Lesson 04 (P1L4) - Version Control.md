@@ -1,6 +1,6 @@
 # Lesson 4
 
-Continuing the discussion on developer tools, in this lesson we will cover version control systems - particularly Git.
+This week, we continue the discussion on developer tools. This lesson covers version control systems - particularly Git.
 
 ## Interview With John Britton
 
