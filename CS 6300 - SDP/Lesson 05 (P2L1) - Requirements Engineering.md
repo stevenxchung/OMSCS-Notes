@@ -4,9 +4,13 @@ In this lesson we will focus on requirements and prototyping including requireme
 
 ## Interview With Jane Cleland-Huang
 
-What are **software requirements**? Software requirements provide us a description of what a system has to do. They typically describe functionality of the features that system has to deliver in order to satisfy its stakeholders.
+Q: What are **software requirements**?
 
-What is **RE (requirements engineering)**? RE covers a number of activities such as:
+A: Software requirements provide us a description of what a system has to do. They typically describe functionality of the features that system has to deliver in order to satisfy its stakeholders.
+
+Q: What is **RE (requirements engineering)**?
+
+A: RE covers a number of activities such as:
 
 - Working with stakeholders to discover requirements
 - Analyzing discovered requirements to weigh tradeoffs
