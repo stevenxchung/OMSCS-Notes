@@ -6,9 +6,9 @@ In this lesson we will go over the **Android** system - an operating system desi
 
 What is Android? Android is:
 
-1. Designed for mobile devices
-2. Based on the Linux Kernel
-3. Powered by the [Dalvik VM](<https://en.wikipedia.org/wiki/Dalvik_(software)>)
+- Designed for mobile devices
+- Based on the Linux Kernel
+- Powered by the [Dalvik VM](<https://en.wikipedia.org/wiki/Dalvik_(software)>)
 
 ## Basic Architecture Of Android
 
