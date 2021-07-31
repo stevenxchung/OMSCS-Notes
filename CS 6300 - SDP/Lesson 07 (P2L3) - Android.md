@@ -37,4 +37,4 @@ Each one of the above components is connected by _intents_ and all component pro
 1. Action - the task to be performed
 2. Data - the data on which the action will operate
 
-E.g., intent to call a contact involves a _call_ (action) which uses a _phone number_ (data).
+E.g., intent to call a contact involves a _call_ (action) which uses a _phone number_ (data). For more information on [intents, see the Android documentation](https://developer.android.com/reference/android/content/Intent).
