@@ -62,7 +62,7 @@ A SWA typically is not a monolith composition and interplay of different element
 5. Connectors
 6. Configuration composed of components and connectors
 
-## Components - Connectors - And Configurations
+## Components - Connectors - Configurations
 
 Regarding architectural components, connectors, and configurations:
 
@@ -119,7 +119,7 @@ _What are ideal characteristics of an architectural design_?
 
 ### Architectural Styles Quiz
 
-_Mark which architectural style(s) (given) charterizes the following systems_:
+_Mark which architectural style(s) (given) characterizes the following systems_:
 
 1. _Android OS_: event-driven, publish-subscribe
 2. _Skype_: client-server, peer-to-peer
