@@ -17,10 +17,10 @@ In 1997, Rational defined six best practices for modern software engineering:
 
 There are several features of RUP:
 
-1. Software process model: includes order of phases and transition criteria
-2. Component-based: includes software components and well-defined interfaces
-3. Tightly related to UML: related notation and basic principles
-4. Distinguishing aspects include: use-case driven, architecture-centric, and iterative and incremental
+1. **Software process model**: includes order of phases and transition criteria
+2. **Component-based**: includes software components and well-defined interfaces
+3. **Tightly related to UML**: related notation and basic principles
+4. **Distinguishing aspects include**: use-case driven, architecture-centric, and iterative and incremental
 
 ## Use Case Driven
 
