@@ -38,10 +38,10 @@ RUP is architecture centric. Use cases define the function and the architecture 
 
 RUP is iterative and incremental. Each software project has numerous cycles and each cycle results in a product release. Each cycle is divided into four phases:
 
-1. **Inception** - includes mainly business modeling activities
-2. **Elaboration** - includes mainly requirements plus analysis and design activities
-3. **Construction** - includes mainly analysis and design, implementation, test, and deployment activities
-4. **Transition** - includes some testing and deployment activities
+1. **Inception**: includes mainly business modeling activities
+2. **Elaboration**: includes mainly requirements plus analysis and design activities
+3. **Construction**: includes mainly analysis and design, implementation, test, and deployment activities
+4. **Transition**: includes some testing and deployment activities
 
 For each phase, there may be multiple iterations.
 
