@@ -4,7 +4,7 @@ In this lesson we will cover software testing which includes software verificati
 
 ## General Concepts Introduction
 
-Software is buggy, in fact experts argue that software bugs cost the US economy \$60B a year. On average, there are about 1-5 bugs/1000 lines of code. The idea of 100% correct mass-market software is impossible. Therefore, we need to verify the software as much as possible.
+Software is buggy, in fact experts argue that software bugs cost the US economy around $60B a year. On average, there are about 1-5 bugs/1000 lines of code. The idea of 100% correct mass-market software is impossible. Therefore, we need to verify the software as much as possible.
 
 ## Failure, Fault, and Error
 
