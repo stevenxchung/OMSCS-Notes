@@ -33,7 +33,7 @@ How can we verify software? There are several approaches:
 
 ## Testing Introduction
 
-Testing means to execute a program on a tiny sample of the input domain. Testing is a:
+Testing means to execute a program on a tiny sample of the input domain. More generally, testing is a:
 
 - Dynamic technique
 - Optimistic approximation
