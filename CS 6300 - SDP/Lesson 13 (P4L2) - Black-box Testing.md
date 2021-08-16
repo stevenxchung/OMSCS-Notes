@@ -4,9 +4,7 @@ In this lesson we will cover one of two testing methods: _black-box testing_ whi
 
 ## Black-box Testing Overview
 
-**Black-box testing** has to do with testing a system without knowing its internal details.
-
-Advantages:
+**Black-box testing** has to do with testing a system without knowing its internal details. Some advantages of this method of testing include:
 
 - Focuses on the domain
 - No need for the code -> early test design
