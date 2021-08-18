@@ -59,7 +59,7 @@ One of the model-based testing approaches utilizes **FSM (finite state machines)
 2. Edges -> transitions
 3. Edge labels -> events and actions
 
-To build an FSM from specifications, we can perform the following:
+To build a FSM from specifications, we can perform the following:
 
 1. Identify system boundaries and input and output
 2. Identify relevant states and transitions
