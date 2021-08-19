@@ -71,7 +71,7 @@ There are some considerations for the FSM model-based testing approach:
 
 1. **Applicability**:
    - Very general approach
-   - In UML, state machines are readily available
+   - State machines are readily available in UML
 2. **Abstraction is key**
 3. **Many other approaches**: e.g., decision tables, flow graphs, historical models, etc.
 
