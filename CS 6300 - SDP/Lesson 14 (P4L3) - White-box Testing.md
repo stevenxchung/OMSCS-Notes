@@ -35,7 +35,7 @@ Similar to statement coverage, **branch coverage** refers to the number of branc
 
 ## Condition Coverage
 
-**Condition coverage** refers to the individual conditions in the program and are measured based on the number of conditions that are both true and false versus the total number of conditions.
+**Condition coverage** refers to the individual conditions in the program and are measured based on the number of conditions that are both true _and_ false versus the total number of conditions.
 
 ## Modified Condition/Decision Coverage
 
