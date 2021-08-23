@@ -13,7 +13,7 @@ Some advantages of white-box testing include:
 - Can be used to compare test suites
 - Allows for covering the coded behavior
 
-There are also different kind of white-box testing:
+There are also different kinds of white-box testing:
 
 - Control-flow based
 - Data-flow based
