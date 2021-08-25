@@ -77,9 +77,9 @@ The testing strategy in agile is that testing is coded confidence. There are var
 
 **Scrum** is another agile development process similar to XP. There are various kinds of actors in a scrum setup:
 
-1. Product owner (customer): the person in charge of product intent
-2. Team: group in charge of shipping features
-3. Scrum master: the person in charge of overseeing the scrum processes and ensuring team fluidity
+1. **Product owner (customer)**: the person in charge of product intent
+2. **Team**: group in charge of shipping features
+3. **Scrum master**: the person in charge of overseeing the scrum processes and ensuring team fluidity
 
 There are several of high-level scrum process:
 
