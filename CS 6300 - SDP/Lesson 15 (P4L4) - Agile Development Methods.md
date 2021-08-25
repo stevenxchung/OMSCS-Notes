@@ -13,7 +13,7 @@ However, this was around 30 years ago, many things have changed since then and i
 
 ## Agile Software Development
 
-If cost is flat then upfront work becomes a liability and with ambiguity it may be good to delay, therefore there is value in waiting. There are six principles of agile software development that aim at flat cost:
+If cost is _flat_ then upfront work becomes a _liability_ and with ambiguity it may be good to delay, therefore there is value in waiting. There are six principles of agile software development that aim at flat cost:
 
 1. Focus on the code
 2. People over process
