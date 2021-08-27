@@ -140,7 +140,7 @@ _For 'Name': Enter a single word answer into the text box. For 'Attributes' and 
 - Attributes: Current balance
 - Operations: Deposit
 
-### Aggregation & Composition Quiz
+### Aggregation And Composition Quiz
 
 _For the pairs of classes, select whether the each is a composition, an aggregation, or a general association_.
 
@@ -162,7 +162,7 @@ _For each of the following superclasses and their subclasses, determine whether 
 4. _Books: Paperbacks, ComicBooks, HardBoundBooks_
    - Incomplete
 
-### Superclass & Subclass Quiz
+### Superclass And Subclass Quiz
 
 _Among omnivores and vegetarians, which is the superclass and which is the subclass_?
 
