@@ -115,7 +115,7 @@ _The game of TicTacToe is played on a 3 x 3 grid. Each grid cell can contain an 
 
 3^9 = 19683
 
-### State Vs Event Quiz
+### State Vs. Event Quiz
 
 _Which of the following are states, events, or neither? Select the correct option from the drop down next to each of the below_.
 
