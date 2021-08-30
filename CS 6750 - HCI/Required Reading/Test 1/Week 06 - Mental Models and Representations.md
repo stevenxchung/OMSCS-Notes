@@ -2,7 +2,7 @@
 
 > Ten questions on each test will be based on these readings. From the perspective of the test, your emphasis in reading these papers should be in getting a sufficient understanding of the material to answer high-level questions about the paper, as well as to be able to find answers quickly for more specific questions.
 
-## Section 3.4: Mental Models & Metaphor
+## Section 3.4: Mental Models And Metaphor
 
 > MacKenzie, I.S. (2013). Section 3.4: Mental Models & Metaphor. Human-Computer Interaction: An Empirical Research Perspective. (pp. 88-92). Waltham, MA: Elsevier.
 
