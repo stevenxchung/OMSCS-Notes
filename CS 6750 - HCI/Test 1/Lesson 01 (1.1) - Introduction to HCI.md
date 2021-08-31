@@ -9,7 +9,7 @@ One of the goals of designers is to make the interaction between human and compu
 
 ## Section Quizzes
 
-### Reflections: Interacting & Interfaces
+### Reflections: Interacting And Interfaces
 
 _Take a moment to reflect on some of the tasks you do each day involving computers. Try to think of an example where you spend most of your time thinking about the task and then where you spend most of your time thinking about the tool_.
 
