@@ -52,7 +52,7 @@ Shown below is the design life cycle with methods in between each phase.
 
 ![Methods for the Design Life Cycle](./lesson-14-methods-design-life-cycle.JPG)
 
-## Qualitative Vs Quantitative Data
+## Qualitative Vs. Quantitative Data
 
 **Quantitative data**:
 
