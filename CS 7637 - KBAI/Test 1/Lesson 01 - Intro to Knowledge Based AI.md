@@ -27,3 +27,13 @@ AI problems have many characteristics:
 4. Many problems are computationally intractable
 5. The world is dynamic, but knowledge of the world is static
 6. The world is open-ended, but knowledge is limited
+
+## Characteristics Of AI Agents
+
+Below are some of the characteristics of AI agents:
+
+1. Agents have limited computing power
+2. Agents have limited sensors
+3. Agents have limited attention
+4. Computational logic is fundamentally deductive
+5. AI agents' knowledge is incomplete relative to the world
