@@ -37,3 +37,7 @@ Below are some of the characteristics of AI agents:
 3. Agents have limited attention
 4. Computational logic is fundamentally deductive
 5. AI agents' knowledge is incomplete relative to the world
+
+## What Is Knowledge
+
+Knowledge-based AI is a process that involves **reasoning**, **learning**, and **memory**. These three processes are intimately connected and are known as **deliberation**. The deliberation process is one part of the overall architecture of a KBAI agent.
