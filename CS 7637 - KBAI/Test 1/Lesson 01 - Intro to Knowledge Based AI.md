@@ -41,3 +41,12 @@ Below are some of the characteristics of AI agents:
 ## What Is Knowledge
 
 Knowledge-based AI is a process that involves **reasoning**, **learning**, and **memory**. These three processes are intimately connected and are known as **deliberation**. The deliberation process is one part of the overall architecture of a KBAI agent.
+
+## The Four Schools Of AI
+
+The four schools of AI can be broken down into:
+
+1. Agents that _think_ like _humans_
+2. Agents that _act_ like _humans_
+3. Agents that _think_ _optimally_
+4. Agents that _act_ _optimally_
