@@ -50,3 +50,7 @@ The four schools of AI can be broken down into:
 2. Agents that _act_ like _humans_
 3. Agents that _think_ _optimally_
 4. Agents that _act_ _optimally_
+
+## What Are Cognitive Systems
+
+Cognitive systems are systems which exhibit human-like intelligence through processes like learning, reasoning, and memory.
