@@ -54,3 +54,7 @@ The four schools of AI can be broken down into:
 ## What Are Cognitive Systems
 
 Cognitive systems are systems which exhibit human-like intelligence through processes like learning, reasoning, and memory.
+
+## Cognitive System Architecture
+
+The basic diagram of a cognitive system includes receiving some input from the world to the cognitive system and responding with an output. There may be more than one cognitive system available working together to receive input and provide an output.
