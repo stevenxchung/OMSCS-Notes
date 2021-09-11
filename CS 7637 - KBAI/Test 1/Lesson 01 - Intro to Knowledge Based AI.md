@@ -58,3 +58,16 @@ Cognitive systems are systems which exhibit human-like intelligence through proc
 ## Cognitive System Architecture
 
 The basic diagram of a cognitive system includes receiving some input from the world to the cognitive system and responding with an output. There may be more than one cognitive system available working together to receive input and provide an output.
+
+## Topics In KBAI
+
+There are several topics we will cover in KBAI:
+
+1. Fundamentals
+2. Planning
+3. Common Sense Reasoning
+4. Learning
+5. Analogical Reasoning
+6. Visuospatial reasoning
+7. Design and creativity
+8. Metacognition
