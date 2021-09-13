@@ -71,3 +71,14 @@ There are several topics we will cover in KBAI:
 6. Visuospatial reasoning
 7. Design and creativity
 8. Metacognition
+
+## Section Quizzes
+
+### AI In Practice: Watson Quiz
+
+_What are some things Watson must be able to do to participate in Jeopardy_?
+
+- Read or hear the question
+- Interpret the question
+- Retrieve answer from database
+- Respond in a Jeopardy manner
