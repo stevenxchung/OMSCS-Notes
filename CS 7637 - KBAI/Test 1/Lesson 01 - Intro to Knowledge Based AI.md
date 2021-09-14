@@ -82,3 +82,12 @@ _What are some things Watson must be able to do to participate in Jeopardy_?
 - Interpret the question
 - Retrieve answer from database
 - Respond in a Jeopardy manner
+
+### The Four Schools of AI Quiz
+
+_From these options (provided), fill in the blanks with the number of the option_:
+
+- A: Google maps thinks optimally
+- B: Siri thinks like humans
+- C: Roomba acts optimally
+- D: C-3PO acts like humans
