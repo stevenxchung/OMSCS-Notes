@@ -91,3 +91,11 @@ _From these options (provided), fill in the blanks with the number of the option
 - B: Siri thinks like humans
 - C: Roomba acts optimally
 - D: C-3PO acts like humans
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- AI can have many different applications
+- AI can be classified into the four schools of AI using a graph
+- KBAI is a process that involves reasoning, learning, and memory
