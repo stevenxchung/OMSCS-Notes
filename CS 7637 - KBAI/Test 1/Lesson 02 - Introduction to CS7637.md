@@ -10,3 +10,11 @@ Goals of this class include learning:
 - Tasks addressed by KBAI
 - How KBAI agents use these methods to address these tasks
 - The relationship between AI and human recognition
+
+## Class Outcomes
+
+Class outcomes include:
+
+- Designing and implementing a KBAI agent
+- Using formal strategies and agents to address complex practical problems
+- Using the design and results of KBAI agents to reflect on human cognition
