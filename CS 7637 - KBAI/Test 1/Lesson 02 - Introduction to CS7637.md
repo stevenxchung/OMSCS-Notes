@@ -18,3 +18,7 @@ Class outcomes include:
 - Designing and implementing a KBAI agent
 - Using formal strategies and agents to address complex practical problems
 - Using the design and results of KBAI agents to reflect on human cognition
+
+## Class Strategies
+
+We will learn in this class through examples, doing, project-based learning, personalization, and reflection.
