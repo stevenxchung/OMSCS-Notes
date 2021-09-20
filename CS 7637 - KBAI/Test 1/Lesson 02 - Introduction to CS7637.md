@@ -22,3 +22,7 @@ Class outcomes include:
 ## Class Strategies
 
 We will learn in this class through examples, doing, project-based learning, personalization, and reflection.
+
+## Introduction To Computational Psychometrics
+
+**Psychometrics** is a study of human intelligence, aptitude, and knowledge. **Computational psychometrics** is the design of computer agents that can take the same kinds of tests (intelligence, aptitude, and knowledge) as humans.
