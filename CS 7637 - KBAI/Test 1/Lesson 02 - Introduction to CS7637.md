@@ -26,3 +26,7 @@ We will learn in this class through examples, doing, project-based learning, per
 ## Introduction To Computational Psychometrics
 
 **Psychometrics** is a study of human intelligence, aptitude, and knowledge. **Computational psychometrics** is the design of computer agents that can take the same kinds of tests (intelligence, aptitude, and knowledge) as humans.
+
+## Raven's Progressive Matrices
+
+**Raven's Progressive Matrices** were written in the 1930s to examine general intelligence. The test consists of 60 strictly visual multiple-choice analogy problems. These matrices range from 2x2, 3x3, to even a 2x1 matrix.
