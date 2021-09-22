@@ -30,3 +30,15 @@ We will learn in this class through examples, doing, project-based learning, per
 ## Raven's Progressive Matrices
 
 **Raven's Progressive Matrices** were written in the 1930s to examine general intelligence. The test consists of 60 strictly visual multiple-choice analogy problems. These matrices range from 2x2, 3x3, to even a 2x1 matrix.
+
+## Principles Of KBAI
+
+There are several principles for KBAI:
+
+1. KBAI agents represent and organize knowledge into knowledge structures to guide and support reasoning.
+2. Learning in KBAI agents is often incremental
+3. Reasoning in KBAI agents is top-down as well as bottom-up
+4. KBAI agents match methods to tasks
+5. KBAI agents use heuristics to find solutions that are good enough, though not necessarily optimal
+6. KBAI agents make use of recurring patterns in the problems they solve
+7. The architecture of KBAI agents enables reasoning, learning, and memory to support and constrain each other
