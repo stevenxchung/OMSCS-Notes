@@ -42,3 +42,12 @@ There are several principles for KBAI:
 5. KBAI agents use heuristics to find solutions that are good enough, though not necessarily optimal
 6. KBAI agents make use of recurring patterns in the problems they solve
 7. The architecture of KBAI agents enables reasoning, learning, and memory to support and constrain each other
+
+## Readings
+
+There are several of readings recommended with this course:
+
+- Winston, P. (1993). _Artificial Intelligence (3rd ed.)_. Addision-Wesley.
+- Stefik, M. (1995). _Knowledge Systems_. Morgan Kauffman: San Fransisco.
+- Rich, E., & Knight, K. (1991). _Artificial intelligence_. McGraw-Hill, New York
+- Russell, S. & Norvig, P. (1995). _Artificial Intelligence: A modern approach_. Prentice-Hall: Englewood Cliffs.
