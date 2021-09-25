@@ -55,3 +55,10 @@ There are several of readings recommended with this course:
 ## Section Quizzes
 
 Most quizzes in this lesson are strictly visual-based.
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- There are seven principles for KBAI
+- Raven's progressive matrices examine general intelligence, interestingly enough individuals with autism score just as well as individuals without autism
