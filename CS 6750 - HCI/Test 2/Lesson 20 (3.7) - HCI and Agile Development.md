@@ -8,7 +8,7 @@ Before, costs for development, distribution, and feedback regarding software and
 
 How do we take the principles we have covered so far and apply them to a rapid agile development process?
 
-## When To Go Agile?
+## When To Go Agile
 
 We can make the decision to go agile by considering the following:
 
