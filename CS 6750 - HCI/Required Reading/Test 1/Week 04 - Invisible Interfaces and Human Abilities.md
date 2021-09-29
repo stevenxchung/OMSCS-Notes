@@ -131,7 +131,7 @@ The goal of gulf of execution and gulf of evaluation is to minimize cognitive ef
 
 Two aspects of distance:
 
-1. **Semantic distance** - the relation of the meaning of an expression in the interface language to what the user wants to say (e.g., low-code vs higher-code)
-2. **Articulatory distance** - the relationship between the meanings of expressions and their physical form (e.g., a graph in excel vs an interactive graph which changes based on input in Mathematica)
+1. **Semantic distance** - the relation of the meaning of an expression in the interface language to what the user wants to say (e.g., low-code vs. higher-code)
+2. **Articulatory distance** - the relationship between the meanings of expressions and their physical form (e.g., a graph in excel vs. an interactive graph which changes based on input in Mathematica)
 
 > A direct manipulation interface amplifies our knowledge of the domain and allows us to think in the familiar terms of the application domain rather than in those of the medium of computation. But if we restrict ourselves to only building an interface that allows us to do things we can already do and to think in ways we already think, we will miss the most exciting potential of new technology: to provide new ways to think of and to interact with a domain.
