@@ -52,7 +52,7 @@ Main points:
 
 ### What Is Interaction Design About
 
-Interaction design is about allowing users' concerns to direct the development vs technical concerns.
+Interaction design is about allowing users' concerns to direct the development vs. technical concerns.
 
 ### Four Basic Activities Of Interaction Design
 
@@ -93,8 +93,8 @@ Method: taking sample data from various courses (three courses with data taken f
 
 Results: A total of 4,008 sketches were counted in the logbooks. 61.4% included dimensions and the remaining 38.6% did not.
 
-1. Results vs hypothesis 1: hypothesis holds true for shorter duration projects but not for longer duration projects
-2. Results vs hypothesis 2: no statistically significant correlations were found between the total quantity of either dimensioned or total sketches of any type and final grade or contest ranking for the three courses
-3. Results vs hypothesis 3: the proposed hypothesis is shown to be true. In addition, the role of milestones in planning design work may be important, and falling behind in design is linked to poorer outcomes
+1. Results vs. hypothesis 1: hypothesis holds true for shorter duration projects but not for longer duration projects
+2. Results vs. hypothesis 2: no statistically significant correlations were found between the total quantity of either dimensioned or total sketches of any type and final grade or contest ranking for the three courses
+3. Results vs. hypothesis 3: the proposed hypothesis is shown to be true. In addition, the role of milestones in planning design work may be important, and falling behind in design is linked to poorer outcomes
 
 Conclusion: Concept generation measured in the form of morphology charts showed a statistically significant correlation with both project and final term grade in the introductory course. However, morphology charts in the advanced courses did not show a statistically significant correlation.
