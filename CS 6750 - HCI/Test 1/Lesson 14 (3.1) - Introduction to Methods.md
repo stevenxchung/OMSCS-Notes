@@ -4,7 +4,7 @@ In this unit we will cover the following topics:
 
 1. User-centered design
 2. Four stages of the design life cycle
-3. Qualitative vs quantitative data
+3. Qualitative vs. quantitative data
 4. Design life cycle
 
 ## User-centered Design
