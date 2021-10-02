@@ -33,7 +33,7 @@ Value-sensitive design seeks to provide theory and method to account for human v
 
 ## Value-sensitive Design Across Cultures
 
-One of the challenges of value-sensitive design is that values are different across cultures (culture that values privacy vs cultures that value frees speech due to censorship).
+One of the challenges of value-sensitive design is that values are different across cultures (culture that values privacy vs. cultures that value frees speech due to censorship).
 
 ## 5 Tips: Value-sensitive Design
 
