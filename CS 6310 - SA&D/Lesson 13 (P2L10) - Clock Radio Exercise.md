@@ -51,7 +51,7 @@ Below are the steps to modeling a system with a state chart:
 7. Add necessary internal states (e.g., timers)
 8. Provide coordination mechanisms
 9. Add actions/activities
-10. Validate resulting machine vs scenarios
+10. Validate resulting machine vs. scenarios
 
 ## Section Quizzes
 
