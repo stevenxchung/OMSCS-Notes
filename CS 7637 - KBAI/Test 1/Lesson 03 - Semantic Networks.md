@@ -15,3 +15,11 @@ Knowledge of representation has two elements:
 2. The content
 
 E.g., `F = m*a` is an algebraic equation representing Newton's second law.
+
+## Introduction To Semantic Networks
+
+There are several steps to constructing a semantic network:
+
+1. Label each element
+2. Label the relationship between each element
+3. Label the relationship between initial and final state for each element
