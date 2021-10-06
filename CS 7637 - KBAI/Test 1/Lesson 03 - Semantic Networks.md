@@ -31,3 +31,13 @@ There are several elements for the structure of semantic networks:
 1. Lexically: nodes
 2. Structurally: directional links
 3. Semantically: application-specific labels
+
+## Characteristics Of Good Representations
+
+What are some characteristics of good representations?
+
+- Explicit relationships
+- Natural constraints
+- Abstraction (at the proper level)
+- Precise details (no extraneous details)
+- Transparent, concise, complete, fast, and computable
