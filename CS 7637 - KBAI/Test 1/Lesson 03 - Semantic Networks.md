@@ -41,3 +41,9 @@ What are some characteristics of good representations?
 - Abstraction (at the proper level)
 - Precise details (no extraneous details)
 - Transparent, concise, complete, fast, and computable
+
+## Guards And Prisoners Problem
+
+Many names for this problem (cannibals and missionaries, etc.), originally appeared in the 1200-year-old text _Propositiones ad Acuendos Juvenes_. Used throughout AI for problem representation. For more information see:
+
+> Amarel, S. (1968). On representations of problems of reasoning about actions. Machine intelligence, 3(3), 131-171.
