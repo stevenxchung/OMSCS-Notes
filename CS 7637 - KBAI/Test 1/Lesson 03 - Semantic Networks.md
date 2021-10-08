@@ -47,3 +47,9 @@ What are some characteristics of good representations?
 Many names for this problem (cannibals and missionaries, etc.), originally appeared in the 1200-year-old text _Propositiones ad Acuendos Juvenes_. Used throughout AI for problem representation. For more information see:
 
 > Amarel, S. (1968). On representations of problems of reasoning about actions. Machine intelligence, 3(3), 131-171.
+
+## Connections
+
+The correspondence problem: given two situations, what object in one situation corresponds to what object in another situation?
+
+Recall that the emphasis so far as been on the relationships between objects. For cognition in general, the focus is always on relationships.
