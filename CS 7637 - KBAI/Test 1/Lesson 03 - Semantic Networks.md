@@ -53,3 +53,14 @@ Many names for this problem (cannibals and missionaries, etc.), originally appea
 The correspondence problem: given two situations, what object in one situation corresponds to what object in another situation?
 
 Recall that the emphasis so far as been on the relationships between objects. For cognition in general, the focus is always on relationships.
+
+## Section Quizzes
+
+### Constructing Semantic Nets I Quiz
+
+_Write the relationships between the pieces in the blanks (provided)_.
+
+1. Inside
+2. Above
+3. Above
+4. Above
