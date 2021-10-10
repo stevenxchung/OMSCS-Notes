@@ -64,3 +64,11 @@ _Write the relationships between the pieces in the blanks (provided)_.
 2. Above
 3. Above
 4. Above
+
+### Constructing Semantic Nets II Quiz
+
+_Write the transformations between the frames in the blanks (provided)_.
+
+1. Unchanged
+2. Unchanged
+3. Deleted
