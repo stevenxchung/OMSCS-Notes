@@ -72,3 +72,17 @@ _Write the transformations between the frames in the blanks (provided)_.
 1. Unchanged
 2. Unchanged
 3. Deleted
+
+### Guards And Prisoners I Quiz
+
+_Write the only legal state that can follow from each of these two states (provided)_.
+
+1. 3
+2. 0
+3. 2
+4. 1
+5. 3
+6. 0
+7. 2
+8. 1
+
