@@ -86,3 +86,10 @@ _Write the only legal state that can follow from each of these two states (provi
 7. 2
 8. 1
 
+### Guards And Prisoners II Quiz
+
+_Write the three legal states that can follow from this state (provided)_.
+
+- 3 guards, 1 prisoner | 2 prisoners
+- 3 guards | 3 prisoners
+- 2 guards, 2 prisoners | 1 guard, 1 prisoner
