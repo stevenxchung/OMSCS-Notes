@@ -93,3 +93,9 @@ _Write the three legal states that can follow from this state (provided)_.
 - 3 guards, 1 prisoner | 2 prisoners
 - 3 guards | 3 prisoners
 - 2 guards, 2 prisoners | 1 guard, 1 prisoner
+
+### Guards And Prisoners III Quiz
+
+_How many moves does it take to move everyone to the other side_?
+
+11 moves is the smallest number of moves.
