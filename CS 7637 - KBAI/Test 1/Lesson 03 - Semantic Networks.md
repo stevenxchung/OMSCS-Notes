@@ -99,3 +99,11 @@ _Write the three legal states that can follow from this state (provided)_.
 _How many moves does it take to move everyone to the other side_?
 
 11 moves is the smallest number of moves.
+
+### Represent And Reason For Raven's Quiz
+
+1. _Fill in the blanks (provided)_.
+
+It's the same as the other diagram.
+
+2. _Is this the right answer to the problem_? Yes.
