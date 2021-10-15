@@ -107,3 +107,7 @@ _How many moves does it take to move everyone to the other side_?
 It's the same as the other diagram.
 
 2. _Is this the right answer to the problem_? Yes.
+
+### How Do We Choose A Match Quiz
+
+_Which is the next logical state_? Figure 5.
