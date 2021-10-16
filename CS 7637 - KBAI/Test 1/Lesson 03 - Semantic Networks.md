@@ -111,3 +111,12 @@ It's the same as the other diagram.
 ### How Do We Choose A Match Quiz
 
 _Which is the next logical state_? Figure 5.
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- We can use semantic networks to represent relationships between objects
+- Semantic networks can also help us understand transformations between states
+- When the differences between states seem ambiguous, we can use weights to further determine which state is more correct
+- Semantic networks can be related to spreading activation networks (popular theory in human memory)
