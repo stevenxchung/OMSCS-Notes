@@ -16,3 +16,7 @@ KBAI is a collection of three things:
 3. Architectures
 
 Referring back to the guards and prisoners problem, a typical _dumb_ generator will generate all possible scenarios and a _dumb_ tester will eliminate scenarios based on specific rules.
+
+## Smart Testers
+
+A smart tester will not only remove scenarios based on rules, it will also check for identical states.
