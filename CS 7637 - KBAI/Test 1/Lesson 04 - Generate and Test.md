@@ -20,3 +20,7 @@ Referring back to the guards and prisoners problem, a typical _dumb_ generator w
 ## Smart Testers
 
 A smart tester will not only remove scenarios based on rules, it will also check for identical states.
+
+## Smart Generators
+
+A smart generator will not generate all possible scenarios, instead it will generate states which are not redundant or illegal.
