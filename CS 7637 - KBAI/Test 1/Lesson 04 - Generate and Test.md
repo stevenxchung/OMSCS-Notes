@@ -24,3 +24,11 @@ A smart tester will not only remove scenarios based on rules, it will also check
 ## Smart Generators
 
 A smart generator will not generate all possible scenarios, instead it will generate states which are not redundant or illegal.
+
+## Section Quizzes
+
+### Generate And Test II Quiz
+
+_Which states (provided) will the tester dismiss based on the rules of the problem_?
+
+F will be dismissed.
