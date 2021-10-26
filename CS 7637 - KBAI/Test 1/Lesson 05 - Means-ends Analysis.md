@@ -14,3 +14,12 @@ We can imagine problem solving as occurring in a state space. There is an initia
 ## Differences In State Spaces
 
 So how does an AI agent get from the initial state to the goal state? When examining differences in state spaces compared to the goal state, the agent can select an operator (means) which will produce a state that matches the goal state (ends) or gets closer to the goal state. This is what we mean by means-ends analysis, to select an operator to meet the end state.
+
+## Process Of Means End Analysis
+
+For each operator that can be applied:
+
+1. Apply the operator to the current state
+2. Calculate the difference between new state and goal state
+
+The agent should prefer the state that minimizes the distance between new and goal state.
