@@ -23,3 +23,7 @@ For each operator that can be applied:
 2. Calculate the difference between new state and goal state
 
 The agent should prefer the state that minimizes the distance between new and goal state.
+
+## Problem Reduction
+
+The concept of problem reduction is to reduce a problem and find the solutions for those sub-problems. Then once those solutions are found, combine them to solve the whole problem.
