@@ -27,3 +27,13 @@ The agent should prefer the state that minimizes the distance between new and go
 ## Problem Reduction
 
 The concept of problem reduction is to reduce a problem and find the solutions for those sub-problems. Then once those solutions are found, combine them to solve the whole problem.
+
+## Section Quizzes
+
+### The Block Problem Quiz
+
+_Write a list of operators `Move(Object, Location)` that will move the blocks (provided) into the goal state_
+
+- `Move(C, Table)`
+- `Move(B, C)`
+- `Move(A, B)`
