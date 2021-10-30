@@ -37,3 +37,11 @@ _Write a list of operators `Move(Object, Location)` that will move the blocks (p
 - `Move(C, Table)`
 - `Move(B, C)`
 - `Move(A, B)`
+
+### Block Problem I Quiz
+
+_What are the three possible next states? Write the location of each block_.
+
+- A can move on top of D
+- D can move on top of A
+- D can move on top of the table
