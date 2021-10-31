@@ -45,3 +45,11 @@ _What are the three possible next states? Write the location of each block_.
 - A can move on top of D
 - D can move on top of A
 - D can move on top of the table
+
+### Block Problem II Quiz
+
+_What is the difference between each state and the goal state_?
+
+- A can move on top of D (difference of 3)
+- D can move on top of A (difference of 3)
+- D can move on top of the table (difference of 2)
