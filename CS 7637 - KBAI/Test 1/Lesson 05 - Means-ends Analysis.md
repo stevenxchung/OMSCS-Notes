@@ -53,3 +53,9 @@ _What is the difference between each state and the goal state_?
 - A can move on top of D (difference of 3)
 - D can move on top of A (difference of 3)
 - D can move on top of the table (difference of 2)
+
+### Block Problem III Quiz
+
+_Using means-ends analysis, which move will be chosen_?
+
+D can move on top of the Table (difference of 2), since this is the shortest path (lowest difference of the three paths).
