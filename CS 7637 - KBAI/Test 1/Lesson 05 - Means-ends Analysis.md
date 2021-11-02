@@ -59,3 +59,9 @@ _What is the difference between each state and the goal state_?
 _Using means-ends analysis, which move will be chosen_?
 
 D can move on top of the Table (difference of 2), since this is the shortest path (lowest difference of the three paths).
+
+### Block Problem IV Quiz
+
+_How many possible next states are there? How many of those states reduce the difference to the goal_?
+
+There are seven possible states and only one of them can reduce the difference
