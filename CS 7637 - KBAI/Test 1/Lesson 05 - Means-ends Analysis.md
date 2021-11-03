@@ -65,3 +65,9 @@ D can move on top of the Table (difference of 2), since this is the shortest pat
 _How many possible next states are there? How many of those states reduce the difference to the goal_?
 
 There are seven possible states and only one of them can reduce the difference
+
+### Block Problem V Quiz
+
+_How many possible next states are there? How many of those states reduce the difference to the goal_?
+
+There are three possible states and none of them can reduce the difference.
