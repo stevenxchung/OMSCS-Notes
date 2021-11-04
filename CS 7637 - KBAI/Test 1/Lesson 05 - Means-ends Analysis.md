@@ -71,3 +71,11 @@ There are seven possible states and only one of them can reduce the difference
 _How many possible next states are there? How many of those states reduce the difference to the goal_?
 
 There are three possible states and none of them can reduce the difference.
+
+### Problem Reduction I Quiz
+
+_What are the three possible next states? Write the location of each block_.
+
+- A can move on top of D
+- D can move on top of A
+- A can move on top of the table
