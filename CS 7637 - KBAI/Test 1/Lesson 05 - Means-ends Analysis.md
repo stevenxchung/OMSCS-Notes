@@ -87,3 +87,10 @@ _What is the difference between each state and the goal state_?
 - A can move on top of D (difference of 1)
 - D can move on top of A (difference of 2)
 - A can move on top of the table (difference of 1)
+
+### Problem Reduction III Quiz
+
+_Write a list of operators `Move(Object, Location)` that will move the blocks (provided) into the goal state_
+
+- `Move(B, Table)`
+- `Move(C, D)`
