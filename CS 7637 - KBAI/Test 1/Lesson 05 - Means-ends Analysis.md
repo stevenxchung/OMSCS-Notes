@@ -94,3 +94,11 @@ _Write a list of operators `Move(Object, Location)` that will move the blocks (p
 
 - `Move(B, Table)`
 - `Move(C, D)`
+
+### Problem Reduction IV Quiz
+
+_Write a list of operators `Move(Object, Location)` that will move the blocks (provided) into the goal state_
+
+- `Move(B, C)`
+- `Move(A, B)`
+
