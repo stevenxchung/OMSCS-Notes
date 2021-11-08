@@ -102,3 +102,10 @@ _Write a list of operators `Move(Object, Location)` that will move the blocks (p
 - `Move(B, C)`
 - `Move(A, B)`
 
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Means-ends analysis looks for an operator (means) that reduces the difference between the initial and the goal state (ends)
+- When means-ends does not work, use problem reduction which seeks to solve the sub-problems of a bigger problem
+- Means-ends and problem reduction are weak methods because they do not rely on knowledge. By relying on knowledge we could create stronger methods to solve more difficult problems. The selection between using strong or weak methods for humans depends on the amount of knowledge or experience available to complete a task
