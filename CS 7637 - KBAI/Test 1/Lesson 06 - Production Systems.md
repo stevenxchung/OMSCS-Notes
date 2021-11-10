@@ -5,3 +5,7 @@ We will discuss **production systems** in this lesson. Production systems are a 
 - Cognitive architectures
 - Production systems
 - Chunking
+
+## Function Of A Cognitive Architecture
+
+A **cognitive agent** is a function that maps a perceptual history into an action.
