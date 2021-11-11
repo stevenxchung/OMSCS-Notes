@@ -9,3 +9,13 @@ We will discuss **production systems** in this lesson. Production systems are a 
 ## Function Of A Cognitive Architecture
 
 A **cognitive agent** is a function that maps a perceptual history into an action.
+
+## Levels Of Cognitive Architecture
+
+There are various levels of cognitive architecture:
+
+- Low: hardware/implementation level (e.g., brain, transistor)
+- Medium: algorithm/symbol level (e.g., means-ends analysis, semantic networks)
+- High: task/knowledge level (e.g., selecting a pitch, playing baseball)
+
+The lower levels provide an _architecture_ for higher levels and the higher levels provide _content_ for lower levels.
