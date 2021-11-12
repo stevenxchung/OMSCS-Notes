@@ -19,3 +19,14 @@ There are various levels of cognitive architecture:
 - High: task/knowledge level (e.g., selecting a pitch, playing baseball)
 
 The lower levels provide an _architecture_ for higher levels and the higher levels provide _content_ for lower levels.
+
+## Assumptions Of Cognitive Architectures
+
+There are several of assumptions for cognitive architectures:
+
+1. Goal-oriented
+2. Rich, complex environment
+3. Significant knowledge
+4. Symbols and abstractions
+5. Flexible and function of the environment
+6. Learning
