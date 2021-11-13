@@ -30,3 +30,7 @@ There are several of assumptions for cognitive architectures:
 4. Symbols and abstractions
 5. Flexible and function of the environment
 6. Learning
+
+## Architecture, Content, and Behavior
+
+In general, it could be said that `architecture + content = behavior`. Suppose that our architecture is fixed, then the behavior of agents could be directly mapped to the knowledge content.
