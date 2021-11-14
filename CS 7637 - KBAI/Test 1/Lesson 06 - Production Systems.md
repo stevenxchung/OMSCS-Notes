@@ -34,3 +34,13 @@ There are several of assumptions for cognitive architectures:
 ## Architecture, Content, and Behavior
 
 In general, it could be said that `architecture + content = behavior`. Suppose that our architecture is fixed, then the behavior of agents could be directly mapped to the knowledge content.
+
+## A Cognitive Architecture For Production Systems
+
+The **SOAR** architecture is one of the architectures for deliberation (recall the diagram of a cognitive system from the first lesson). SOAR can also cover certain aspects of reaction as well as meta-cognition.
+
+SOAR consists of long-term memory and a working memory, where long-term memory contains different kinds of knowledge:
+
+1. **Procedural**: has to do with how to do accomplish certain tasks (e.g., how to cook a specific dish?)
+2. **Semantic**: includes generalizations in the form of concepts and models of the world (e.g., how does food get its flavor?)
+3. **Episodic**: includes specific events (e.g., what did you cook last weekend?)
