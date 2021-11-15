@@ -44,3 +44,7 @@ SOAR consists of long-term memory and a working memory, where long-term memory c
 1. **Procedural**: has to do with how to do accomplish certain tasks (e.g., how to cook a specific dish?)
 2. **Semantic**: includes generalizations in the form of concepts and models of the world (e.g., how does food get its flavor?)
 3. **Episodic**: includes specific events (e.g., what did you cook last weekend?)
+
+## Chunking
+
+Referring to our baseball example, what if we have two rules that the SOAR agent cannot decide on? The agent will attempt to draw from the episodic knowledge to decide what rule should be used. This process of drawing from previous knowledge to fulfill a goal or make a decision when two or more decisions are presented is called **chunking**.
