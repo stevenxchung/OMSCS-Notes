@@ -48,3 +48,14 @@ SOAR consists of long-term memory and a working memory, where long-term memory c
 ## Chunking
 
 Referring to our baseball example, what if we have two rules that the SOAR agent cannot decide on? The agent will attempt to draw from the episodic knowledge to decide what rule should be used. This process of drawing from previous knowledge to fulfill a goal or make a decision when two or more decisions are presented is called **chunking**.
+
+## Fundamentals Of Learning
+
+The theory of reasoning states helps us address questions such as:
+
+1. What to learn?
+2. When to learn?
+3. Why do we learn?
+4. How do we learn?
+
+We start with reasoning first then work backwards to learning. This occurred for our production system with the baseball example. When the logic was blocked, the system had to refer to its episodic knowledge into order to fulfill the goal.
