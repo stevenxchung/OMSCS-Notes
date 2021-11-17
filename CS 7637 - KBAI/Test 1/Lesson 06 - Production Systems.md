@@ -59,3 +59,13 @@ The theory of reasoning states helps us address questions such as:
 4. How do we learn?
 
 We start with reasoning first then work backwards to learning. This occurred for our production system with the baseball example. When the logic was blocked, the system had to refer to its episodic knowledge into order to fulfill the goal.
+
+## Section Quizzes
+
+### Levels Of Architectures Quiz
+
+_What are the layers of Watson_?
+
+1. The physical computer
+2. Searching and decision-making
+3. Answering the inputted clue
