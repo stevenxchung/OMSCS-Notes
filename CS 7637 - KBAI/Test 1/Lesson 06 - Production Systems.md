@@ -69,3 +69,9 @@ _What are the layers of Watson_?
 1. The physical computer
 2. Searching and decision-making
 3. Answering the inputted clue
+
+### Production System In Action I Quiz
+
+_What operator is selected (provided)_?
+
+Intentional walk based on the goal, _r1_ then _r3_ is activated.
