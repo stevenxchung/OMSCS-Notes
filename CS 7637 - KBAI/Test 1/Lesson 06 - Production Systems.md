@@ -75,3 +75,9 @@ _What are the layers of Watson_?
 _What operator is selected (provided)_?
 
 Intentional walk based on the goal, _r1_ then _r3_ is activated.
+
+### Production System In Action II Quiz
+
+_What operator is selected (provided)_?
+
+Throw curve-ball based on the goal, _r1_ is skipped then _r2_ is activated which leads to _r5_.
