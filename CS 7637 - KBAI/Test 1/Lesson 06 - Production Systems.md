@@ -81,3 +81,9 @@ Intentional walk based on the goal, _r1_ then _r3_ is activated.
 _What operator is selected (provided)_?
 
 Throw curve-ball based on the goal, _r1_ is skipped then _r2_ is activated which leads to _r5_.
+
+### Production System In Action III Quiz
+
+_What operator is selected (provided)_?
+
+None since the goal is to pitch (_r2_ -> _r4_ -> _r5 or r6_) but the system cannot decide between _r5 or r6_.
