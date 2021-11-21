@@ -87,3 +87,9 @@ Throw curve-ball based on the goal, _r1_ is skipped then _r2_ is activated which
 _What operator is selected (provided)_?
 
 None since the goal is to pitch (_r2_ -> _r4_ -> _r5 or r6_) but the system cannot decide between _r5 or r6_.
+
+### Chunking Quiz
+
+_What operator is selected (provided)_?
+
+Throw curve-ball since _r8_ will dismiss _r6_.
