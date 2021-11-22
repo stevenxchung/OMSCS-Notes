@@ -93,3 +93,11 @@ None since the goal is to pitch (_r2_ -> _r4_ -> _r5 or r6_) but the system cann
 _What operator is selected (provided)_?
 
 Throw curve-ball since _r8_ will dismiss _r6_.
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Generally, `architecture + content = behavior` and if the architecture is fixed then the behavior will be based on the knowledge content
+- SOAR architecture in this lesson covered deliberation in the cognitive model which depicts agents having working memory and the ability draw three different kinds of knowledge: procedural, semantic, and episodic
+- Production systems were initially purposed as a model for human cognition (e.g., working memory translates to short-term memory for humans) but human cognition are much more complex than architectures like SOAR which mainly captures cognition in a closed-world environment
