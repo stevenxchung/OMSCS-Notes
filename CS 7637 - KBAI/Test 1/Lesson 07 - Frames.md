@@ -10,3 +10,7 @@ In this lesson we look into _frames_ the first step to building common sense rea
 ## How Do We Make Sense Of A Sentence
 
 A **frame** is a knowledge structure where a number of things could be happening in a particular knowledge representation. By breaking down a sentence into a frame, we could make more sense out of a sentence.
+
+## Complex Frame Systems
+
+Complex frame systems can be create by adding frames to an already existing frame, e.g., nouns in a sentence.
