@@ -13,4 +13,4 @@ A **frame** is a knowledge structure where a number of things could be happening
 
 ## Complex Frame Systems
 
-Complex frame systems can be create by adding frames to an already existing frame, e.g., nouns in a sentence.
+Complex frame systems can be created by adding frames to an already existing frame, e.g., nouns in a sentence.
