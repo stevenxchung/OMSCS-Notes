@@ -14,3 +14,12 @@ A **frame** is a knowledge structure where a number of things could be happening
 ## Complex Frame Systems
 
 Complex frame systems can be created by adding frames to an already existing frame, e.g., nouns in a sentence.
+
+## Properties Of Frames
+
+The following are properties of frames:
+
+1. Represent stereotypes
+2. Provide default values
+3. Exhibit inheritance
+
