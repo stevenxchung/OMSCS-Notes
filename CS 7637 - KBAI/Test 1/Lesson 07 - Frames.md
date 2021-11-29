@@ -23,3 +23,6 @@ The following are properties of frames:
 2. Provide default values
 3. Exhibit inheritance
 
+## Frames And Semantic Nets
+
+Frames and semantic networks are closely related. We can capture the same details as semantic networks in frames by denoting the same information within a frame representation.
