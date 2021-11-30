@@ -26,3 +26,7 @@ The following are properties of frames:
 ## Frames And Semantic Nets
 
 Frames and semantic networks are closely related. We can capture the same details as semantic networks in frames by denoting the same information within a frame representation.
+
+## Frames And Production Systems
+
+Referring back to production systems, we can think of frames as conceptual knowledge stored in the semantic memory. Since a frame tells us what to look for, processing is not just bottom up coming from things such as natural language processing but also partially top down as the mind is able to provide a frame of which knowledge could be structured.
