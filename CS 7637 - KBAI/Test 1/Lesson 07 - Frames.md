@@ -30,3 +30,13 @@ Frames and semantic networks are closely related. We can capture the same detail
 ## Frames And Production Systems
 
 Referring back to production systems, we can think of frames as conceptual knowledge stored in the semantic memory. Since a frame tells us what to look for, processing is not just bottom up coming from things such as natural language processing but also partially top down as the mind is able to provide a frame of which knowledge could be structured.
+
+## Section Quizzes
+
+### Ashok Ate A Frog Quiz
+
+_Answer the following_:
+
+1. _Is the frog dead or alive_? Dead
+2. _Where is the frog_? In Ashok's stomach
+3. _Is Ashok happy or sad_? Happy
