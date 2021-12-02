@@ -40,3 +40,16 @@ _Answer the following_:
 1. _Is the frog dead or alive_? Dead
 2. _Where is the frog_? In Ashok's stomach
 3. _Is Ashok happy or sad_? Happy
+
+### Making Sense Of A Sentence Quiz
+
+_Break down the following sentence into a frame: Angela ate lasagna with her dad last night at Olive Garden_.
+
+- Subject: Angela
+- Object: Lasagna
+- Location: Olive Garden
+- Time: Last night
+- Utensils: None
+- Object-alive: False
+- Object-is: In-subject
+- Subject-mood: Happy
