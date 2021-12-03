@@ -53,3 +53,9 @@ _Break down the following sentence into a frame: Angela ate lasagna with her dad
 - Object-alive: False
 - Object-is: In-subject
 - Subject-mood: Happy
+
+### Interpreting A Frame System Quiz
+
+_What sentence is expressed by these frames (provided)_?
+
+Haruto ate a pepperoni pizza at Pizza Hut at noon.
