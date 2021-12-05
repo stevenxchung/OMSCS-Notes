@@ -59,3 +59,15 @@ _Break down the following sentence into a frame: Angela ate lasagna with her dad
 _What sentence is expressed by these frames (provided)_?
 
 Haruto ate a pepperoni pizza at Pizza Hut at noon.
+
+### Frames And Semantic Networks Quiz
+
+_Fill out the frame for the given picture (provided)_
+
+| Name   | x        | y      | z      |
+| ------ | -------- | ------ | ------ |
+| Shape  | triangle | circle | circle |
+| Size   | large    | large  | small  |
+| Fill   | false    | false  | true   |
+| Inside | N/A      | N/A    | y      |
+| Above  | N/A      | x      | x      |
