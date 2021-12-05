@@ -71,3 +71,16 @@ _Fill out the frame for the given picture (provided)_
 | Fill   | false    | false  | true   |
 | Inside | N/A      | N/A    | y      |
 | Above  | N/A      | x      | x      |
+
+### Frames And Complex Understanding Quiz
+
+_Write a frame representation of the story below_.
+
+> Today, an extremely serious earthquake of magnitude 8.5 hit Lower Slabovia, killing 25 people and causing \$500 million in damage. The President of Lower Slabovia said that the hard-hit area near the Sadie Hawkins fault has been a danger zone for years.
+
+- Subject: Earthquake
+  - Time: Today
+  - Magnitude: 8.5
+  - Location: Lower Slabovia
+  - People dead: 25
+  - Cost of damage: \$500M
