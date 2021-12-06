@@ -84,3 +84,12 @@ _Write a frame representation of the story below_.
   - Location: Lower Slabovia
   - People dead: 25
   - Cost of damage: \$500M
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Frames are a structured knowledge representation, production systems are analogous to atoms of knowledge representation and frames are more like molecules
+- A production rule may only capture a small amount of information where a frame can capture a larger amount in an organized manner
+- Frames enable us to construct a theory of cognitive processing which is not entirely bottom up but also partially top down as well (e.g., we do not just process data but also construct a knowledge representation in order to help us understand the world)
+- We have stereotypes because they are cognitively efficient and enable us to have _default_ understanding of a concept that is already learned
