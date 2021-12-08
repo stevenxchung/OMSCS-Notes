@@ -6,3 +6,11 @@ In this lesson we will look into _learning by recording cases_. This is one of t
 2. Nearest neighbor method
 3. k-Nearest Neighbor
 4. Cases in the real world
+
+## Learning By Recording Cases
+
+A **case** is an encapsulation of a past experience. The process for learning by recording cases is as follows:
+
+1. Given a new problem `a`
+2. Retrieve most similar prior problem `b` from memory
+3. Apply problem `b` solution to problem `a`
