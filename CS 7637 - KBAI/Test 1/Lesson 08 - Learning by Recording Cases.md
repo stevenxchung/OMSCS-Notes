@@ -14,3 +14,7 @@ A **case** is an encapsulation of a past experience. The process for learning by
 1. Given a new problem `a`
 2. Retrieve most similar prior problem `b` from memory
 3. Apply problem `b` solution to problem `a`
+
+## Nearest Neighbor In k-Dimensional Space
+
+Sometimes plotting objects on a two dimensional grid does not outright reveal a clear answer. In this case we use the k-Nearest Neighbor method which utilizes all neighbors to find the nearest distance (most similar) between all neighbors.
