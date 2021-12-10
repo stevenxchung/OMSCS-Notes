@@ -18,3 +18,11 @@ A **case** is an encapsulation of a past experience. The process for learning by
 ## Nearest Neighbor In k-Dimensional Space
 
 Sometimes plotting objects on a two dimensional grid does not outright reveal a clear answer. In this case we use the k-Nearest Neighbor method which utilizes all neighbors to find the nearest distance (most similar) between all neighbors.
+
+## Section Quizzes
+
+### Retrieval By Nearest Neighbor Quiz
+
+_What color is this block (provided)_?
+
+Red, based on the provided diagram.
