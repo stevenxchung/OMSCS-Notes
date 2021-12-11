@@ -26,3 +26,7 @@ Sometimes plotting objects on a two dimensional grid does not outright reveal a 
 _What color is this block (provided)_?
 
 Red, based on the provided diagram.
+
+### Recording Cases In Real Life Quiz
+
+_What route is most similar to this new problem (provided)_? D.
