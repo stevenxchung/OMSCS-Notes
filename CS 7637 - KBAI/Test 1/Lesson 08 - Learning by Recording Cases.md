@@ -30,3 +30,11 @@ Red, based on the provided diagram.
 ### Recording Cases In Real Life Quiz
 
 _What route is most similar to this new problem (provided)_? D.
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Cases are encapsulations of past experiences
+- Our interactions with the world have certain patterns of regularity so we can use solve our current problems with problems we have previously encountered in the past
+- The cognitive architecture includes reasoning, memory and learning; by learning with cases we can utilize the memory aspect of cognition
