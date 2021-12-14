@@ -6,3 +6,12 @@ In this lesson we will cover topics on _case-based reasoning_ where cognitive ag
 2. Need for case-based reasoning
 3. Phases of case-based reasoning
 4. Advanced case-based reasoning
+
+## Recording Cases To Case-Based Reasoning
+
+There are several of steps for case-based reasoning:
+
+1. **Retrieval**: retrieving a case from memory similar to the current problem
+2. **Adaptation**: adapting the solution to that case to fit the current problem
+3. **Evaluation**: evaluating how well the adapted solution addresses the current problem
+4. **Storage**: storing the new problem and solution as a case
