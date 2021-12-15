@@ -15,3 +15,10 @@ There are several of steps for case-based reasoning:
 2. **Adaptation**: adapting the solution to that case to fit the current problem
 3. **Evaluation**: evaluating how well the adapted solution addresses the current problem
 4. **Storage**: storing the new problem and solution as a case
+
+## Assumptions Of Case-Based Reasoning
+
+There are several assumptions for case-based reasoning:
+
+1. Patterns exist in the world
+2. Similar problems have similar solutions
