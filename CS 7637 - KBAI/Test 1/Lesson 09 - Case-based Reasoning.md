@@ -22,3 +22,11 @@ There are several assumptions for case-based reasoning:
 
 1. Patterns exist in the world
 2. Similar problems have similar solutions
+
+## Case Adaptation
+
+There are several ways an agent could use case adaptation to solve a problem:
+
+1. Case adaptation by model of the world: use a previous solution or model to adapt and solve a new problem
+2. Case adaptation by recursive reasoning: break the new problem into sub-problems then use partial solutions from other problems to solve the new problem
+3. Case adaptation by rules: use rules to adapt to a new problem
