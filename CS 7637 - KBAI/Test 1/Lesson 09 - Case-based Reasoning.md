@@ -30,3 +30,7 @@ There are several ways an agent could use case adaptation to solve a problem:
 1. Case adaptation by model of the world: use a previous solution or model to adapt and solve a new problem
 2. Case adaptation by recursive reasoning: break the new problem into sub-problems then use partial solutions from other problems to solve the new problem
 3. Case adaptation by rules: use rules to adapt to a new problem
+
+## Case Evaluation
+
+There are multiple ways to evaluate possible solutions, one common way is to run a simulation or in terms of programming, run unit or end-to-end tests.
