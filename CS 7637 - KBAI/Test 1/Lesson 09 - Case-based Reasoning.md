@@ -34,3 +34,10 @@ There are several ways an agent could use case adaptation to solve a problem:
 ## Case Evaluation
 
 There are multiple ways to evaluate possible solutions, one common way is to run a simulation or in terms of programming, run unit or end-to-end tests.
+
+## Case Storage
+
+Once solutions are evaluated for correctness, we could store solutions in multiple ways:
+
+1. Case storage by index: storing a solution in such a way that it could be retrieved via index where the index could be some sort of property related to the solution
+2. Case storage by discrimination tree: storing a solution in such a way that it could be retrieved via tree structure where each node could have multiple branches
