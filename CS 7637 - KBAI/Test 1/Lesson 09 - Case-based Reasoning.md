@@ -41,3 +41,14 @@ Once solutions are evaluated for correctness, we could store solutions in multip
 
 1. Case storage by index: storing a solution in such a way that it could be retrieved via index where the index could be some sort of property related to the solution
 2. Case storage by discrimination tree: storing a solution in such a way that it could be retrieved via tree structure where each node could have multiple branches
+
+## Advanced Case-Based Reasoning
+
+Case-based reasoning does not always have to go from retrieval to storage, it could also do the following:
+
+- Evaluation to adaptation: evaluation found, the solution failed; try adapting again
+- Evaluation to retrieval: evaluation found, the solution failed; try retrieving a different solution
+- Adaptation to retrieval: the retrieved solution could not be adapted; retrieve a different solution
+- Retrieval to evaluation: retrieved case perfectly matches the current problem, no adaptation needed
+
+When storing cases, we should only store noteworthy cases, including interesting failed cases. However, we should **not** simply store all successful or failed cases.
