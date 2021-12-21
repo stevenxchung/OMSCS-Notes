@@ -61,3 +61,10 @@ _What tags should be used for case Y (given)_?
 
 1. 1E
 2. 9N
+
+### Case Storage By Index II Quiz
+
+_What tags should be used for case Y (given)_?
+
+1. 1E
+2. 9N
