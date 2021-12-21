@@ -52,3 +52,12 @@ Case-based reasoning does not always have to go from retrieval to storage, it co
 - Retrieval to evaluation: retrieved case perfectly matches the current problem, no adaptation needed
 
 When storing cases, we should only store noteworthy cases, including interesting failed cases. However, we should **not** simply store all successful or failed cases.
+
+## Section Quizzes
+
+### Case Storage By Index I Quiz
+
+_What tags should be used for case Y (given)_?
+
+1. 1E
+2. 9N
