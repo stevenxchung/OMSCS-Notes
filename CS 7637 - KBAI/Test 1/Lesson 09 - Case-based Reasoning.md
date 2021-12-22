@@ -68,3 +68,9 @@ _What tags should be used for case Y (given)_?
 
 1. 1E
 2. 9N
+
+### Storage By Discrimination Tree I Quiz
+
+_What case (given) should be retrieved and adapted_?
+
+Y should be the answer based on the tree.
