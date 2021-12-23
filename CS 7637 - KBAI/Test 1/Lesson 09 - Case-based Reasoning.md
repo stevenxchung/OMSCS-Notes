@@ -74,3 +74,9 @@ _What tags should be used for case Y (given)_?
 _What case (given) should be retrieved and adapted_?
 
 Y should be the answer based on the tree.
+
+### Storage By Discrimination Tree II Quiz
+
+_Where should this branch (given) be divided for maximum differentiation_?
+
+2E since it would allow for differentiation between A and Y.
