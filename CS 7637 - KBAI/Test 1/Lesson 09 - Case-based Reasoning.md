@@ -80,3 +80,9 @@ Y should be the answer based on the tree.
 _Where should this branch (given) be divided for maximum differentiation_?
 
 2E since it would allow for differentiation between A and Y.
+
+### Retrieval By Index Quiz
+
+_What case (given) should be retrieved and adapted_?
+
+C since it yields the exact destination.
