@@ -86,3 +86,9 @@ _Where should this branch (given) be divided for maximum differentiation_?
 _What case (given) should be retrieved and adapted_?
 
 C since it yields the exact destination.
+
+### Retrieval By Discrimination Tree Quiz
+
+_What case (given) should be retrieved and adapted_?
+
+Y should be the answer based on the tree.
