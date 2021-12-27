@@ -7,7 +7,7 @@ In this lesson we will cover topics on _case-based reasoning_ where cognitive ag
 3. Phases of case-based reasoning
 4. Advanced case-based reasoning
 
-## Recording Cases To Case-Based Reasoning
+## Recording Cases To Case-based Reasoning
 
 There are several of steps for case-based reasoning:
 
