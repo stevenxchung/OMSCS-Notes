@@ -92,3 +92,11 @@ C since it yields the exact destination.
 _What case (given) should be retrieved and adapted_?
 
 Y should be the answer based on the tree.
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- There is a spectrum of similarity when it comes to problems: on one end problems are identical to previous problems and on the other end problems are very dissimilar problems. The problems in the middle of the spectrum are similar but not identical to previous problems and these problems are most common in human cognition
+- Case-based reasoning includes retrieving, adapting, evaluating, and storing noteworthy solutions
+- Case-based reasoning is able to tie reasoning, learning, and memory with retrieval, adaptation, evaluation and storage
