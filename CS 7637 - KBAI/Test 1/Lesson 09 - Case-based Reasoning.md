@@ -42,7 +42,7 @@ Once solutions are evaluated for correctness, we could store solutions in multip
 1. Case storage by index: storing a solution in such a way that it could be retrieved via index where the index could be some sort of property related to the solution
 2. Case storage by discrimination tree: storing a solution in such a way that it could be retrieved via tree structure where each node could have multiple branches
 
-## Advanced Case-Based Reasoning
+## Advanced Case-based Reasoning
 
 Case-based reasoning does not always have to go from retrieval to storage, it could also do the following:
 
