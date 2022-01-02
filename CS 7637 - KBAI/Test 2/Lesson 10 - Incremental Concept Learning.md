@@ -19,3 +19,7 @@ Incremental concept learning could be thought of as follows, given a new example
    2. If no, does it fit the current definition of the concept?
       1. If yes, specialize
       2. If no, do nothing
+
+## Variabilization
+
+**Variabilization** refers to taking similar constants in some problem and abstracting them into a more general variable.
