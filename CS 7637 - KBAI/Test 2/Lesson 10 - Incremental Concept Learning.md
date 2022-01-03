@@ -23,3 +23,7 @@ Incremental concept learning could be thought of as follows, given a new example
 ## Variabilization
 
 **Variabilization** refers to taking similar constants in some problem and abstracting them into a more general variable.
+
+## Generalization To Ignore Features
+
+To ignore redundant features, we can utilize the _drop-link_ heuristic whereby problems similar to a model have specific links dropped to match the model. This is useful if a problem is has a structure that is very similar to our model.
