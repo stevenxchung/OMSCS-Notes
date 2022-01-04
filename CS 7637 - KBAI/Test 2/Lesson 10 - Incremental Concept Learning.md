@@ -27,3 +27,7 @@ Incremental concept learning could be thought of as follows, given a new example
 ## Generalization To Ignore Features
 
 To ignore redundant features, we can utilize the _drop-link_ heuristic whereby problems similar to a model have specific links dropped to match the model. This is useful if a problem is has a structure that is very similar to our model.
+
+## Specialization To Require Features
+
+To require features, we can utilize the _require-link_ heuristic whereby problems are required to have specific links to be considered a match.
