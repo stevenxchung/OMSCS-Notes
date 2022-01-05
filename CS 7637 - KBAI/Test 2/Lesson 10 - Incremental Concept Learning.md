@@ -31,3 +31,7 @@ To ignore redundant features, we can utilize the _drop-link_ heuristic whereby p
 ## Specialization To Require Features
 
 To require features, we can utilize the _require-link_ heuristic whereby problems are required to have specific links to be considered a match.
+
+## Specialization to Exclude Features
+
+To exclude features, we can utilize the _fobid-link_ heuristic whereby problems should not possess links which are not permitted.
