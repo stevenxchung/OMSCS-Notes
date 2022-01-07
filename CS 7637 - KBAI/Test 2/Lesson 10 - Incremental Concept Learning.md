@@ -35,3 +35,7 @@ To require features, we can utilize the _require-link_ heuristic whereby problem
 ## Specialization To Exclude Features
 
 To exclude features, we can utilize the _fobid-link_ heuristic whereby problems should not possess links which are not permitted.
+
+## Generalization To Abstract Features
+
+To abstract features, we can utilize the _enlarge-set_ heuristic whereby problems could be considered a match if the problem possesses variables considered by our model.
