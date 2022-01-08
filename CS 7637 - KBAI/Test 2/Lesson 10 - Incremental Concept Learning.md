@@ -39,3 +39,7 @@ To exclude features, we can utilize the _fobid-link_ heuristic whereby problems 
 ## Generalization To Abstract Features
 
 To abstract features, we can utilize the _enlarge-set_ heuristic whereby problems could be considered a match if the problem possesses variables considered by our model.
+
+## Generalization With Background Knowledge
+
+To include background knowledge, we can utilize the _climb-tree_ heuristic whereby problems could be considered a match if the problem possesses variables considered by our model based on existing knowledge (in the form of a tree structure as shown in lecture).
