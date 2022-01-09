@@ -43,3 +43,7 @@ To abstract features, we can utilize the _enlarge-set_ heuristic whereby problem
 ## Generalization With Background Knowledge
 
 To include background knowledge, we can utilize the _climb-tree_ heuristic whereby problems could be considered a match if the problem possesses variables considered by our model based on existing knowledge (in the form of a tree structure as shown in lecture).
+
+## An Alternative Visualization
+
+Over time an agent will be able to include all positive examples and exclude all negative examples. This occurs over many iterations where the agent's concept definition is repeatedly updated.
