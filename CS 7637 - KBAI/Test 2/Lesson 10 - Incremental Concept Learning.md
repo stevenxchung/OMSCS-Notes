@@ -47,3 +47,7 @@ To include background knowledge, we can utilize the _climb-tree_ heuristic where
 ## An Alternative Visualization
 
 Over time an agent will be able to include all positive examples and exclude all negative examples. This occurs over many iterations where the agent's concept definition is repeatedly updated.
+
+## Heuristics For Concept Learning
+
+Models could also include the _close-interval_ heuristic to expand the range of values to be a positive example of the concept
