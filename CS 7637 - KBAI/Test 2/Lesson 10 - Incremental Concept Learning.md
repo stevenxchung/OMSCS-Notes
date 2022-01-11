@@ -51,3 +51,9 @@ Over time an agent will be able to include all positive examples and exclude all
 ## Heuristics For Concept Learning
 
 Models could also include the _close-interval_ heuristic to expand the range of values to be a positive example of the concept
+
+## Section Quizzes
+
+### Identifying A Foo I Quiz
+
+_Is this a foo (provided)_? Yes.
