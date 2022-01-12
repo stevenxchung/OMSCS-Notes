@@ -57,3 +57,7 @@ Models could also include the _close-interval_ heuristic to expand the range of 
 ### Identifying A Foo I Quiz
 
 _Is this a foo (provided)_? Yes.
+
+### Identifying A Foo II Quiz
+
+_Is this a foo (provided)_? No.
