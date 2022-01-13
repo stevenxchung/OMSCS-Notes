@@ -61,3 +61,7 @@ _Is this a foo (provided)_? Yes.
 ### Identifying A Foo II Quiz
 
 _Is this a foo (provided)_? No.
+
+### Identifying A Foo III Quiz
+
+_Is this a foo (provided)_? Yes.
