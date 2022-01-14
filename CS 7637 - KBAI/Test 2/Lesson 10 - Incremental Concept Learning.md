@@ -65,3 +65,12 @@ _Is this a foo (provided)_? No.
 ### Identifying A Foo III Quiz
 
 _Is this a foo (provided)_? Yes.
+
+### Re-identifying A Foo I Quiz
+
+_Variablize this concept on the right (provided)_:
+
+1. Brick
+2. Brick
+3. Brick
+4. Brick
