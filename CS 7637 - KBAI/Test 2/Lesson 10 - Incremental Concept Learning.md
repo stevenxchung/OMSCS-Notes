@@ -74,3 +74,12 @@ _Variablize this concept on the right (provided)_:
 2. Brick
 3. Brick
 4. Brick
+
+### Re-identifying A Foo II Quiz
+
+_Write the connections for this concept on the right (provided)_:
+
+1. Supports
+2. Supports
+3. Supports
+4. Supports
