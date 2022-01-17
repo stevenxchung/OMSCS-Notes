@@ -83,3 +83,11 @@ _Write the connections for this concept on the right (provided)_:
 2. Supports
 3. Supports
 4. Supports
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- One view of learning is that an agent is given a large number of examples to learn patterns. Another view of learning is where the agent is given one example at a time and the agent has to incrementally learn those examples
+- Because most of us learn one concept at a time, incremental learning is more similar human cognition and learning
+- There are a variety of tools (or heuristics) we can use for concept learning which will enable an agent to incrementally include positive examples and exclude negative ones
