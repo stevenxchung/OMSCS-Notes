@@ -5,3 +5,7 @@ In this lesson we will be going over **classification** which refers to mapping 
 1. Equivalence classes and hierarchies
 2. Kinds of concepts
 3. Bottom-up and top-down processes
+
+## The Challenge Of Classification
+
+Recall the cognitive architecture, given `2^n` percepts from the input to our agent there could be `2^m` possible actions for the output of our agent. Given many percepts and actions, the mapping between them could be very large. How can we select the right action if our agent has finite resources?
