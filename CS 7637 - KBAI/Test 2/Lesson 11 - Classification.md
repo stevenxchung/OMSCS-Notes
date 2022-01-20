@@ -9,3 +9,8 @@ In this lesson we will be going over **classification** which refers to mapping 
 ## The Challenge Of Classification
 
 Recall the cognitive architecture, given `2^n` percepts from the input to our agent there could be `2^m` possible actions for the output of our agent. Given many percepts and actions, the mapping between them could be very large. How can we select the right action if our agent has finite resources?
+
+## Equivalence Classes
+
+As discussed previously, how is it that many percepts can be mapped to the correct action given many actions? By equivalence classes, we can say that `2^n` percents can map `k` concepts to `2^m` actions. This means that we may have only a few classes that serve as a mapping between many percepts to possible actions.
+
