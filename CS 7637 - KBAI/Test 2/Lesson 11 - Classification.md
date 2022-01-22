@@ -17,3 +17,11 @@ As discussed previously, how is it that many percepts can be mapped to the corre
 ## Concept Hierarchies
 
 For each concept, there are also top-down hierarchies which could help an agent reason and classify objects in an organized manner using _establish and refine_ iterative processes.
+
+## Types Of Concepts
+
+We can think of concepts as a spectrum from formal to less formal:
+
+1. **Axiomatic** - concept defined by a formal set of necessary and sufficient conditions (e.g., mathematical equations)
+2. **Prototype** - base concepts defined by a typical example with variable properties (e.g., a chair)
+3. **Exemplar** - concepts defined by implicit abstractions of instances, or exemplars, of the concept (e.g., beauty, freedom)
