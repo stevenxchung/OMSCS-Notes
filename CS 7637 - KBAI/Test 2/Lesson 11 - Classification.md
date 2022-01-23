@@ -25,3 +25,7 @@ We can think of concepts as a spectrum from formal to less formal:
 1. **Axiomatic** - concept defined by a formal set of necessary and sufficient conditions (e.g., mathematical equations)
 2. **Prototype** - base concepts defined by a typical example with variable properties (e.g., a chair)
 3. **Exemplar** - concepts defined by implicit abstractions of instances, or exemplars, of the concept (e.g., beauty, freedom)
+
+## Order Of Concepts
+
+To add to the previous list, some expert claim that _qualia_ (concepts more abstract than exemplar) are difficult to define but are able to invoke memories e.g., tasting something bitter
