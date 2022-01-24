@@ -29,3 +29,7 @@ We can think of concepts as a spectrum from formal to less formal:
 ## Order Of Concepts
 
 To add to the previous list, some expert claim that _qualia_ (concepts more abstract than exemplar) are difficult to define but are able to invoke memories e.g., tasting something bitter
+
+## Bottom-up Search
+
+**Bottom-up search** is a technique whereby agents determine an answer by searching lower-level details and then aggregating those results up the chain using _identify and abstract_ iterative processes.
