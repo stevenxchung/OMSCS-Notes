@@ -33,3 +33,11 @@ To add to the previous list, some expert claim that _qualia_ (concepts more abst
 ## Bottom-up Search
 
 **Bottom-up search** is a technique whereby agents determine an answer by searching lower-level details and then aggregating those results up the chain using _identify and abstract_ iterative processes.
+
+## Section Quizzes
+
+### Concept Learning Revisited Quiz
+
+_Which of these (provided) are birds_?
+
+Five of the eight animals are birds.
