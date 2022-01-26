@@ -41,3 +41,16 @@ To add to the previous list, some expert claim that _qualia_ (concepts more abst
 _Which of these (provided) are birds_?
 
 Five of the eight animals are birds.
+
+### Equivalence Classes Quiz
+
+_For each of these three animals (provided), choose the value for each percept that applies to that animal_.
+
+| Name       | Eagle | Bluebird | Penguin |
+| ---------- | ----- | -------- | ------- |
+| Lays Eggs  | Y     | Y        | Y       |
+| Has Wings  | Y     | Y        | Y       |
+| Has Talons | Y     | Y        | N       |
+| Flies      | Y     | Y        | N       |
+| Has Fur    | N     | N        | N       |
+| Large      | Y     | N        | Y       |
