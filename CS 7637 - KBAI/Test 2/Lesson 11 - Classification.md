@@ -54,3 +54,14 @@ _For each of these three animals (provided), choose the value for each percept t
 | Flies      | Y     | Y        | N       |
 | Has Fur    | N     | N        | N       |
 | Large      | Y     | N        | Y       |
+
+### Concept Hierarchies Quiz
+
+_How would you characterize the class ‘bird’ given the characterization of its subclasses below_?
+
+1. _Lays eggs_? Yes
+2. _Has wings_? Yes
+3. _Has talons_? Maybe
+4. _Flies_? Maybe
+5. _Has fur_? No
+6. _Large_? Maybe
