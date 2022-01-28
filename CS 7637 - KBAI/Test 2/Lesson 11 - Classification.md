@@ -65,3 +65,14 @@ _How would you characterize the class ‘bird’ given the characterization of i
 4. _Flies_? Maybe
 5. _Has fur_? No
 6. _Large_? Maybe
+
+### Order Of Concepts Quiz
+
+_Rank the following concepts (provided) based on their formality_:
+
+1. Right triangle
+2. Reptile
+3. Foo
+4. Holiday
+5. Inspirational
+6. Saltiness
