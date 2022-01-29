@@ -76,3 +76,11 @@ _Rank the following concepts (provided) based on their formality_:
 4. Holiday
 5. Inspirational
 6. Saltiness
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Classification is ubiquitous because it allows us to select actions
+- While an agent might have many percepts and many possible actions, equivalence classification allows the agent to group the mappings between percepts and actions to better determine the correct action
+- There are various levels for concepts: axiomatic, prototype, exemplar, and qualia
