@@ -7,3 +7,10 @@ In this lesson we will cover _logic_ which is the basis for additional topics su
 3. Truth tables
 4. Rules of inference
 5. Resolution theorem proving
+
+## Why Do We Need Formal Logic
+
+We need formal logic for:
+
+- **Soundness**: only valid conclusions can be proven
+- **Completeness**: all valid conclusions can be proven
