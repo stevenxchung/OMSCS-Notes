@@ -14,3 +14,7 @@ We need formal logic for:
 
 - **Soundness**: only valid conclusions can be proven
 - **Completeness**: all valid conclusions can be proven
+
+## Predicates
+
+A **predicate** is a function that maps object arguments to true or false values.
