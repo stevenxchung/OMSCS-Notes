@@ -18,3 +18,7 @@ We need formal logic for:
 ## Predicates
 
 A **predicate** is a function that maps object arguments to true or false values.
+
+## Conjunctions And Disjunctions
+
+Conjunctions (_and_) are denoted by an up arrow head, disjunctions (_or_) are denoted by a down arrow head. A negation (_not_) will be denoted by the negation symbol as shown in lecture.
