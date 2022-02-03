@@ -22,3 +22,12 @@ A **predicate** is a function that maps object arguments to true or false values
 ## Conjunctions And Disjunctions
 
 Conjunctions (_and_) are denoted by an up arrow head, disjunctions (_or_) are denoted by a down arrow head. A negation (_not_) will be denoted by the negation symbol as shown in lecture.
+
+## Notation Equivalency
+
+The following notations could be used for formal logic descriptions:
+
+1. `AND`: e.g., `A & B` or `A && B`
+2. `OR`: e.g., `A | B` or `A || B`
+3. `NOT`: e.g., `!A` or `~A`
+4. `IMPLIES`: e.g., `A = B`, `A == B`, `A => B`
