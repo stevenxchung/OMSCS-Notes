@@ -31,3 +31,10 @@ The following notations could be used for formal logic descriptions:
 2. `OR`: e.g., `A | B` or `A || B`
 3. `NOT`: e.g., `!A` or `~A`
 4. `IMPLIES`: e.g., `A = B`, `A == B`, `A => B`
+
+## Rules Of Inference
+
+**Rules of inference** suggests to instantiate general rules to prove specific claims. There are two techniques in particular:
+
+1. **Modus Ponens**: `p => q`, `p`, therefore `q`
+2. **Modus Tollens**: `p => q` `!q`, therefore `!p`
