@@ -38,3 +38,7 @@ The following notations could be used for formal logic descriptions:
 
 1. **Modus Ponens**: `p => q`, `p`, therefore `q`
 2. **Modus Tollens**: `p => q` `!q`, therefore `!p`
+
+## Universal Quantifiers
+
+_For all_ qualifiers are also known as **universal qualifiers**. _For at least one_ qualifiers are also known as **existential qualifiers**.
