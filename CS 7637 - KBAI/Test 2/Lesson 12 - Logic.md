@@ -42,3 +42,13 @@ The following notations could be used for formal logic descriptions:
 ## Universal Quantifiers
 
 _For all_ qualifiers are also known as **universal qualifiers**. _For at least one_ qualifiers are also known as **existential qualifiers**.
+
+## Section Quizzes
+
+### Inferences About Foos Quiz
+
+_Mark the sufficient conditions that would make this (provided) a foo_.
+
+- A brick supports two blocks
+- Those two blocks do not touch
+- Those two blocks support a brick
