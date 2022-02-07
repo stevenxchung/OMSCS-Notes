@@ -52,3 +52,14 @@ _Mark the sufficient conditions that would make this (provided) a foo_.
 - A brick supports two blocks
 - Those two blocks do not touch
 - Those two blocks support a brick
+
+### Practicing Formal Logic Quiz
+
+1. _If an animal lays eggs and does not have feathers, it is a reptile_.
+   - `lays-eggs(animal) ∧ ¬feathers(animal) ⇒ reptile(animal)`
+2. _If an animal has feathers or has talons, it is a bird_.
+   - `feathers(animal) ∨ talons(animal) ⇒ bird(animal)`
+3. _If an animal lays eggs, has a beak, and flies, it is a duck_.
+   - `lays-eggs(animal) ∧ beak(animal) ∧ flies(animal) ⇒ duck(animal)`
+4. _If an animal lays eggs, has a beak, and do not fly, it is a platypus_.
+   - `lays-eggs(animal) ∧ beak(animal) ∧ ¬flies(animal) ⇒ platypus(animal)`
