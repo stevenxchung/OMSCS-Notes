@@ -63,3 +63,16 @@ _Mark the sufficient conditions that would make this (provided) a foo_.
    - `lays-eggs(animal) ∧ beak(animal) ∧ flies(animal) ⇒ duck(animal)`
 4. _If an animal lays eggs, has a beak, and do not fly, it is a platypus_.
    - `lays-eggs(animal) ∧ beak(animal) ∧ ¬flies(animal) ⇒ platypus(animal)`
+
+### Truth Tables I Quiz
+
+_Given the logic table, please enter either True or False below_:
+
+1. True
+2. True
+3. False
+4. True
+5. False
+6. False
+7. False
+8. True
