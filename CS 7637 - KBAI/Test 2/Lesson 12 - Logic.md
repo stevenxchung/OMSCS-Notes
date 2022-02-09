@@ -76,3 +76,16 @@ _Given the logic table, please enter either True or False below_:
 6. False
 7. False
 8. True
+
+### Truth Tables II Quiz
+
+_Given the logic table, please enter either True or False below_:
+
+1. True
+2. True
+3. True
+4. True
+5. False
+6. True
+7. False
+8. False
