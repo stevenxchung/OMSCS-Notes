@@ -89,3 +89,16 @@ _Given the logic table, please enter either True or False below_:
 6. True
 7. False
 8. False
+
+### Commutative Property Quiz
+
+_Given the logic table, please enter either True or False below_:
+
+1. True
+2. True
+3. False
+4. False
+5. False
+6. False
+7. False
+8. False
