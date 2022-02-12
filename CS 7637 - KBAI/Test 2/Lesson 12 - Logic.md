@@ -123,3 +123,24 @@ _Given the logic table, please enter either True or False below_:
 14. False
 15. False
 16. False
+
+### Associative Property Quiz
+
+_Given the logic table, please enter either True or False below_:
+
+1. True
+2. True
+3. True
+4. True
+5. True
+6. True
+7. True
+8. True
+9. True
+10. True
+11. True
+12. True
+13. True
+14. True
+15. False
+16. False
