@@ -144,3 +144,17 @@ _Given the logic table, please enter either True or False below_:
 14. True
 15. False
 16. False
+
+### De Morgans Law Quiz
+
+_Please fill in the blanks below with True or False below_:
+
+1. False
+2. False
+3. True
+4. True
+5. True
+6. True
+7. True
+8. True
+
