@@ -158,3 +158,8 @@ _Please fill in the blanks below with True or False below_:
 7. True
 8. True
 
+### Proof I Quiz
+
+_Write (provided) in formal logic, how do we prove this is a bird_?
+
+`has-wings ∧ ¬has-fur ⇒ bird`
