@@ -163,3 +163,9 @@ _Please fill in the blanks below with True or False below_:
 _Write (provided) in formal logic, how do we prove this is a bird_?
 
 `has-wings ∧ ¬has-fur ⇒ bird`
+
+### Proof II Quiz
+
+_Use implication elimination to rewrite as a conditional, how do we prove this is a bird_?
+
+`¬has-wings ∧ ¬has-fur ⋁ bird`
