@@ -169,3 +169,10 @@ _Write (provided) in formal logic, how do we prove this is a bird_?
 _Use implication elimination to rewrite as a conditional, how do we prove this is a bird_?
 
 `¬has-wings ∧ ¬has-fur ⋁ bird`
+
+### Proof III Quiz
+
+_Use De Morgan's Law to rewrite in conjunctive normal form, how do we prove this is a bird_?
+
+`¬has-wings ⋁ has-fur ⋁ bird`
+
