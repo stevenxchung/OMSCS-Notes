@@ -176,3 +176,8 @@ _Use De Morgan's Law to rewrite in conjunctive normal form, how do we prove this
 
 `¬has-wings ⋁ has-fur ⋁ bird`
 
+### Proof IV Quiz
+
+_What sentence would be assumed to facilitate the proof, how do we prove this is a bird_?
+
+`¬bird`
