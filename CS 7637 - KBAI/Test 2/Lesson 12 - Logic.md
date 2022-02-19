@@ -181,3 +181,9 @@ _Use De Morgan's Law to rewrite in conjunctive normal form, how do we prove this
 _What sentence would be assumed to facilitate the proof, how do we prove this is a bird_?
 
 `¬bird`
+
+### Proof V Quiz
+
+_What part of `S1` (provided) would we eliminate first, how do we prove this is a bird_?
+
+We have to eliminate the `bird` first.
