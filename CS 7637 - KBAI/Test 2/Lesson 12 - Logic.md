@@ -187,3 +187,10 @@ _What sentence would be assumed to facilitate the proof, how do we prove this is
 _What part of `S1` (provided) would we eliminate first, how do we prove this is a bird_?
 
 We have to eliminate the `bird` first.
+
+### Proof VI Quiz
+
+_What do we do next, how do we prove this is a bird_?
+
+- Resolve on `S2` and `¬has-wings` from `S1`
+- Resolve on `S3` and `¬has-fur` from `S1`
