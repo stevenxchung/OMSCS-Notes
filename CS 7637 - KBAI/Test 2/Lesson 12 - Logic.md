@@ -194,3 +194,14 @@ _What do we do next, how do we prove this is a bird_?
 
 - Resolve on `S2` and `¬has-wings` from `S1`
 - Resolve on `S3` and `¬has-fur` from `S1`
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Logic provides a formal and precise way of reasoning
+- Logic also provides a formal notation for expressing how intelligent agents reason
+- Logic we have considered so far is deductive, however most of human reasoning is inductive or abductive in its character
+- Deduction has to do with reasoning from causes to effects
+- Abduction has to do with reasoning from effects to causes
+- Induction has to do with generalizing cause and effect relationships from a sample to a population
