@@ -12,3 +12,7 @@ An intelligent agent maps perceptual histories into actions. Consequently, _plan
 Referring back to state spaces, a search method is inefficient because it uses no knowledge. Since we have knowledge of the goal and asset knowledge (i.e., how to select an operator), we could better select actions which allow us to obtain our goal as we saw with means-ends analysis.
 
 Planning provides more systematic processes for selecting different operators. How to we do operator selection? We can do this the same way as mapping perceptual histories into actions. Operators represent mental representations of actions available in the world.
+
+## Planning
+
+In means-ends analysis we saw that we could generate states which make it impossible to achieve the goal. This is also know as **goal clobbering** a linear planning technique (e.g., means-ends analysis) that goes about generating states without reasoning conflicts which could block the goal state. How might an intelligent agent be able to reason about the order of actions such that the goal is achieved?
