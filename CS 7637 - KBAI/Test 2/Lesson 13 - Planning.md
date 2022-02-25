@@ -16,3 +16,7 @@ Planning provides more systematic processes for selecting different operators. H
 ## Planning
 
 In means-ends analysis we saw that we could generate states which make it impossible to achieve the goal. This is also know as **goal clobbering** a linear planning technique (e.g., means-ends analysis) that goes about generating states without reasoning conflicts which could block the goal state. How might an intelligent agent be able to reason about the order of actions such that the goal is achieved?
+
+## Partial-order Planning
+
+**Partial-order planning** occurs when there are multiple goals and the plan for achieving one goal clobbers with another.
