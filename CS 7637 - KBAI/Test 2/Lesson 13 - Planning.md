@@ -20,3 +20,12 @@ In means-ends analysis we saw that we could generate states which make it imposs
 ## Partial-order Planning
 
 **Partial-order planning** occurs when there are multiple goals and the plan for achieving one goal clobbers with another.
+
+## Detecting Conflicts
+
+How might a planner detect conflicts?
+
+For each precondition in the current plan:
+
+- If pre-condition for an operator in the current plan is clobbered by a state in another plan:
+  - Promote current plan's goal above the other plan's goal
