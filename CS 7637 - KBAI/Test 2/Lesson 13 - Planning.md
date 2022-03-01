@@ -29,3 +29,14 @@ For each precondition in the current plan:
 
 - If pre-condition for an operator in the current plan is clobbered by a state in another plan:
   - Promote current plan's goal above the other plan's goal
+
+## Open Preconditions
+
+How does partial-order planning work in practice? We can begin to understand by examining the following principles:
+
+1. Knowledge is not just about the world but it is control knowledge which helps us select between operators
+2. Goals provide us control knowledge as they can be used to decide between different operators which help us move closer to the goal
+3. We can view partial-order planning as an interaction between several different agents or abilities where each agent represents a small micro ability:
+   - An agent that helps us generate plans for each goal independently
+   - An agent that is responsible for detecting conflicts between them
+   - An agent that is responsible for resolving these conflicts
