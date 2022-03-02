@@ -40,3 +40,7 @@ How does partial-order planning work in practice? We can begin to understand by 
    - An agent that helps us generate plans for each goal independently
    - An agent that is responsible for detecting conflicts between them
    - An agent that is responsible for resolving these conflicts
+
+## Hierarchical Task Network Planning
+
+Referring to our partial order planning exercises, can we abstract some operations at a higher-level? The idea here is to make the the problem space much smaller and simpler to navigate.
