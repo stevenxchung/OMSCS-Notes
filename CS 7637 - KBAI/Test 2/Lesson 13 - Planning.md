@@ -44,3 +44,7 @@ How does partial-order planning work in practice? We can begin to understand by 
 ## Hierarchical Task Network Planning
 
 Referring to our partial order planning exercises, can we abstract some operations at a higher-level? The idea here is to make the the problem space much smaller and simpler to navigate.
+
+## Hierarchical Decomposition
+
+Referring to the block exercises, we can decompose several higher-level operations into micro-operations which may include definitions on pre-conditions, post-conditions, and methods.
