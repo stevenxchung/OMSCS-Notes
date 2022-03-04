@@ -48,3 +48,7 @@ Referring to our partial order planning exercises, can we abstract some operatio
 ## Hierarchical Decomposition
 
 Referring to the block exercises, we can decompose several higher-level operations into micro-operations which may include definitions on pre-conditions, post-conditions, and methods.
+
+## Hierarchical Planning
+
+Most real-world problems have a large and complex problem space. In order for AI agents to handle such problems, it must be able to think at multiple levels of abstraction. An AI agent must be able to use knowledge at various levels of abstraction in order to solve difficult problems.
