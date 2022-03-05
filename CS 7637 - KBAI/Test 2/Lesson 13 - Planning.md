@@ -52,3 +52,12 @@ Referring to the block exercises, we can decompose several higher-level operatio
 ## Hierarchical Planning
 
 Most real-world problems have a large and complex problem space. In order for AI agents to handle such problems, it must be able to think at multiple levels of abstraction. An AI agent must be able to use knowledge at various levels of abstraction in order to solve difficult problems.
+
+## Section Quizzes
+
+### Partial Order Planning I Quiz
+
+_Write the current and goal states in propositional logic_.
+
+1. `On(D, B) ˄ On(B, A) ˄ On(A, C) ˄ On(C, Table)`
+2. `On(A, B) ˄ On(B, C) ˄ On(C, D) ˄ On(D, Table)`
