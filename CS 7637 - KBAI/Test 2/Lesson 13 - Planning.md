@@ -61,3 +61,12 @@ _Write the current and goal states in propositional logic_.
 
 1. `On(D, B) ˄ On(B, A) ˄ On(A, C) ˄ On(C, Table)`
 2. `On(A, B) ˄ On(B, C) ˄ On(C, D) ˄ On(D, Table)`
+
+### Partial Order Planning II Quiz
+
+_Write the pre- and post-conditions for the two Move operators_.
+
+1. `Clear(x) ˄ Clear(y)`
+2. `On(x, y)`
+3. `Clear(x)`
+4. `On(x, Table)`
