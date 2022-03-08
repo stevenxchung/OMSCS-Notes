@@ -70,3 +70,11 @@ _Write the pre- and post-conditions for the two Move operators_.
 2. `On(x, y)`
 3. `Clear(x)`
 4. `On(x, Table)`
+
+### Partial Order Planning III Quiz
+
+_Write plans for accomplishing each goal_.
+
+1. `Move(D, Table) Move(B, Table) Move(A, B)`
+2. `Move(D, Table) Move(B, Table) Move(A, Table) Move(B, C)`
+3. `Move(D, Table) Move(B, Table) Move(A, Table) Move(C, D)`
