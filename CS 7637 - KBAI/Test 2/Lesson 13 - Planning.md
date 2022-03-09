@@ -78,3 +78,11 @@ _Write plans for accomplishing each goal_.
 1. `Move(D, Table) Move(B, Table) Move(A, B)`
 2. `Move(D, Table) Move(B, Table) Move(A, Table) Move(B, C)`
 3. `Move(D, Table) Move(B, Table) Move(A, Table) Move(C, D)`
+
+### Partial Order Planning IV Quiz
+
+_Use partial-order planning to order the plans_.
+
+1. 3rd
+2. 2nd
+3. 1st
