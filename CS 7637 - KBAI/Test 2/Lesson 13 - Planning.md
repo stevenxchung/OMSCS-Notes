@@ -86,3 +86,9 @@ _Use partial-order planning to order the plans_.
 1. 3rd
 2. 2nd
 3. 1st
+
+### Partial Order Planning V Quiz
+
+_Write a final plan for converting the current state to the goal state_.
+
+1. `Move(D, Table) Move(B, Table) Move(A, Table) Move(C, D) Move(B, C) Move(A,B)`
