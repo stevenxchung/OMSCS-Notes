@@ -92,3 +92,13 @@ _Use partial-order planning to order the plans_.
 _Write a final plan for converting the current state to the goal state_.
 
 1. `Move(D, Table) Move(B, Table) Move(A, Table) Move(C, D) Move(B, C) Move(A,B)`
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Planning is a process central to cognition as action selection is central to cognition
+- Planning is required to select the appropriate action
+- Control knowledge helps us select different actions and operators
+- Intelligent agents can deal with goal clobbering by detecting conflicts with one micro agent and resolving conflicts with another agent
+- Intelligent agents simplify large complex problems by using knowledge at many layers of abstraction to reduce the problem space and tackle hard problems
