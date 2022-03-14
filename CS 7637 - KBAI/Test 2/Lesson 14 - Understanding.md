@@ -25,3 +25,15 @@ Thematic Role:
 - Instrument: griddle
 
 This frame will allow us to draw inferences which will allow an agent to understand the meaning of the sentence.
+
+## Constraints
+
+**Constraints** also allow an agent to understand the meaning of a sentence. Below are some prepositional constraints:
+
+| Preposition | Thematic Roles              |
+| ----------- | --------------------------- |
+| by          | agent, conveyance, location |
+| for         | beneficiary, duration       |
+| from        | source                      |
+| to          | destination                 |
+| with        | co-agent, instrument        |
