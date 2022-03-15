@@ -37,3 +37,13 @@ This frame will allow us to draw inferences which will allow an agent to underst
 | from        | source                      |
 | to          | destination                 |
 | with        | co-agent, instrument        |
+
+## Resolving Ambiguity In Prepositions
+
+However, there may exist ambiguity in sentences such as below where the word _by_ has different thematic roles:
+
+> That was written by Ashok.
+> David went to New York by train.
+> David stood by the statue.
+
+How to resolve these issues? The agent should have an _ontology_ of the world. That is, it has a conceptualization or model of the world (in lecture it looks like a tree with multiple branches) such that it is able to determine which thematic role _by_ takes in each sentence above.
