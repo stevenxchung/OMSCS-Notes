@@ -47,3 +47,7 @@ However, there may exist ambiguity in sentences such as below where the word _by
 > David stood by the statue.
 
 How to resolve these issues? The agent should have an _ontology_ of the world. That is, it has a conceptualization or model of the world (in lecture it looks like a tree with multiple branches) such that it is able to determine which thematic role _by_ takes in each sentence above.
+
+## Resolving Ambiguity In Verbs
+
+Verbs can also have many different meanings. To resolve ambiguity in verbs, we can create a frame for each meaning of the verb and then eliminate the frames that do not match the verb used in the sentence. This could be done by examining other parts of the sentence and using that knowledge to eliminate ambiguities.
