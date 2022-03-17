@@ -51,3 +51,21 @@ How to resolve these issues? The agent should have an _ontology_ of the world. T
 ## Resolving Ambiguity In Verbs
 
 Verbs can also have many different meanings. To resolve ambiguity in verbs, we can create a frame for each meaning of the verb and then eliminate the frames that do not match the verb used in the sentence. This could be done by examining other parts of the sentence and using that knowledge to eliminate ambiguities.
+
+## Section Quizzes
+
+### Thematic Role Systems Quiz
+
+_Consider the following sentence_:
+
+> David went to the meeting with Ashok by car.
+
+_Write the thematic role frame given by the sentence above_.
+
+Thematic Role:
+
+- Verb: went
+- Agent: David
+- Co-agent: Ashok
+- Destination: meeting
+- Conveyance: car
