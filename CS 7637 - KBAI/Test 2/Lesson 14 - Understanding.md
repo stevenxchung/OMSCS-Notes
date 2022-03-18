@@ -69,3 +69,11 @@ Thematic Role:
 - Co-agent: Ashok
 - Destination: meeting
 - Conveyance: car
+
+### Resolving Ambiguity In Verbs Quiz
+
+_Use the thematic role frames below (provided) to identify the meaning of "take" in the sentence_:
+
+1. _I took an aspirin for my headache_. D, to medicate
+2. _I took my briefcase to work today_. B, to bring or transport
+3. _I took the casino for \$5 million_. G, to cheat or swindle
