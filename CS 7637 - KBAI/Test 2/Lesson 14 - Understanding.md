@@ -77,3 +77,11 @@ _Use the thematic role frames below (provided) to identify the meaning of "take"
 1. _I took an aspirin for my headache_. D, to medicate
 2. _I took my briefcase to work today_. B, to bring or transport
 3. _I took the casino for \$5 million_. G, to cheat or swindle
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Understanding is a very general all-purpose cognitive task that has a goal of making sense of the world
+- The world constantly bombards us with many different types of data but we could make sense of the world by using constraints, structured knowledge representations, and lower-level bottom-up processing
+- Lower-level bottom-up processing helps us activate knowledge structures from memory which then in turn helps us generate expectations (a top-down processing task)
