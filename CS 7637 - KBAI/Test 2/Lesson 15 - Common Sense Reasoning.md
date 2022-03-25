@@ -13,3 +13,7 @@ We can start examining how an AI agent might interpret very structurally differe
 ## Thematic Roles And Primitive Actions
 
 As mentioned earlier, an agent may map actions in a sentence to a store containing primitive actions. These primitive actions may be represented in a thematic role frame which will allow the agent to perform top-down processing(generating expectations and interpretations).
+
+## Implied Actions
+
+Oftentimes a sentence might be difficult to interpret because the action does not readily map to any primitive action. In this scenario an agent might modify the sentence such that it could map to a primitive action.
