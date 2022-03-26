@@ -17,3 +17,7 @@ As mentioned earlier, an agent may map actions in a sentence to a store containi
 ## Implied Actions
 
 Oftentimes a sentence might be difficult to interpret because the action does not readily map to any primitive action. In this scenario an agent might modify the sentence such that it could map to a primitive action.
+
+## Actions And Sub-actions
+
+What knowledge must an AI agent have such that it could make common sense inferences? Referring back to the thematic role frames, we would add to the frame not only the primitive action, agent, and object but also sub-actions.
