@@ -21,3 +21,7 @@ Oftentimes a sentence might be difficult to interpret because the action does no
 ## Actions And Sub-actions
 
 What knowledge must an AI agent have such that it could make common sense inferences? Referring back to the thematic role frames, we would add to the frame not only the primitive action, agent, and object but also sub-actions.
+
+## State Changes
+
+A **state-change frame** may highlight different events that may occur in a given sentence. This may be inserted into a thematic role frame as a result (e.g., the result of _Ashok ate a frog_ may contain a state-change frame representing the result: _Ashok is happy_)
