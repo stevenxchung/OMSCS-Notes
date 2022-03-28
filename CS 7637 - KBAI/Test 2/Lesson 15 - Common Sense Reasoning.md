@@ -25,3 +25,7 @@ What knowledge must an AI agent have such that it could make common sense infere
 ## State Changes
 
 A **state-change frame** may highlight different events that may occur in a given sentence. This may be inserted into a thematic role frame as a result (e.g., the result of _Ashok ate a frog_ may contain a state-change frame representing the result: _Ashok is happy_)
+
+## Implied Actions And State Changes
+
+Sometimes a sentence might be vague (e.g., _Susan comforted Jing_) and so the best we can do with primitive actions, thematic role frames, and state-change frames is to generalize an action.
