@@ -29,3 +29,7 @@ A **state-change frame** may highlight different events that may occur in a give
 ## Implied Actions And State Changes
 
 Sometimes a sentence might be vague (e.g., _Susan comforted Jing_) and so the best we can do with primitive actions, thematic role frames, and state-change frames is to generalize an action.
+
+## Actions And Resultant Actions
+
+Thematic role frames are not limited to chaining results to state-change frames but also results to another thematic role frame (action result to another action). This is useful for sentences which contain more than one action (e.g., _Maria told Ben to throw the ball_).
