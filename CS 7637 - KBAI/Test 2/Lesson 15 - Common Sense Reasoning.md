@@ -33,3 +33,14 @@ Sometimes a sentence might be vague (e.g., _Susan comforted Jing_) and so the be
 ## Actions And Resultant Actions
 
 Thematic role frames are not limited to chaining results to state-change frames but also results to another thematic role frame (action result to another action). This is useful for sentences which contain more than one action (e.g., _Maria told Ben to throw the ball_).
+
+## Section Quizzes
+
+### Primitive Actions Quiz
+
+_Write the primitive action that subsumes the verbs in the following sentences (given)_.
+
+1. Ran
+2. Pushed
+3. Took
+4. Ate
