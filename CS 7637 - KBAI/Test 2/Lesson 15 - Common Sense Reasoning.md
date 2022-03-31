@@ -44,3 +44,12 @@ _Write the primitive action that subsumes the verbs in the following sentences (
 2. Pushed
 3. Took
 4. Ate
+
+### Roles And Primitive Actions Quiz
+
+_Write the action frame corresponding to the above sentence (given) using a primitive action_.
+
+1. Move-possession
+2. John
+3. Mary
+4. Book
