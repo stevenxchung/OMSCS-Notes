@@ -53,3 +53,13 @@ _Write the action frame corresponding to the above sentence (given) using a prim
 2. John
 3. Mary
 4. Book
+
+### Implied Actions Quiz
+
+_Rewrite the sentence (given) in the form of a primitive action, then construct an action frame for the sentence_.
+
+1. Bill propelled a bullet into Bob
+2. Propel
+3. Bill
+4. Bullet
+5. Bob
