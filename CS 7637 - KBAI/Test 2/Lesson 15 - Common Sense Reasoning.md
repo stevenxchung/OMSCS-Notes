@@ -63,3 +63,18 @@ _Rewrite the sentence (given) in the form of a primitive action, then construct 
 3. Bill
 4. Bullet
 5. Bob
+
+### State Changes Quiz
+
+_Complete the frame representations for these sentences (given)_.
+
+_Sentence 1: Anika decided to have a glass of water_.
+
+1. Action
+2. Conclude; Anika
+3. Action
+4. Ingest; Anika; glass of water
+5. Action
+6. See, Marc, TED talks
+7. Action
+8. Marc's mood, happy
