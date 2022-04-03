@@ -78,3 +78,12 @@ _Sentence 1: Anika decided to have a glass of water_.
 6. See, Marc, TED talks
 7. Action
 8. Marc's mood, happy
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Agents may interpret sentences by using primitive actions which map to thematic role frames. These frames may contain results or sub-actions which could provide more information to the Agent during top-down processing where the agent generates expectations
+- We use notion of goals and context to decide what to do and what not to do. A similar notion of context is used in order to understand natural language understanding
+- We could use context to disambiguate between various meanings of some action
+- We make inferences about the world around us using the _TOM (Theory of Mind) Theory_ in which we ascribe goals, beliefs, and desires to each other
