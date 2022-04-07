@@ -6,3 +6,7 @@ In this lesson we cover another knowledge representation known as _scripts_ whic
 2. Form vs. content
 3. Generating expectations
 4. Hierarchies of scripts
+
+## Story Understanding For AI Agents
+
+Stories can help agents make sense of the world and generate expectations. Stories also allows an agent to make connections between events that otherwise might appear separate.
