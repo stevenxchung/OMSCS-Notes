@@ -18,3 +18,14 @@ A **script** is a knowledge representation for capturing a causally coherent set
 1. **Causally**: each event sets off or causes the next event
 2. **Coherent**: the causal connections between events make sense
 3. **Events**: the parts are actions or scenes in the world
+
+## Parts Of A Script
+
+There are six parts to a script:
+
+1. **Entry conditions**: conditions necessary to execute the script
+2. **Result**: conditions that will be true after the script has taken place
+3. **Props**: objects involved in the execution of the script
+4. **Roles**: agents involved in the execution of the script
+5. **Track**: variations or _sub-classes_ of the particular script
+6. **Scenes**: the sequence of events that occurs during execution of the script
