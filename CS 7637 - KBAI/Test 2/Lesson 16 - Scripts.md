@@ -29,3 +29,13 @@ There are six parts to a script:
 4. **Roles**: agents involved in the execution of the script
 5. **Track**: variations or _sub-classes_ of the particular script
 6. **Scenes**: the sequence of events that occurs during execution of the script
+
+## Using A Script To Generate Expectations
+
+A script can be used to generate expectations since a script may generate a chain of thematic role frames (a scene) which captures a causally coherent set of events. If any of the events in the scene do not occur the agent will know that the outcome is unexpected.
+
+These types of surprises lends itself to the theory of creativity where a situation is creative if it is:
+
+1. Novel
+2. Useful or valuable
+3. Unexpected or surprising
