@@ -39,3 +39,7 @@ These types of surprises lends itself to the theory of creativity where a situat
 1. Novel
 2. Useful or valuable
 3. Unexpected or surprising
+
+## Tracks
+
+For each script, there may be different _tracks_ i.e., for a script that is written for _going to a restaurant or food establishment_ there may be a script for going to a coffeehouse, fast food, causal dining, formal dining, etc. Additionally, there may also be a higher level of abstraction for these events, e.g., _going to different types of social events_ not just restaurants.
