@@ -43,3 +43,13 @@ These types of surprises lends itself to the theory of creativity where a situat
 ## Tracks
 
 For each script, there may be different _tracks_ i.e., for a script that is written for _going to a restaurant or food establishment_ there may be a script for going to a coffeehouse, fast food, causal dining, formal dining, etc. Additionally, there may also be a higher level of abstraction for these events, e.g., _going to different types of social events_ not just restaurants.
+
+## Learning A Script
+
+The following prior topics may help an agent learn a script:
+
+- **Semantic networks**: can help an agent store knowledge in the form of structured representation
+- **Frames**: same as semantic networks but the structure for storing information is different
+- **Incremental concept learning**: an agent which constantly interacts with the world could use this technique to develop a categorization scheme for different experiences
+- **Planning**: can help an agent realize a path from initial state to the goal state and translate that path into a script such that the same script could be used for other scenarios
+- **Common sense reasoning**: can help an agent process a script with primitive actions
