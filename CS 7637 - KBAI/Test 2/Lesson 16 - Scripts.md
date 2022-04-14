@@ -53,3 +53,12 @@ The following prior topics may help an agent learn a script:
 - **Incremental concept learning**: an agent which constantly interacts with the world could use this technique to develop a categorization scheme for different experiences
 - **Planning**: can help an agent realize a path from initial state to the goal state and translate that path into a script such that the same script could be used for other scenarios
 - **Common sense reasoning**: can help an agent process a script with primitive actions
+
+## Using A Script
+
+The following prior topics may help an agent use a script:
+
+- **Problem reduction**: this technique can help an agent break down a scene into smaller scenes (collection of frames) and actions such that exceptions and violations are caught
+- **Classification**: can help an agent determine what script to use given a particular situation
+- **Logic**: since a plan can discussed in formal logic an agent could use this technique to determine what the script asserts about the state of the world at certain points of execution
+- **Understanding**: can help an agent disambiguate similar events in different situations
