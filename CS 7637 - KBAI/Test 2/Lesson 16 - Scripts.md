@@ -62,3 +62,14 @@ The following prior topics may help an agent use a script:
 - **Classification**: can help an agent determine what script to use given a particular situation
 - **Logic**: since a plan can discussed in formal logic an agent could use this technique to determine what the script asserts about the state of the world at certain points of execution
 - **Understanding**: can help an agent disambiguate similar events in different situations
+
+## Section Quizzes
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Stories can help agents make sense of the world and generate expectations. This possible as scripts are a knowledge representation for capturing a causally coherent set of events
+- Some theories say that our brain is a predictor machine. We do quick bottom-up processing followed by top-down processing. We also generate expectations of the world and then act on those expectations
+- One of the questions is _do we carry these scripts in our head or do we generate them at runtime_?
+- Scripts are analogous to mental models and are culturally specific (e.g., the script for tipping in the US is different than in other countries)
