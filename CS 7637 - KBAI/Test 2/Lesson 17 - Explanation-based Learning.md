@@ -5,3 +5,7 @@ In _explanation-based learning_ an agent learns about new connections between ex
 1. Concept space
 2. Abstraction
 3. Analogical transfer
+
+## Concept Space
+
+An agent might represent concepts with facts about a particular concept in the form of a concept space. What prior knowledge does an agent need to build explanations? An agent might have prior knowledge of various concepts such that a causual connection could be made between them.
