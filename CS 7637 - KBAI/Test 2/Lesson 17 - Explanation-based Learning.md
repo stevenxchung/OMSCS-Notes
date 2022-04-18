@@ -9,3 +9,7 @@ In _explanation-based learning_ an agent learns about new connections between ex
 ## Concept Space
 
 An agent might represent concepts with facts about a particular concept in the form of a concept space. What prior knowledge does an agent need to build explanations? An agent might have prior knowledge of various concepts such that a causual connection could be made between them.
+
+## Abstraction
+
+An agent might make use of prior knowledge in a concept space and abstract the causual connections between various concepts to come up with a solution or explanation to a problem.
