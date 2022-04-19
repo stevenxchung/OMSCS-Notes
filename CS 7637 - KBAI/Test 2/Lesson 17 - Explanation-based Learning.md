@@ -13,3 +13,7 @@ An agent might represent concepts with facts about a particular concept in the f
 ## Abstraction
 
 An agent might make use of prior knowledge in a concept space and abstract the causual connections between various concepts to come up with a solution or explanation to a problem.
+
+## Transfer
+
+Knowledge transfer occurs by using abstractions of concepts (obtained from prior knowledge) in the concept space and connecting those abstractions to form a new causual connection to a new concept. In practice, an agent typically starts from the given new concept and looks for ways it could draw in prior knowledge to understand a new concept by connecting top-level abstractions (which are goals for the agent to prove) to those in memory.
