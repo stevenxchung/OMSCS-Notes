@@ -25,3 +25,9 @@ Knowledge transfer occurs by using abstractions of concepts (obtained from prior
 _Which of these might be useful for transporting soup from the kitchen to the table_?
 
 The glass pitcher is most useful in this scenario.
+
+### Explanation-based Learning I Quiz
+
+_Given the prior knowledge (provided), can we prove this object is a mug_?
+
+No since the prior knowledge for a mug does not have causal connections which link to the given mystery object.
