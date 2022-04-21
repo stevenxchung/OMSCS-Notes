@@ -17,3 +17,11 @@ An agent might make use of prior knowledge in a concept space and abstract the c
 ## Transfer
 
 Knowledge transfer occurs by using abstractions of concepts (obtained from prior knowledge) in the concept space and connecting those abstractions to form a new causual connection to a new concept. In practice, an agent typically starts from the given new concept and looks for ways it could draw in prior knowledge to understand a new concept by connecting top-level abstractions (which are goals for the agent to prove) to those in memory.
+
+## Section Quizzes
+
+### Transporting Soup Quiz
+
+_Which of these might be useful for transporting soup from the kitchen to the table_?
+
+The glass pitcher is most useful in this scenario.
