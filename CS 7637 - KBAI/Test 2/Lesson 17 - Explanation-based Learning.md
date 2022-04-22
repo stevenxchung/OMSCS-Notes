@@ -31,3 +31,11 @@ The glass pitcher is most useful in this scenario.
 _Given the prior knowledge (provided), can we prove this object is a mug_?
 
 No since the prior knowledge for a mug does not have causal connections which link to the given mystery object.
+
+### Explanation-based Learning II Quiz
+
+_What knowledge would finish our proof that this object (given) is a mug_?
+
+- Knowledge of a wooden spoon
+- Knowledge of an oven mitt
+
