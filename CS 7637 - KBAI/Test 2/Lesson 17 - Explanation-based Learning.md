@@ -39,3 +39,11 @@ _What knowledge would finish our proof that this object (given) is a mug_?
 - Knowledge of a wooden spoon
 - Knowledge of an oven mitt
 
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- We as humans are always dealing with novel situations and we create solutions to those situations by forming connections between existing concepts
+- Using existing concepts in new ways is known as _speed up learning_ as it builds connections between existing concepts to learn new concepts
+- We can only explain things that are consciously accessible (e.g., we cannot easily explain memory processes)
+- Although the process for generating explanations may be similar to arriving to a particular decision it is not the same process used in making a decision
