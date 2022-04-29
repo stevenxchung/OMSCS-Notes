@@ -22,3 +22,22 @@ Shown below is table for spectrum of similarity between different KBAI methods f
 | Analogical Reasoning | S         | D       | D        | D      |
 
 Where _S_ is for similar and _D_ is for dissimilar
+
+## Process Of Analogical Reasoning
+
+Analogical reasoning consists of five different phases which are usually not linear:
+
+1. Retrieval
+2. Mapping
+3. Transfer
+4. Evaluation
+5. Storage
+
+This is just one of the many models on analogical reasoning. Recall that case-based reasoning had the following steps:
+
+1. Retrieval
+2. Adaptation
+3. Evaluation
+4. Storage
+
+Therefore, one of the main differences for analogical reasoning lies within the mapping step where an agent must determine the mapping between relations, objects, features, and values from the source case to the target problem. Once those mappings are determined then knowledge transfer of abstracted relationships from one domain to another can occur.
