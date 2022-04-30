@@ -41,3 +41,11 @@ This is just one of the many models on analogical reasoning. Recall that case-ba
 4. Storage
 
 Therefore, one of the main differences for analogical reasoning lies within the mapping step where an agent must determine the mapping between relations, objects, features, and values from the source case to the target problem. Once those mappings are determined then knowledge transfer of abstracted relationships from one domain to another can occur.
+
+## Three Types Of Similarity
+
+There are various types of similarity:
+
+1. **Semantic**: conceptual similarity between the target problem an the source case
+2. **Pragmatic**: similarity of external factors such as goals
+3. **Structural**: similarity between representation structures
