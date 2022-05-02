@@ -49,3 +49,7 @@ There are various types of similarity:
 1. **Semantic**: conceptual similarity between the target problem an the source case
 2. **Pragmatic**: similarity of external factors such as goals
 3. **Structural**: similarity between representation structures
+
+## Analogical Mapping
+
+The key for analogical mapping is to look at deep relationships between concepts within a domain rather than looking for superficial relationships. By examining higher order relationships in the source case would allow an agent to map those relationships to the target problem.
