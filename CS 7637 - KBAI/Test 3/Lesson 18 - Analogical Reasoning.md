@@ -53,3 +53,7 @@ There are various types of similarity:
 ## Analogical Mapping
 
 The key for analogical mapping is to look at deep relationships between concepts within a domain rather than looking for superficial relationships. By examining higher order relationships in the source case would allow an agent to map those relationships to the target problem.
+
+## Analogical Transfer
+
+Once an agent understand the mapping between the source case and the target problem the agent could also apply the solution from the source case to the target problem though a strategy transfer. Through this transfer an agent applies abstracted patterns from the source case to the target problem.
