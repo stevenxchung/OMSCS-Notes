@@ -57,3 +57,13 @@ The key for analogical mapping is to look at deep relationships between concepts
 ## Analogical Transfer
 
 Once an agent understand the mapping between the source case and the target problem the agent could also apply the solution from the source case to the target problem though a strategy transfer. Through this transfer an agent applies abstracted patterns from the source case to the target problem.
+
+## Advanced And Open Issues In Analogy
+
+There are several of advanced topics which have open issues in AI analogy:
+
+- Common vocabulary
+- Abstraction and transformation
+- Compound and compositional analogies
+- Visuospatial analogies
+- Conceptual combination
