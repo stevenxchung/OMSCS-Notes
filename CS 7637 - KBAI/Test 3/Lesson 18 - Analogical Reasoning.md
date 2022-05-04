@@ -67,3 +67,19 @@ There are several of advanced topics which have open issues in AI analogy:
 - Compound and compositional analogies
 - Visuospatial analogies
 - Conceptual combination
+
+## Section Quizzes
+
+### Similarity Ratings Quiz
+
+> A woman is climbing a ladder
+
+_Which of the situations below is most similar to the situation above_?
+
+1. 2
+2. 3
+3. 6
+4. 4
+5. 7
+6. 1
+7. 5
