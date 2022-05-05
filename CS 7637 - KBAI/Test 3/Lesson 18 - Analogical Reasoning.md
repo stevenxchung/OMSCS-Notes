@@ -83,3 +83,17 @@ _Which of the situations below is most similar to the situation above_?
 5. 7
 6. 1
 7. 5
+
+### Analogical Retrieval I Quiz
+
+> A woman is climbing a ladder
+
+_Mark whether each situation has deep similarity, superficial similarity, both, or neither with the situation above_.
+
+1. Deep and superficial
+2. Deep
+3. Superficial
+4. Deep
+5. Neither
+6. Deep and superficial
+7. Deep
