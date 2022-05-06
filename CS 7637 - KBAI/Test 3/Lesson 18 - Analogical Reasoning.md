@@ -97,3 +97,11 @@ _Mark whether each situation has deep similarity, superficial similarity, both, 
 5. Neither
 6. Deep and superficial
 7. Deep
+
+### Analogical Retrieval II Quiz
+
+_What are the deep similarities between these two models (given)_?
+
+- Something revolves around something else
+- A force exists between two objects
+- Two objects attract each other
