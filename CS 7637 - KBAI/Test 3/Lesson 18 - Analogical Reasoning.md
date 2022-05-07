@@ -105,3 +105,10 @@ _What are the deep similarities between these two models (given)_?
 - Something revolves around something else
 - A force exists between two objects
 - Two objects attract each other
+
+### Analogical Mapping Quiz
+
+_How would you map the solar system to the atomic structure_?
+
+- Sun would map to a nucleus
+- Planet would map to an electron
