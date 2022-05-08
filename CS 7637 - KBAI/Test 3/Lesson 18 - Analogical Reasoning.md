@@ -112,3 +112,11 @@ _How would you map the solar system to the atomic structure_?
 
 - Sun would map to a nucleus
 - Planet would map to an electron
+
+### Analogical Transfer Quiz
+
+_What would be transferred into the atomic structure model_?
+
+- Nucleus has mass
+- Electron has mass
+- Nucleus's mass greater than electron's mass
