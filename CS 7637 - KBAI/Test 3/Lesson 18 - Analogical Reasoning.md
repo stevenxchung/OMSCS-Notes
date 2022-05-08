@@ -120,3 +120,12 @@ _What would be transferred into the atomic structure model_?
 - Nucleus has mass
 - Electron has mass
 - Nucleus's mass greater than electron's mass
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Cross domain analogy is needed in order for an agent to understand a problem in terms of a family of problems and transfer abstract relationship knowledge from one domain to another
+- There are many types of relationships on different levels, we think about relationships between objects, features, and values to be on the superficial level whereas relationships of relationships are on a deeper level
+- Deep relationships allow an agent to correctly retrieve and map a source case to a target problem such that a strategy could be applied to the target problem
+- Analogy is often thought to be a core process of cognition
