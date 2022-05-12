@@ -21,3 +21,16 @@ Version spaces always have a general model and a specific model attached to the 
 - **Specialized model progression**: as more _positive_ examples are given, the descriptions of this model become more _generalized_
 
 We could observe then that generalized and specialized models must converge at some point where an ideal model exists.
+
+## Version Spaces Algorithm
+
+The algorithm for version spaces could be summarized as follows:
+
+- For each example:
+  - If the example is _positive_:
+    - _Generalize_ all _specific_ models to include it
+    - Prune away _general_ models that cannot include it
+  - If the example is _negative_:
+    - _Specialize_ all general models to include it
+    - Prune away _specific_ models that cannot include it
+  - Prune away any models _subsumed_ by other models
