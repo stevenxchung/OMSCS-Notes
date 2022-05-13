@@ -34,3 +34,12 @@ The algorithm for version spaces could be summarized as follows:
     - _Specialize_ all general models to include it
     - Prune away _specific_ models that cannot include it
   - Prune away any models _subsumed_ by other models
+
+## Identification Trees
+
+To build more efficient and optimal classification trees we could create a tree where attributes are _carefully_ selected such that examples could be separated out to their own branch. This technique to use classification trees to find examples is called _decision tree learning_. However, the tradeoff is that we need to know all the examples in order to create such a tree.
+
+There are some differences between decision trees and discrimination trees (discussed in incremental learning):
+
+- Decision trees are more optimal classification trees but we need all examples upfront
+- Discrimination trees are sub-optimal trees but we can use them to learn incrementally
