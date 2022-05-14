@@ -43,3 +43,12 @@ There are some differences between decision trees and discrimination trees (disc
 
 - Decision trees are more optimal classification trees but we need all examples upfront
 - Discrimination trees are sub-optimal trees but we can use them to learn incrementally
+
+## Section Quizzes
+
+### Version Spaces I Quiz
+
+_What would the initial general and specific models be (based on given frame)_?
+
+- General model has `any` for all
+- Specific model includes everything in the given frame
