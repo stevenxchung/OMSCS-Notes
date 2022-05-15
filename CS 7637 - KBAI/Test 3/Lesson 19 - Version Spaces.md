@@ -52,3 +52,9 @@ _What would the initial general and specific models be (based on given frame)_?
 
 - General model has `any` for all
 - Specific model includes everything in the given frame
+
+### Version Spaces II Quiz
+
+_Based on this example (given), would we generalize or specialize_?
+
+We should generalize since it is a positive example.
