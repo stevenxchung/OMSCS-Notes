@@ -58,3 +58,13 @@ _What would the initial general and specific models be (based on given frame)_?
 _Based on this example (given), would we generalize or specialize_?
 
 We should generalize since it is a positive example.
+
+### Version Spaces III Quiz
+
+_After generalizing, what will the general model be_?
+
+1. Kim's
+2. Any
+3. Friday
+4. Cheap
+5. No
