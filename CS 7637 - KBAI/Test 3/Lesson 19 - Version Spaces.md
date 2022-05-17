@@ -68,3 +68,9 @@ _After generalizing, what will the general model be_?
 3. Friday
 4. Cheap
 5. No
+
+### Version Spaces IV Quiz
+
+_Based on this example (given), would we generalize or specialize_?
+
+We should specialize since it is a negative example.
