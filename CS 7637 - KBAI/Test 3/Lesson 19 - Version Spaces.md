@@ -74,3 +74,13 @@ _After generalizing, what will the general model be_?
 _Based on this example (given), would we generalize or specialize_?
 
 We should specialize since it is a negative example.
+
+### Version Spaces V Quiz
+
+_How many potential general models will we have after specializing based on this case (given) and pruning_?
+
+Possibly 3 since we can specialize for:
+
+- Kim's
+- Breakfast
+- Friday
