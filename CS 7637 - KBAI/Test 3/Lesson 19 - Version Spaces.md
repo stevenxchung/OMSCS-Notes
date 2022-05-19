@@ -84,3 +84,13 @@ Possibly 3 since we can specialize for:
 - Kim's
 - Breakfast
 - Friday
+
+### Version Spaces VI Quiz
+
+_What model did you converge on_?
+
+1. Kim's
+2. Any
+3. Any
+4. Cheap
+5. No
