@@ -94,3 +94,11 @@ _What model did you converge on_?
 3. Any
 4. Cheap
 5. No
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Version spaces are a technique that allows convergence to the right level of abstraction
+- Version spaces are related to the concept of cognitive flexibility. This flexibility occurs when the agent has multiple characterizations or perspectives on the same concept. In version spaces, an agent has several possible definitions for a concept that converges over time
+- An alternative view to version spaces is to start with a generalized version of a concept and then allow the world to give us feedback to refine our definition of a concept
