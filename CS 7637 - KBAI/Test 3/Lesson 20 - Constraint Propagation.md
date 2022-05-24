@@ -18,3 +18,11 @@ In this lesson we will talk about _constraint propagation_ which is a general pu
 _Which of these wireframes depicts a 3D figure that could exist in the real world_?
 
 The first, third, fifth, and sixth figures likely exist in the real world.
+
+### Gibberish Sentences Quiz
+
+_Which of these sentences are grammatically correct_?
+
+- Colorless green ideas sleep furiously
+- Wall decor notifies business cards of nonsensical whims
+- Tuesday brought a sharp-edged suite of pumpernickel
