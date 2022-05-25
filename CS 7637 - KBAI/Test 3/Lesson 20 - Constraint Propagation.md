@@ -26,3 +26,15 @@ _Which of these sentences are grammatically correct_?
 - Colorless green ideas sleep furiously
 - Wall decor notifies business cards of nonsensical whims
 - Tuesday brought a sharp-edged suite of pumpernickel
+
+### Assembling The Cube I Quiz
+
+_Label each intersection according to the applicable constraint on the right (given)_.
+
+1. L
+2. W
+3. L
+4. Y
+5. W
+6. W
+7. L
