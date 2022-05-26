@@ -38,3 +38,10 @@ _Label each intersection according to the applicable constraint on the right (gi
 5. W
 6. W
 7. L
+
+### Assembling The Cube II Quiz
+
+_Please fill in the blanks for the corresponding line according to the constraint on the right below (given)_.
+
+- Blades: 1, 3-5, 8, 9
+- Folds: 2, 6, 7
