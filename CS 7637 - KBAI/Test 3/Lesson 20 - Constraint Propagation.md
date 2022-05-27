@@ -45,3 +45,10 @@ _Please fill in the blanks for the corresponding line according to the constrain
 
 - Blades: 1, 3-5, 8, 9
 - Folds: 2, 6, 7
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Constraint propagation is a very generalized method like means-ends analysis and it allows us to use our knowledge of the world to make sense of concepts
+- Constraint propagation works by assigning values to variables such that a problem satisfies constraints
