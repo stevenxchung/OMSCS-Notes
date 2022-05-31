@@ -15,3 +15,13 @@ Design is very broad, open ended, and undefined. In problem solving, typically t
 ## Defining Configuration
 
 **Configuration** is a problem solving activity that assigns values to variables to satisfy constraints.
+
+## The Configuration Process
+
+The configuration process is as follows:
+
+1. **Specification space**: which provides specification to structure mapping and receives additional specifications if arrangement model evolves
+2. **Abstract and partial solutions**: the beginning state when solutioning
+3. **Solution refinement and expansion**: includes pulling abstraction and component hierarchy from the configuration space
+4. **Expanded and refined solutions**: the end state of solutioning
+5. **Arrangement model**: the output of the configuration process which could also be refined
