@@ -25,3 +25,9 @@ The configuration process is as follows:
 3. **Solution refinement and expansion**: includes pulling abstraction and component hierarchy from the configuration space
 4. **Expanded and refined solutions**: the end state of solutioning
 5. **Arrangement model**: the output of the configuration process which could also be refined
+
+## Connection To Classification
+
+Classification and configuration are both hierarchical. Configuration leverages classification's notion of prototype concepts.
+
+We use _classification_ to make sense of the world by mapping combinations of percepts equal to its process. We use _configuration_ to act on the world by designing actions. So while _classification_ is a way to make sense of the world, _configuration_ is a way of creating the world.
