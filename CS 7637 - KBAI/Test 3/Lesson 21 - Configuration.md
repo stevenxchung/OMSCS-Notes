@@ -31,3 +31,7 @@ The configuration process is as follows:
 Classification and configuration are both hierarchical. Configuration leverages classification's notion of prototype concepts.
 
 We use _classification_ to make sense of the world by mapping combinations of percepts equal to its process. We use _configuration_ to act on the world by designing actions. So while _classification_ is a way to make sense of the world, _configuration_ is a way of creating the world.
+
+## Contrast With Case-based Reasoning
+
+_Configuration_ suggests starting with a prototype concept and assigning values to variables. _Case-based reasoning_ suggests starting from a specific chair and tweaking it as needed.
