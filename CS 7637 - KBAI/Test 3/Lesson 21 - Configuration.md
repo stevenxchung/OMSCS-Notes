@@ -35,3 +35,7 @@ We use _classification_ to make sense of the world by mapping combinations of pe
 ## Contrast With Case-based Reasoning
 
 _Configuration_ suggests starting with a prototype concept and assigning values to variables. _Case-based reasoning_ suggests starting from a specific chair and tweaking it as needed.
+
+## Connection To Planning
+
+The result of a planning task can lead to a prototype that can subsequently be configured for similar problems with differing constraints.
