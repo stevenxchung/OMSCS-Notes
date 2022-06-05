@@ -39,3 +39,13 @@ _Configuration_ suggests starting with a prototype concept and assigning values 
 ## Connection To Planning
 
 The result of a planning task can lead to a prototype that can subsequently be configured for similar problems with differing constraints.
+
+## Section Quizzes
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Configuration is a routine design that occurs every day
+- Configuration is a task that could be addressed by many methods (e.g., case-based reasoning, planning refinement, generate and test, etc.)
+- The configuration process usually begins in the specification space and outputs an an _arrangement model_ in the configuration space through iterations of solutioning
