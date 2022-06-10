@@ -28,3 +28,13 @@ There are several problems with diagnosis however:
 5. Data points may interact
 
 Point 5 is difficult to account for in practice so it is useful to shift from a sole classification approach to diagnosis to an abduction approach.
+
+## Deduction - Induction - Abduction
+
+Below highlights the steps for deduction, induction, and abduction:
+
+1. **Deduction**: given the rule and the cause, deduce the effect (Modus Pones)
+2. **Induction**: given a cause and an effect, induce a rule
+3. **Abduction**: given a rule and an effect, abduce a cause (diagnosis)
+
+While deduction is _truth preserving_, induction and abduction are not.
