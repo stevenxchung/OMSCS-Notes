@@ -38,3 +38,11 @@ Below highlights the steps for deduction, induction, and abduction:
 3. **Abduction**: given a rule and an effect, abduce a cause (diagnosis)
 
 While deduction is _truth preserving_, induction and abduction are not.
+
+## Criteria For Choosing A Hypothesis
+
+Below are criteria for choosing a hypothesis
+
+1. Hypothesis must cover as much of the data as possible
+2. The smallest number of hypothesis ought to be used
+3. Some hypotheses may be more likely than others
