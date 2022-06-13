@@ -50,3 +50,11 @@ Below are criteria for choosing a hypothesis
 ## Completing The Process
 
 To complete the diagnosis process an agent would need to transfer the hypothesis from the _hypothesis space_ and select the proper treatment (action) in the _treatment space_. Depending on the results of the treatment, the data gained from treatment would be fed into the _data space_ and thus the process begins again.
+
+## Section Quizzes
+
+### Diagnosing Illness Quiz
+
+_What illness (or set of illnesses) would you use to diagnose this patient (given symptoms)_?
+
+Thetadesis: Elevated B, Reduced C, Reduced H
