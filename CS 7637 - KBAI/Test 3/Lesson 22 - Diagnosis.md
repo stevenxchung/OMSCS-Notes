@@ -58,3 +58,10 @@ To complete the diagnosis process an agent would need to transfer the hypothesis
 _What illness (or set of illnesses) would you use to diagnose this patient (given symptoms)_?
 
 Thetadesis: Elevated B, Reduced C, Reduced H
+
+### Diagnosis As Abduction Quiz
+
+_What illness (or set of illnesses) would you use to diagnose this patient (given symptoms)_?
+
+- Betatosis: Elevated B, Reduced C, Elevated E, Reduced H
+- Zetad: Elevated B, Reduced C, Reduced E, Reduced F
