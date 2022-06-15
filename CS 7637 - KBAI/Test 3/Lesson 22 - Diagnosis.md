@@ -65,3 +65,11 @@ _What illness (or set of illnesses) would you use to diagnose this patient (give
 
 - Betatosis: Elevated B, Reduced C, Elevated E, Reduced H
 - Zetad: Elevated B, Reduced C, Reduced E, Reduced F
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Diagnosis occurs whenever our expectations are violated such that we could determine the cause
+- Diagnosis is a task which we could use several methods to address (e.g., case-based reasoning, etc.)
+- Diagnosis is a very complicated classification task which may be untangled with the use of deduction, induction, or abduction
