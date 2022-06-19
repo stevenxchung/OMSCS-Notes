@@ -28,3 +28,16 @@ Generally, errors for agents may lie in:
 3. Architecture
 
 In this class, we will be focusing primarily on errors in _classification knowledge_.
+
+## Error Detection Algorithm
+
+The error detection pseudo-code may be as follows:
+
+1. To find suspicious _true-success_ relations:
+   - Intersect all _true_ successes (⋂T)
+   - Union all _false_ successes (⋃F)
+   - Remove assertions in union form intersection (⋂T - ⋃F)
+2. To find suspicious _false-success_ relations:
+   - Intersect all _false_ successes (⋂F)
+   - Union all _true_ successes (⋃T)
+   - Remove assertions in union form intersection (⋂F - ⋃T)
