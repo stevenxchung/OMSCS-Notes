@@ -41,3 +41,7 @@ The error detection pseudo-code may be as follows:
    - Intersect all _false_ successes (⋂F)
    - Union all _true_ successes (⋃T)
    - Remove assertions in union form intersection (⋂F - ⋃T)
+
+## Explanation-free Repair
+
+While classification is ubiquitous in many schools of AI, _explanation_ is a key characteristic of KBAI. Explanation leads to deeper learning because it explains why certain features are important for the concept definition.
