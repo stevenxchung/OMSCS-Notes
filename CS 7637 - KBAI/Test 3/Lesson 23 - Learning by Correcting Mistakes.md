@@ -56,3 +56,15 @@ When we discussed incremental concept learning we covered techniques for learnin
 Learning by correcting mistakes views learning as a problem solving activity. This type of learning is closely intertwined with memory, reasoning, action, and feedback from the world.
 
 Referring back to the cognitive model, the metacognition module also includes memory, reasoning, and learning as seen in the deliberation module. Metacognition will use these sub-processes to _fix_ errors in the deliberation module. In this view, metacognition could be said to allow an agent to _think_ about thinking.
+
+## Section Quizzes
+
+### Identifying A Cup
+
+_Which of these objects are cups_?
+
+The second, fourth, and sixth images are cups.
+
+_Which of these objects meet our definition of a cup_?
+
+All except the third image.
