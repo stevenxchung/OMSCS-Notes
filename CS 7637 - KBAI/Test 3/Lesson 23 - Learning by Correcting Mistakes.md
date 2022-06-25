@@ -68,3 +68,9 @@ The second, fourth, and sixth images are cups.
 _Which of these objects meet our definition of a cup_?
 
 All except the third image.
+
+### Correcting The Mistake
+
+_Is this a good way to fix this error (provided)_?
+
+No, because it will cause incorrect decisions about other objects.
