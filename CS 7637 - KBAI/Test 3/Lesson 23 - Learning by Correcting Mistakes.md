@@ -74,3 +74,11 @@ All except the third image.
 _Is this a good way to fix this error (provided)_?
 
 No, because it will cause incorrect decisions about other objects.
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Humans are rarely passive learners - we learn as active participants in the learning process
+- Similarly, agents may use knowledge and reasoning to make sense of a video for example. This allows for generating expectations. However, some expectations may be violated and so the agent may try to generate an explanation for these errors in its knowledge and reasoning
+- Metacognition from the cognitive model is really a module that allows an agent to _think_ about thinking i.e., it has its own sub-process like memory, reasoning, and learning to fix errors which may have occurred during a deliberation process when generating outputs
