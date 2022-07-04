@@ -7,3 +7,11 @@ In this lesson we discuss **meta-reasoning** which is thinking about thinking (o
 3. Strategy selection and integration
 4. Meta-meta reasoning?
 5. Goal-based autonomy
+
+## Mistakes In Reasoning And Learning
+
+Meta-reasoning allows an agent to explore the following:
+
+1. How was this particular knowledge learned?
+2. What was wrong in the learning process that led to that particular error?
+3. How to fix the learning process such that the same mistakes are not made again?
