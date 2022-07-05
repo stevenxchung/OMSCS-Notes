@@ -21,3 +21,10 @@ Meta-reasoning allows an agent to explore the following:
 While an agent might discover an error (_incorrectness_) in the knowledge, reasoning, or learning, the agent should also consider gaps (_incompleteness_) in the knowledge, reasoning, or learning.
 
 Gaps allow an agent to trigger a search (or spawn a goal) to find the link which will enable connection between concepts. The ability to spawn learning goals and find a way to achieve learning goals is another aspect of meta-cognition.
+
+## The Blurred Line Between Cognition And Metacognition
+
+The lines between deliberation (cognition) and metacognition are actually quite blurred as a considerable amount of processes overlap. In terms of KBAI, we should not be overly concerned about whether some processes occur in the deliberation or metacognition space. Instead, we should focus on:
+
+1. What is the content that is needed for an agent to carry out a process?
+2. What is the process that the agent needs to carry out?
