@@ -28,3 +28,29 @@ The lines between deliberation (cognition) and metacognition are actually quite 
 
 1. What is the content that is needed for an agent to carry out a process?
 2. What is the process that the agent needs to carry out?
+
+## Strategy Selection
+
+**Strategy selection** is facilitated by metacognition. Recall that some examples of reasoning strategies or methods are:
+
+- Case-based reasoning
+- Analogical reasoning
+- Constraint propagation
+- Planning
+- Generate and test
+- Problem reduction
+- Means-ends analysis
+
+Also recall that some examples of learning strategies or methods are:
+
+- Explanation-based learning
+- Learning by recording cases
+- Incremental concept learning
+- Classification
+- Version spaces
+
+Given a problem, the agent's metacognition selects a strategy based on the following criteria:
+
+1. The agent will select an method based on knowledge of the world
+2. If knowledge exists for competing methods, the agent must select the method which satisfies the most criteria for the given problem
+3. The agent may evaluate the quality of solutions as well to select the proper strategy
