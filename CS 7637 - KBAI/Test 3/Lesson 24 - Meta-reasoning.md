@@ -54,3 +54,7 @@ Given a problem, the agent's metacognition selects a strategy based on the follo
 1. The agent will select an method based on knowledge of the world
 2. If knowledge exists for competing methods, the agent must select the method which satisfies the most criteria for the given problem
 3. The agent may evaluate the quality of solutions as well to select the proper strategy
+
+## Strategy Integration
+
+**Strategy integration** allows an agent to shift to another strategy when needed as the given problem evolves.
