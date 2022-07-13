@@ -58,3 +58,13 @@ Given a problem, the agent's metacognition selects a strategy based on the follo
 ## Strategy Integration
 
 **Strategy integration** allows an agent to shift to another strategy when needed as the given problem evolves.
+
+## Process Of Meta-reasoning
+
+Metacognition could be used to:
+
+1. Fix errors in knowledge, reasoning, or learning
+2. Fill gaps in knowledge, reasoning, or learning
+3. Strategy integration
+
+However, what is the process or strategy that metacognition uses? Metacognition can use the **same** processes and strategies that deliberation uses. In this way, an agent can achieve _goal-based autonomy_ as metacognition is able to provide continuous robustness and flexibility by allowing an agent to achieve new goals.
