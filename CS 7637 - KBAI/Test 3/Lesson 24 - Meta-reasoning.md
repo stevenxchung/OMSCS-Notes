@@ -68,3 +68,11 @@ Metacognition could be used to:
 3. Strategy integration
 
 However, what is the process or strategy that metacognition uses? Metacognition can use the **same** processes and strategies that deliberation uses. In this way, an agent can achieve _goal-based autonomy_ as metacognition is able to provide continuous robustness and flexibility by allowing an agent to achieve new goals.
+
+## Section Quizzes
+
+### Meta-meta Reasoning Quiz
+
+_Is this (diagram provided) a good way to think about levels of metacognition_?
+
+No, because each level of metacognition is conceptually identical, so they are better represented as self-referential.
