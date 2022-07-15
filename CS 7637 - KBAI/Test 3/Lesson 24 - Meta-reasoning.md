@@ -76,3 +76,12 @@ However, what is the process or strategy that metacognition uses? Metacognition 
 _Is this (diagram provided) a good way to think about levels of metacognition_?
 
 No, because each level of metacognition is conceptually identical, so they are better represented as self-referential.
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Metacognition allows for goal-based autonomy and provides robustness and flexibility to agents for fixing errors and filling gaps in knowledge, reasoning, or learning, and integrating strategies to achieve new goals
+- Meta-reasoning is not simply about learning new information but learning _how to learn_
+- Meta-reasoning is about learning new reasoning strategies and integrating new information into memory structures
+- Meta-reasoning is also about creativity in tha
