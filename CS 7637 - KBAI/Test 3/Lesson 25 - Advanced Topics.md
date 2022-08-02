@@ -5,3 +5,10 @@ In this lesson we will discuss a handful of very broad topics and advanced appli
 ## Visuospatial Reasoning Introduction
 
 **Visuospatial reasoning** is concerned with reasoning about _what_ (visuo) and _where_ (spatial). Visuospatial knowledge is knowledge where causality is, at most, implicit. However, visuospatial knowledge enables inferences about causality.
+
+## Two Views Of Reasoning
+
+- Propositional representations - representations through frames
+- Analogical representations - representations through structural correspondence with the external world
+
+Humans appear to use analogical representations for mental imagery. It is not yet known how to implement mental imagery for KBAI.
