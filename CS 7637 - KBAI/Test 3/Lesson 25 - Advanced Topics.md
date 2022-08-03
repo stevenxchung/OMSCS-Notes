@@ -12,3 +12,12 @@ In this lesson we will discuss a handful of very broad topics and advanced appli
 - Analogical representations - representations through structural correspondence with the external world
 
 Humans appear to use analogical representations for mental imagery. It is not yet known how to implement mental imagery for KBAI.
+
+## Symbol Grounding Problem
+
+_Content_ refers to the content of knowledge while _encoding_ deals with the representation of knowledge. The table below highlights some differences:
+
+|          | Visuospatial                          | Verbal                                 |
+| -------- | ------------------------------------- | -------------------------------------- |
+| Content  | Appearance: what and where            | Arbitrary: driven by inferential needs |
+| Encoding | Analogical: structural correspondence | Propositional: no correspondence       |
