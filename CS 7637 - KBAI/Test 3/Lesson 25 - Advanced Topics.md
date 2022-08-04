@@ -21,3 +21,9 @@ _Content_ refers to the content of knowledge while _encoding_ deals with the rep
 | -------- | ------------------------------------- | -------------------------------------- |
 | Content  | Appearance: what and where            | Arbitrary: driven by inferential needs |
 | Encoding | Analogical: structural correspondence | Propositional: no correspondence       |
+
+## Systems Thinking Introduction
+
+The world consists of many different kinds of systems. A system is composed of a heterogenous interacting components. The interaction between components lead to processes of different kinds and these processes can occur at many different levels of abstraction. Consequently, **systems thinking** is reasoning about systems with numerous components and processes at multiple, potentially invisible, levels of abstraction.
+
+Systems thinking allows us to understand the invisible levels of abstraction e.g., bees populations are declining and pesticide use is increasing so the understanding is that the pesticide is toxic to the bees.
