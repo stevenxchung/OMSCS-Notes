@@ -27,3 +27,7 @@ _Content_ refers to the content of knowledge while _encoding_ deals with the rep
 The world consists of many different kinds of systems. A system is composed of a heterogenous interacting components. The interaction between components lead to processes of different kinds and these processes can occur at many different levels of abstraction. Consequently, **systems thinking** is reasoning about systems with numerous components and processes at multiple, potentially invisible, levels of abstraction.
 
 Systems thinking allows us to understand the invisible levels of abstraction e.g., bees populations are declining and pesticide use is increasing so the understanding is that the pesticide is toxic to the bees.
+
+## Structure, Behavior, And Function
+
+In AI, we can capture the visible levels of abstraction (structure) and invisible levels of abstraction (e.g., behavior and function) through structure, behavior, and function models. This allows capturing of visible structures and invisible causual processes.
