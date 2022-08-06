@@ -31,3 +31,7 @@ Systems thinking allows us to understand the invisible levels of abstraction e.g
 ## Structure, Behavior, And Function
 
 In AI, we can capture the visible levels of abstraction (structure) and invisible levels of abstraction (e.g., behavior and function) through structure, behavior, and function models. This allows capturing of visible structures and invisible causual processes.
+
+## Design Introduction
+
+**Design thinking** is reasoning able ill-defined, unconstrained, and open-ended problems that are situated in the world. In design thinking, the solution and problem co-evolve over time.
