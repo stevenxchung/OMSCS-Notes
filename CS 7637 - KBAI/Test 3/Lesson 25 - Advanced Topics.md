@@ -35,3 +35,17 @@ In AI, we can capture the visible levels of abstraction (structure) and invisibl
 ## Design Introduction
 
 **Design thinking** is reasoning able ill-defined, unconstrained, and open-ended problems that are situated in the world. In design thinking, the solution and problem co-evolve over time.
+
+## Creativity Introduction
+
+Some is _creative_ if it is:
+
+1. Novel
+2. Valuable
+3. Unexpected
+
+Some other processes of creativity may include:
+
+- Emergence
+- Re-representation
+- Serendipity
