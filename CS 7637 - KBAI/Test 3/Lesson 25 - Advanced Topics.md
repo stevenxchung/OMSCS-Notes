@@ -49,3 +49,7 @@ Some other processes of creativity may include:
 - Emergence
 - Re-representation
 - Serendipity
+
+## AI Ethics
+
+AI ethics pertain to our economy and society where there are hard issues and ethical implications. Much of the modern development of AI is driven by defence applications across the world. If robots are to become like humans, then what could be said about the civil rights of KBAI robots?
