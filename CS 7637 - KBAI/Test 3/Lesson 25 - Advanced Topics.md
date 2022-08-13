@@ -61,3 +61,9 @@ AI ethics pertain to our economy and society where there are hard issues and eth
 _For each of the following tasks (provided), mark the box if successful completion of a task would mean that the agent is creative_.
 
 All of the above.
+
+### Defining Creativity Quiz IV
+
+_Do you agree with David’s assessment that none of these results are creative because we can trace through the underlying process that led to them_?
+
+No, because under this definition, humans are only considered creative because we don't know how the brain works yet.
