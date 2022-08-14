@@ -67,3 +67,12 @@ All of the above.
 _Do you agree with David’s assessment that none of these results are creative because we can trace through the underlying process that led to them_?
 
 No, because under this definition, humans are only considered creative because we don't know how the brain works yet.
+
+### Final Quiz
+
+_What did you learn in this lesson_?
+
+- Researchers still are unsure how to implement mental imagery for KBAI agents even though it is agreed that humans appear to use analogical representations for mental imagery
+- Structure, behavior, and function models allow capturing of visible structures and invisible causual processes
+- Creativity is a difficult concept to define but it has to do with novelty, value, and unexpectedness of a solution
+- As AI advances, researchers and engineers should discuss ethical implications of AI solutions and ensure that all stakeholders understand risks to society
