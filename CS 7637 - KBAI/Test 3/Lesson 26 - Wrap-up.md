@@ -24,3 +24,16 @@ Also recall that intelligence is a function that maps perceptual histories into 
 - If input is a _percept_ -> output may be an _action_ based on the percept
 
 The _world_ is not just a physical world but a social world as well. Cognitive systems do not just monitor and observe the world but also inputs and outputs from other cognitive systems.
+
+## Principles Of KBAI
+
+We have covered several principles of KBAI in this course:
+
+1. **Represent, organize, and reason**: KBAI agents represent and organize knowledge into knowledge structures to guide and support reasoning
+2. Learning in KBAI agents is often incremental (KBAI agents do not learn a ton of information at once)
+3. Reasoning in KBAI is top-down as well as bottom-up
+4. KBAI agents match _methods_ to _tasks_ (as well as sub-methods to sub-tasks):
+   - **Methods**: generate and test, means-ends analysis, problem reduction production systems, case-based reasoning, planning, analogical reasoning -> - **Tasks**: configuration, diagnosis, design, meta-reasoning, creativity, classification, systems thinking
+5. KBAI agents use heuristics to find solutions that are good enough, though not necessarily optimal (due to computational tradeoffs)
+6. KBAI agents make use of reoccurring patterns in the problems they solve
+7. The architecture of KBAI agents enables reasoning, learning, and memory to support and constrain each other
