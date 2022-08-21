@@ -37,3 +37,16 @@ We have covered several principles of KBAI in this course:
 5. KBAI agents use heuristics to find solutions that are good enough, though not necessarily optimal (due to computational tradeoffs)
 6. KBAI agents make use of reoccurring patterns in the problems they solve
 7. The architecture of KBAI agents enables reasoning, learning, and memory to support and constrain each other
+
+## Current Research
+
+Below are a list of current research leveraging principles from KBAI:
+
+- _External_ to OMSCS:
+  - **CALO**: cognitive assistant that learns and organizes (the precursor to Apple's SIRI)
+  - **Cyc and OMCS**: knowledge bases of everyday common sense knowledge
+  - **Wolfram Alpha**: a computational knowledge and answer engine
+- _Internal_ to OMSCS:
+  - **VITA**: a computational model of visual thinking in autism based on RPM
+  - **Dramatis**: a computational model of suspense and drama in stories
+  - **DANE**: support for design based on analogies to natural systems
