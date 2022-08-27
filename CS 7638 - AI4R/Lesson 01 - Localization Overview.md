@@ -16,3 +16,14 @@ How might a robot determine where it is locally?
 4. If we multiply the posterior belief with the prior belief, we get a brand new posterior belief that allows the robot to localize itself
 
 This is the general idea of a [histogram filter](https://www.deepideas.net/robot-localization-histogram-filter/).
+
+## Sense And Move
+
+The localization problem can be generalized into a _sense and move_ iterative process that begins with an initial belief (initial conditions). In general, the following occur based on robot action:
+
+- When a robot _senses_ it _gains_ information
+- When a robot _moves_ it _loses_ information
+
+We may measure the information gained or lost with **entropy** (measures the amount of information in our distribution):
+
+$\sum p(x_i) * log(p(x_i)\\$
