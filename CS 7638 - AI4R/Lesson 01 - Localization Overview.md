@@ -27,3 +27,11 @@ The localization problem can be generalized into a _sense and move_ iterative pr
 We may measure the information gained or lost with **entropy** (measures the amount of information in our distribution):
 
 $\sum p(x_i) * log(p(x_i)\\$
+
+## Localization Summary
+
+What did we learn in this lesson?
+
+- Localization maintains a function over all possible places an object of interest might be where each cell has an associated probability value (_belief_)
+- The _measurement_ update function can be generalized into a _product_ followed by normalization
+- _Motion_ is a _convolution_ (for each possible location after the motion, we guess where the object of interest might have come from and collect the corresponding probabilities)
