@@ -35,3 +35,18 @@ What did we learn in this lesson?
 - Localization maintains a function over all possible places an object of interest might be where each cell has an associated probability value (_belief_)
 - The _measurement_ update function can be generalized into a _product_ followed by normalization
 - _Motion_ is a _convolution_ (for each possible location after the motion, we guess where the object of interest might have come from and collect the corresponding probabilities)
+
+## Bayes' Rule
+
+Formally, **Bayes' Rule** is as follows:
+
+$P(A_i | B) = \frac{P(B | A_i) * P(A_i)}{P(B)}\\$
+
+- Where $A, B$ are events
+- $P(A | B)$ is probability of $A$ given $B$ is true (posterior)
+- $P(B | A)$ is probability of $B$ given $A$ is true (likelihood)
+- $P(A), P(B)$ are the independent probabilities of $A$ and $B$
+
+In terms of localization, $A$ are the grid cells, and $B$ is the measurement taken by the robot. $P(B | A)$ is the measurement probability, $P(A)$ is the prior, and $P(B) = \sum P(B | A_i) * P(A_i)$.
+
+We may define a normalizer $\alpha = \sum \bar{P}(A_i | B)$ such that $P(A_i | B) = \frac{\bar{P}(A_i | B)}{\alpha}$.
