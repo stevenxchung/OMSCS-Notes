@@ -50,3 +50,15 @@ $P(A_i | B) = \frac{P(B | A_i) * P(A_i)}{P(B)}\\$
 In terms of localization, $A$ are the grid cells, and $B$ is the measurement taken by the robot. $P(B | A)$ is the measurement probability, $P(A)$ is the prior, and $P(B) = \sum P(B | A_i) * P(A_i)$.
 
 We may define a normalizer $\alpha = \sum \bar{P}(A_i | B)$ such that $P(A_i | B) = \frac{\bar{P}(A_i | B)}{\alpha}$.
+
+## Theorem Of Total Probability
+
+The theorem of total probability is as follows:
+
+$P(A) = \sum P(A \sqcap B_n)\\$
+
+- Where, $P$ is the probability
+- $A$ is any event
+- $B_n$ is a specific event
+
+In terms of motion, $P(A)$ represents the probability of being _in a specific grid cell_ after forward motion.
