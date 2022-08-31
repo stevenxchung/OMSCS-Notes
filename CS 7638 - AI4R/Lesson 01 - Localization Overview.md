@@ -62,3 +62,119 @@ $P(A) = \sum P(A \sqcap B_n)\\$
 - $B_n$ is a specific event
 
 In terms of motion, $P(A)$ represents the probability of being _in a specific grid cell_ after forward motion.
+
+## Section Quizzes
+
+### Uniform Probability Quiz
+
+_For all cells `X = 1... 5`, what is the probability of any of those `X`'s_? 1/5 or 0.2.
+
+### Probability After Sense Quiz
+
+_Fill in the blanks below based on the values provided. Each blank corresponds to the cells in order as shown in the image_.
+
+| Green | Red  | Red  | Green | Green |
+| ----- | ---- | ---- | ----- | ----- |
+| 0.04  | 0.12 | 0.12 | 0.04  | 0.04  |
+
+### Compute Sum Quiz
+
+_Input the sum of the values of the cells (provided)_. The sum is 0.36.
+
+### Normalize Distribution Quiz
+
+_Based on the instructions in the quiz intro video, normalize the distribution by dividing the value of each cell by the sum. Give your answers in the form of a fraction below corresponding to the cell in the image from the video. The sum should equal 1_.
+
+| Green | Red | Red | Green | Green |
+| ----- | --- | --- | ----- | ----- |
+| 1/9   | 1/3 | 1/3 | 1/9   | 1/9   |
+
+### Exact Motion Quiz
+
+_Enter posterior probability after a single move to the right, assuming the world is cyclic_.
+
+| Green | Red | Red | Green | Green |
+| ----- | --- | --- | ----- | ----- |
+| 1/9   | 1/3 | 1/3 | 1/9   | 1/9   |
+
+### Inexact Motion 1 Quiz
+
+_Given the initial distribution provided above (provided), input the distribution after the motion_.
+
+| X_0 | X_1 | X_2 | X_3 | X_4 |
+| --- | --- | --- | --- | --- |
+| 0   | 0   | 0.1 | .8  | 0.1 |
+
+### Inexact Motion 2 Quiz
+
+_Given the initial distribution provided above (provided), input the distribution after the motion_.
+
+| X_0 | X_1  | X_2  | X_3 | X_4 |
+| --- | ---- | ---- | --- | --- |
+| 0.4 | 0.05 | 0.05 | 0.4 | 0.1 |
+
+### Inexact Motion 3 Quiz
+
+_Given the initial distribution provided above (provided), input the distribution after the motion_.
+
+| X_0 | X_1 | X_2 | X_3 | X_4 |
+| --- | --- | --- | --- | --- |
+| 0.2 | 0.2 | 0.2 | 0.2 | 0.2 |
+
+### Limit Distribution Quiz
+
+_Given the initial distribution above (provided), suppose you run infinitely many motion steps (U = 1 to the right forever) in a cyclical world, what will be the limit, or stationary, distribution be in the end_?
+
+| X_0 | X_1 | X_2 | X_3 | X_4 |
+| --- | --- | --- | --- | --- |
+| 0.2 | 0.2 | 0.2 | 0.2 | 0.2 |
+
+### Formal Definition Of Probability 1 Quiz
+
+_Supposing x can only take two values, solve the following_:
+
+$0 \leqq P(X) \leqq 1\\$
+$P(X_1) = 0.2\\$
+$P(X_2) = ?\\$
+
+Since `P(X) = P(X1) + P(X2)`, `P(X2) = 0.8`
+
+### Formal Definition Of Probability 2 Quiz
+
+_Supposing x can only take two values, solve the following_:
+
+$0 \leqq P(X) \leqq 1\\$
+$P(X_1) = 0\\$
+$P(X_2) = ?\\$
+
+Since `P(X) = P(X1) + P(X2)`, `P(X2) = 1`
+
+### Formal Definition Of Probability 3 Quiz
+
+_What is the probability of the 5th, and final, cell grid_?
+
+$0 \leqq P(X) \leqq 1\\$
+
+| X_0 | X_1 | X_2 | X_3 | X_4 |
+| --- | --- | --- | --- | --- |
+| 0.1 | 0.1 | 0.1 | 0.1 | 0.6 |
+
+Since `P(X) = P(X_i) + ... + P(X_n)`, `P(X_n) = 0.6`
+
+### Cancer Test Quiz
+
+_Using the probabilities above (provided), calculate the probability of cancer given a positive result_.
+
+Since `P_bar(C|Pos) = P(C) * P(POS|C) = 0.0008` and `P_bar(!C|Pos) = P(!C) * P(POS|!C) = 0.0999`, recalling that the normalizer `alpha = P_bar(C|Pos) + P_bar(!C|Pos) = 0.1007`, therefore, the final answer is `P(C|Pos) = P_bar(C|Pos) / alpha = 0.0079`.
+
+### Coin Flip Quiz
+
+_Given these conditions (provided), what is the total probability of the final result being heads_?
+
+`P(H) = P(H|H) * P(H) + P(H|T) * P(T) = 0.5 * 0.5 + 0 * 0.5`
+
+### Two Coin Quiz
+
+_Presume a fair coin for which $P(H) = 0.5$ and a loaded coin for which $P(H) = 0.1$, and that you will choose one of the coins with a 50% chance of being either coin. If you flip the coin and observe heads, what is the probability that the coin you chose was fair_?
+
+Since `P_bar(F|H) = P(F) * P(H|F) = 0.25` and `P_bar(!F|H) = P(!F) * P(H|!F) = 0.05`, recalling that the normalizer `alpha = P_bar(F|H) + P_bar(!F|H) = 0.3`, therefore, the final answer is `P(C|Pos) = P_bar(F|H) / alpha = 0.833`.
