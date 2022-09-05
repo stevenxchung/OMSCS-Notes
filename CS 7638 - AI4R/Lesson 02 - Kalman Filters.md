@@ -20,3 +20,18 @@ A 1-D Gaussian is characterized by $\mu \sigma^2$ which is the estimation of the
 $f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^-\frac{(x - \mu)^2}{2\sigma^2}$
 
 The larger the variance, the more uncertain we are in our measurements.
+
+## Shifting The Mean
+
+Recall that there were two main parts for localization:
+
+1. _Measurements_ (via Bayes' Rule or a product)
+2. _Motion_ (via Total Probability or convolution)
+
+Similarly, when using Kalman Filters in robotics, the main objectives are:
+
+1. _Measurements (or update)_ (via Bayes' Rule or a product)
+2. _Predictions_ (via Total Probability or convolution)
+
+We leverage the Gaussian function to implement each of these steps.
+
