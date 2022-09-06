@@ -35,3 +35,11 @@ Similarly, when using Kalman Filters in robotics, the main objectives are:
 
 We leverage the Gaussian function to implement each of these steps.
 
+## Parameter Update
+
+Suppose we have a prior Gaussian characterized by $\mu\sigma^2$ and the _measurement_ Gaussian is characterized by $\nu r^2$. After an update the mean and variance of the new Gaussian can be determined by:
+
+- Mean of Gaussian after update: $\mu = \frac{\mu r^2 + \nu \sigma^2}{r^2 + \sigma^2}$
+- Variance of Gaussian after update: $\sigma^2 = \frac{1}{(r^-2 + \sigma^-2)}$
+
+**Note**: the variance terms in the new mean of the Gaussian after update are swapped in the numerator.
