@@ -43,3 +43,12 @@ Suppose we have a prior Gaussian characterized by $\mu\sigma^2$ and the _measure
 - Variance of Gaussian after update: $\sigma^2 = \frac{1}{(r^-2 + \sigma^-2)}$
 
 **Note**: the variance terms in the new mean of the Gaussian after update are swapped in the numerator.
+
+## Gaussian Motion
+
+For the _prediction_ step, the motion update after a _motion_ Gaussian is applied can be determined by:
+
+- Mean of Gaussian after update: $\mu = \mu + \nu$
+- Variance of Gaussian after update: $\sigma^2 = \sigma^2 + r^2$
+
+Where $\nu$ is the displacement and $r$ is the variance of the motion Gaussian.
