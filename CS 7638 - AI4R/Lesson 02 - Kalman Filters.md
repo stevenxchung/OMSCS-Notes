@@ -52,3 +52,18 @@ For the _prediction_ step, the motion update after a _motion_ Gaussian is applie
 - Variance of Gaussian after update: $\sigma^2 = \sigma^2 + r^2$
 
 Where $\nu$ is the displacement and $r$ is the variance of the motion Gaussian.
+
+## More Kalman Filters
+
+In the 2-D space, Kalman Filters can make use of multi-variable Gaussian, to predict states (e.g. position) without directly measuring hidden states (e.g., velocity). This is done by collecting observable data that helps us build a slanted Gaussian (correlated Gaussian) on the x-y plane. In this way, we are able to predict new locations with the following relation:
+
+$x = x + \dot{x} \Delta t$
+
+Where $\dot{x}$ is the hidden state (velocity). Note that this is exactly one of [Newton's equations of motion](https://en.wikipedia.org/wiki/Equations_of_motion) for position.
+
+The variable of Kalman Filters (or states) separate into two categories:
+
+1. **Observables**: states we _can_ directly observe (e.g., the location in the classroom example)
+2. **Hidden**: states we _cannot_ directly observe (e.g., the velocity in the classroom example)
+
+Because observable states can interact with hidden states, we can gather information about the hidden states.
