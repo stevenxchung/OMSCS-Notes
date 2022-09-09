@@ -67,3 +67,13 @@ The variable of Kalman Filters (or states) separate into two categories:
 2. **Hidden**: states we _cannot_ directly observe (e.g., the velocity in the classroom example)
 
 Because observable states can interact with hidden states, we can gather information about the hidden states.
+
+## Kalman Filter Design
+
+To design a Kalman Filter first determine:
+
+1. The state via state functions (matrix denoted by $F$)
+2. The covariance via measurement functions (matrix denoted by $H$)
+
+Then, use the equations found on the [Kalman Filter Wikipedia](https://en.wikipedia.org/wiki/Kalman_filter) for the _update_ and _prediction_ step.
+
