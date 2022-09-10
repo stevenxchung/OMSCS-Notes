@@ -77,3 +77,95 @@ To design a Kalman Filter first determine:
 
 Then, use the equations found on the [Kalman Filter Wikipedia](https://en.wikipedia.org/wiki/Kalman_filter) for the _update_ and _prediction_ step.
 
+## Section Quizzes
+
+### Tracking Intro Quiz
+
+_At which position (provided) will the car be located at $t = 4$_? B.
+
+### Gaussian Intro Quiz
+
+_Which functions do you believe are Gaussian_? Only images 1, 2, and 4 are Gaussian distribution.
+
+### Variance Comparison Quiz
+
+_Relative to one another, what do you believe the variance is for each Gaussian shown (provided)_?
+
+- A: medium
+- B: small
+- C: large
+
+### Preferred Gaussian Quiz
+
+_Which Gaussian (provided) is preferred_? The third option since the variance is smallest so uncertainty is smallest.
+
+### Evaluate Gaussian Quiz
+
+_Given the above (provided), what is $f(x)$_? The answer is approximately 0.12.
+
+### Measurement and Motion 1 Quiz
+
+_Select which applies to measurement and motion_.
+
+|             | Convolution | Product |
+| ----------- | ----------- | ------- |
+| Measurement | False       | True    |
+| Motion      | True        | False   |
+
+### Measurement and Motion 2 Quiz
+
+_Select which applies to measurement and motion_.
+
+|             | Bayes' Rule | Total Probability |
+| ----------- | ----------- | ----------------- |
+| Measurement | True        | False             |
+| Motion      | False       | True              |
+
+### Shifting The Mean Quiz
+
+_What is the new mean of the subsequent Gaussian (image provided)_? B, the new mean has to be between the two Gaussians.
+
+### Predicting The Peak Quiz
+
+_The green line (provided) represents the mean established from the previous quiz answer and discussed in the intro video to this quiz. What do you believe the width of the new Gaussian would be after multiplying the previous two Gaussians_? Narrower than both Gaussians since we gain information from the prior Gaussian.
+
+### Parameter Update 1 Quiz
+
+_Determine the value of $\mu$ and $\sigma^2$ after update_.
+
+- Mean of Gaussian after update: 11
+- Variance of Gaussian after update: 2
+
+### Parameter Update 2 Quiz
+
+_Determine the value of $\mu$ and $\sigma^2$ after update_.
+
+- Mean of Gaussian after update: 11
+- Variance of Gaussian after update: 1.6
+
+### Separated Gaussian 1 Quiz
+
+_At which location would the new mean be between these Gaussians (provided)_? B, it should be in the middle since the variances are the same.
+
+### Separated Gaussian 2 Quiz
+
+_Which of the options would represent the new Gaussian made from the two separated Gaussians (provided)_? A, it should be narrower and have a higher peak since we are combining information.
+
+### Gaussian Motion Quiz
+
+_Determine the mean and variance of the new Gaussian after a motion Gaussian has been applied_.
+
+- Mean: 18
+- Variance: 10
+
+### Kalman Prediction Quiz
+
+_At which of the three marked locations (provided) do you expect the object to be located at $t = 3$_? B.
+
+## Kalman Filter Prediction 1 Quiz
+
+_Where would the prediction be one time step later starting at location 1 and velocity 1_? B, since we started at location 1 and have a velocity of 1.
+
+## Kalman Filter Prediction 2 Quiz
+
+_Where would the prediction be one time step later starting at location 1 and velocity 2_? B, since we started at location 1 and have a velocity of 2.
