@@ -18,3 +18,8 @@ Some characteristics of particle filters include:
 However, the biggest key advantage is that they are easy to program.
 
 In application, particle filters may be represented as dots which counts as a single guess as to where a robot is (consists of x and y coordinates and heading direction). Overall, there may be several thousand dots (discrete guesses) which comprise of a filter (approximate representation of the _posterior_ for the robot). In order for the filter to work, only the particles consistent with the measurements are to be kept (thereby localizing the robot).
+
+## Importance Weight
+
+The **importance weight** may be calculated from comparing the actual measurement to the predicted measurement. The larger the weight, the more important the particle. The probability of _survival_ for the particles will depend on the importance weight. Particles with high weight tend to cluster around regions of higher posterior probability.
+
