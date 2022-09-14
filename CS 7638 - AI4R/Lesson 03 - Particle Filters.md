@@ -23,3 +23,6 @@ In application, particle filters may be represented as dots which counts as a si
 
 The **importance weight** may be calculated from comparing the actual measurement to the predicted measurement. The larger the weight, the more important the particle. The probability of _survival_ for the particles will depend on the importance weight. Particles with high weight tend to cluster around regions of higher posterior probability.
 
+## Resampling
+
+**Resampling** is an activity that takes $n$ particles and creates a new set with those $n$ particles $m$ times. After $m$ counts of resampling, only particles with high importance weights are kept.
