@@ -26,3 +26,24 @@ The **importance weight** may be calculated from comparing the actual measuremen
 ## Resampling
 
 **Resampling** is an activity that takes $n$ particles and creates a new set with those $n$ particles $m$ times. After $m$ counts of resampling, only particles with high importance weights are kept.
+
+## Resampling Wheel
+
+One way to go about resampling particles from one set to another is through a resampling wheel:
+
+```python
+p3 = []
+index = int(random.random() * N)
+beta = 0
+mw = max(w)
+for i in range(N):
+    beta += random.random() * 2 * mw
+    while beta > w[index]:
+        beta -= w[index]
+        index = (index + 1) % N
+    p3.append(p[index])
+
+p = p3
+```
+
+In this implementation, the particles which occupy more space in the array (since their weights are higher) will have greater chance of being selected.
