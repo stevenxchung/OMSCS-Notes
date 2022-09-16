@@ -47,3 +47,22 @@ p = p3
 ```
 
 In this implementation, the particles which occupy more space in the array (since their weights are higher) will have greater chance of being selected.
+
+## Filters
+
+Recall that filters have two main parts in AI for robotics:
+
+1. _Measurement_ updates
+2. _Motion_ updates
+
+In terms of particle filters, the measurement update (resampling process) may be formalized as:
+
+$P(X|Z) \propto P(Z|X) P(X)\\$
+
+Where $P(Z|X)$ represents the importance weights and $P(X)$ represents the particles.
+
+Similarly, the motion updates may be given by:
+
+$P(X') = \sum P(X'|X) P(X)\\$
+
+Where $P(X'|X)$ represents the samples and $P(X)$ represents the particles.
