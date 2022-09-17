@@ -66,3 +66,58 @@ Similarly, the motion updates may be given by:
 $P(X') = \sum P(X'|X) P(X)\\$
 
 Where $P(X'|X)$ represents the samples and $P(X)$ represents the particles.
+
+## Section Quizzes
+
+### State Space Quiz
+
+1. _Are Histogram Filters discrete or continuous_? Discrete
+2. _Are Kalman Filters discrete or continuous_? Continuous
+
+### Belief Modality Quiz
+
+1. _Can a Histogram Filter be multi-modal, or just unimodal_? Can be multi-modal
+2. _Can a Kalman Filter be multi-modal, or just unimodal_? Cannot be multi-modal (just unimodal)
+
+### Efficiency Quiz
+
+1. _In regards to Histogram Filters, when it comes to scaling in the number of dimensions of the state space, which of the following is the amount of storage that must be assigned_? Exponential
+2. _In regards to Kalman Filters, when it comes to scaling in the number of dimensions of the state space, which of the following is the amount of storage that must be assigned_? Quadratic
+
+### Exact Or Approximate Quiz
+
+1. _When applied to robots, do you believe the Histogram Filter is exact or approximate_? Approximate
+2. _When applied to robots, do you believe the Kalman Filter is exact or approximate_? Approximate
+
+### Resampling Quiz
+
+_Suppose you have 5 particles, $P_1 ... P_5$, with the following importance weights: $W_1 ... W_5$ equals 0.6, 1.2, 2.4, 0.6, and 1.2 respectively. When resampling, if you randomly draw a particle in accordance with the importance weights, calculate the probability of drawing each particle_.
+
+1. $P(P_1) = (0.6/6) = 0.1$
+2. $P(P_2) = (1.2/6) = 0.2$
+3. $P(P_3) = (2.4/6) = 0.4$
+4. $P(P_4) = (0.6/6) = 0.1$
+5. $P(P_5) = (1.2/6) = 0.2$
+
+### Never Sampled 1 Quiz
+
+_With $N = 5$ and given these alpha values (provided), is it possible that $P_1$ is never sampled_? Yes.
+
+### Never Sampled 2 Quiz
+
+_With $N = 5$ and given these alpha values (provided), is it possible that $P_3$ is never sampled_? Yes.
+
+### Never Sampled 3 Quiz
+
+_What is the probability that $P_3$ is never sampled after $N = 5$ resamples_? The probability that $P_3$ is never sampled after 5 resamples is $P(\lnot P_3) = 0.6^N = 0.6^5 = 0.0777$.
+
+### Orientation 1 Quiz
+
+_Will orientation never play a role_? No, orientation eventually will matter
+
+### Filters Quiz
+
+_Which filters did Sebastian use in his job talk at Stanford_?
+
+- Histogram filters
+- Particle filters
