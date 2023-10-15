@@ -10,7 +10,7 @@ Topic: mental models and metaphors.
 
 One of the most common ways to learn and adapt is through _physical analogy_ or _metaphor_. Physical analogies and metaphors are examples of the more general concept of _mental models_, also known as _conceptual models_.
 
-- **Implementation models** - are systems that impose on the user a set of interactions that follow the inner workings of an application; they are to be avoided. The user is prompted for information when it is convenient for the program to receive it.
+- **Implementation models** - are systems that impose on the user a set of interactions that follow the inner workings of an application; they are to be avoided. The user is prompted for information when it is convenient for the program to receive it, not when it makes sense to the user.
 
 ## Section 3.8: Interaction Errors
 
