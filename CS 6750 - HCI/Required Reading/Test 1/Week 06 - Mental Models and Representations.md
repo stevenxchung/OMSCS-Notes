@@ -10,7 +10,7 @@ Topic: mental models and metaphors.
 
 One of the most common ways to learn and adapt is through _physical analogy_ or _metaphor_. Physical analogies and metaphors are examples of the more general concept of _mental models_, also known as _conceptual models_.
 
-- **Implementation models** - are systems that impose on the user a set of interactions that follow the inner workings of an application; they are to be avoided
+- **Implementation models** - are systems that impose on the user a set of interactions that follow the inner workings of an application; they are to be avoided. The user is prompted for information when it is convenient for the program to receive it,
 
 ## Section 3.8: Interaction Errors
 
@@ -24,10 +24,11 @@ Another reason little errors tend to linger is that they are often deemed _user 
 
 These errors, like most, are more correctly called _design-induced errors_.
 
-Discard Changes
-CAPS_LOCK
-Scrolling Frenzy
-Focus Uncertainity
+Examples:
+Discard Changes,
+CAPS_LOCK,
+Scrolling Frenzy,
+Focus Uncertainity.
 
 ## Chapter 5: Human Error? No, Bad Design
 
