@@ -20,7 +20,14 @@ Topic: the big errors are the easy ones—they get fixed. It is the small errors
 
 At the end of the day, however, human performance is what counts. Physical properties, although instructive and essential, are secondary.
 
-Another reason little errors tend to linger is that they are often deemed _user errors_, not design, programming, or system errors. These errors, like most, are more correctly called _design-induced errors_.
+Another reason little errors tend to linger is that they are often deemed _user errors_, not design, programming, or system errors. 
+
+These errors, like most, are more correctly called _design-induced errors_.
+
+Discard Changes
+CAPS_LOCK
+Scrolling Frenzy
+Focus Uncertainity
 
 ## Chapter 5: Human Error? No, Bad Design
 
