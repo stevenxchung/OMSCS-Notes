@@ -34,8 +34,9 @@ Model for group ideation:
 3. Selecting
 4. Committing
 
-- **Cheatstorming** - no new ideas are necessary for further ideation to occur
-
+- **Cheatstorming** - no new ideas are necessary for further ideation to occur. Using this technique, previously generated brainstorm ideas are delivered to targeted local contexts without the need for imaginative ideation.
+- **Chainstorming** - online communication brainstorming. Brainstorming performed by passing ideas (and rules) along communication chains.
+- 
 ## Chapter 6: The Process Of Interaction Design
 
 > Rogers, Y., Sharp, H., & Preece, J. (2011). Chapter 6: The Process of Interaction Design. In Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
