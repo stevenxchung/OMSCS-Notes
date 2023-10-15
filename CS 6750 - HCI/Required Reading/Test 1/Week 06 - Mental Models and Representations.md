@@ -25,10 +25,10 @@ Another reason little errors tend to linger is that they are often deemed _user 
 These errors, like most, are more correctly called _design-induced errors_.
 
 Examples:
-Discard Changes,
-CAPS_LOCK,
-Scrolling Frenzy,
-Focus Uncertainity.
+- Discard Changes.
+- CAPS_LOCK.
+- Scrolling Frenzy.
+- Focus Uncertainity.
 
 ## Chapter 5: Human Error? No, Bad Design
 
@@ -46,15 +46,13 @@ Topic: we should treat all failures in the same way: find the fundamental causes
 Slips occur when the goal is correct, but the required actions are not done properly: the exe-
 cution is flawed. Mistakes occur when the goal or plan is wrong.
 
-**Example of an action-based slip:** I poured some milk into my coffee and then put the coffee cup into the refrigerator. This is the correct action applied to the wrong object.
-
-**Example of a memory-lapse slip:** I forget to turn off the gas burner on my stove after cooking dinner.
+- **Example of an action-based slip:** I poured some milk into my coffee and then put the coffee cup into the refrigerator. This is the correct action applied to the wrong object.
+- **Example of a memory-lapse slip:** I forget to turn off the gas burner on my stove after cooking dinner.
 
 Memory lapses can lead to either slips or mistakes, depending upon whether the memory failure was at the highest level of cognition (mistakes) or at lower (subconscious) levels (slips).
 
-**Example of knowledge-based mistake:** Weight of fuel was computed in pounds instead of kilograms.
-
-**Example of memory-lapse mistake:** A mechanic failed to complete troubleshooting because of distraction.
+- **Example of knowledge-based mistake:** Weight of fuel was computed in pounds instead of kilograms.
+- **Example of memory-lapse mistake:** A mechanic failed to complete troubleshooting because of distraction.
 
 Key design principles for errors:
 
