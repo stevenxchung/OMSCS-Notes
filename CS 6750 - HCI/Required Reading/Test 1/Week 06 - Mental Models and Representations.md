@@ -34,12 +34,25 @@ Focus Uncertainity.
 
 > Norman, D. (2013). Chapter 5: Human Error? No, Bad Design. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 162-216). Arizona: Basic Books.
 
+The tendency to stop seeking reasons as soon as a human error has been found is widespread.
+
 Topic: we should treat all failures in the same way: find the fundamental causes and redesign the system so that these can no longer lead to problems.
 
-- **Root cause analysis** - investigate the accident until the single, underlying cause is found
-
-- **Slip** - occurs when a person intends to do one action and ends up doing something else; there are two types: _action-based_ nad _memory-lapse_
+- **Delibrate Violations** - Errors are not the only type of human failures. Sometimes people knowingly take risks. When the outcome is positive, they are often rewarded. When the result is negative, they might be punished.
+- **Root cause analysis** - investigate the accident until the single, underlying cause is found. 'Five Why' method. 
+- **Slip** - occurs when a person intends to do one action and ends up doing something else; there are two types: _action-based_ nad _memory-lapse_, _description-similarity_, _mode_error_, _capture_slip_
 - **Mistake** - occurs when the wrong goal is established or the wrong plan is formed; there are three types: _rule-based_, _knowledge-based_, and _memory-lapse_
+
+Slips occur when the goal is correct, but the required actions are not done properly: the exe-
+cution is flawed. Mistakes occur when the goal or plan is wrong.
+
+**Example of an action-based slip:** I poured some milk into my coffee and then put the coffee cup into the refrigerator. This is the correct action applied to the wrong object.
+**Example of a memory-lapse slip:** I forget to turn off the gas burner on my stove after cooking dinner.
+
+Memory lapses can lead to either slips or mistakes, depending upon whether the memory failure was at the highest level of cognition (mistakes) or at lower (subconscious) levels (slips).
+
+**Example of knowledge-based mistake:** Weight of fuel was computed in pounds instead of kilograms.
+**Example of memory-lapse mistake:** A mechanic failed to complete troubleshooting because of distraction.
 
 Key design principles for errors:
 
