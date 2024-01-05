@@ -34,8 +34,9 @@ Model for group ideation:
 3. Selecting
 4. Committing
 
-- **Cheatstorming** - no new ideas are necessary for further ideation to occur
-
+- **Cheatstorming** - no new ideas are necessary for further ideation to occur. Using this technique, previously generated brainstorm ideas are delivered to targeted local contexts without the need for imaginative ideation.
+- **Chainstorming** - online communication brainstorming. Brainstorming performed by passing ideas (and rules) along communication chains.
+  
 ## Chapter 6: The Process Of Interaction Design
 
 > Rogers, Y., Sharp, H., & Preece, J. (2011). Chapter 6: The Process of Interaction Design. In Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
@@ -77,6 +78,14 @@ Looking at others' designs provides useful inspiration and encourages designers 
 
 The term _life cycle model_ is used to represent a model that captures a set of activities and how they are related.
 
+Unlike the lifecycle models introduced above, the Star lifecycle does not specify any ordering of activities. In fact, the activities are highly interconnected: you can move from any activity to any other, provided you first go through the evaluation activity.
+
+The Star lifecycle model has not been used widely and successfully for large projects in industry because of its extreme flexibility. 
+
+Stake holders of checkout system:
+- Primary: Checkout operators
+- Secondary: Customers
+- Tertiary: Store owners
 ## Observations On Concept Generation And Sketching In Engineering Design
 
 > Yang, M. C. (2009). Observations on concept generation and sketching in engineering design. Research in Engineering Design, 20(1), 1-11.
